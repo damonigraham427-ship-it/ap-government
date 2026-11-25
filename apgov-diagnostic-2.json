@@ -1,0 +1,874 @@
+{
+ "questions": [
+  {
+   "question": "Which of the following most accurately describes voter behavior in the United States?",
+   "choices": [
+    "Persons with white-collar jobs show a higher percentage of participation in elections than those with blue-collar jobs.",
+    "Voters who are not active participants in a religious group are more likely to vote than active members.",
+    "Single people are more likely to participate in elections than those who are married.",
+    "Men are more likely to vote than women.",
+    "The voting population added by the passage of the Twenty-Sixth Amendment shows the highest percentage of participation in U.S. elections."
+   ],
+   "answer": 0,
+   "explanation": "Persons with white-collar jobs and higher income levels are more likely to vote than those with blue-collar jobs and lower income levels. The Twenty-Sixth Amendment lowered the voting age from 21 to 18 years. Voters between the ages of 18 and 21 show a low level of participation in elections (A). Active members of religious groups are more likely to vote than those who rarely attend religious services (B). Today women are more likely to vote than men (C). Married people are more likely to vote than those who are single (D).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q1",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is true about the president’s veto power?",
+   "choices": [
+    "Congress often shows consideration for the president’s veto power by revising a vetoed bill and passing it in a form acceptable to the president.",
+    "A bill that has received a pocket veto may be passed over the pocket veto by a two-thirds majority of both houses of Congress.",
+    "In the 21st century, the president’s veto power was strengthened through the adoption of the line item veto.",
+    "The veto process demonstrates that the president has little power over the legislative branch.",
+    "Presidents whose party is not the dominant party in the House and Senate frequently have a veto overridden by Congress."
+   ],
+   "answer": 0,
+   "explanation": "Congress may alter a bill after it has been overridden by a president’s veto so that the new form is suitable to the president. A bill that has received a pocket veto dies (A). Very few vetoes have been overridden (B). A form of the line item veto (C) was passed by Congress in 1996, but was declared unconstitutional by the Supreme Court. The fact that few vetoed bills are overridden demonstrates the considerable veto power of the president (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q2",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is true of the relationship between demographics and party preference?",
+   "choices": [
+    "Voters below the age of 21 tend to prefer Republican candidates.",
+    "Voters with higher incomes tend to prefer the Democratic Party.",
+    "Voters who own or manage businesses tend to vote Democratic.",
+    "Members of minority groups tend to vote Republican.",
+    "Older Americans tend to vote for Republican candidates."
+   ],
+   "answer": 4,
+   "explanation": "Older Americans tend to be more conservative than younger Americans and, therefore, tend to vote for Republican candidates. Business owners and managers (A), as well as those with higher incomes (D), tend to favor the conservative economic policies of the Republican Party. Members of minority groups tend to favor the domestic policies of the Democratic Party (C). Younger voters tend to prefer the more liberal ideology of the Democrats (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q4",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The U.S. Supreme Court has used the Fourteenth Amendment to do all of the following EXCEPT",
+   "choices": [
+    "apply the Bill of Rights to state and local governments",
+    "deny segregation in the public schools",
+    "protect corporations and other private property",
+    "protect First Amendment freedoms",
+    "defend the institution of slavery"
+   ],
+   "answer": 4,
+   "explanation": "The Fourteenth Amendment granted citizen-ship to blacks, overruling the decision in Dred Scott v. Sanford . The Fourteenth Amendment was used in Brown v. Board of Education to overturn Plessy v. Ferguson and deny segregation in public schools (A). In a series of decisions the Supreme Court has interpreted the Fourteenth Amendment to extend most of the guarantees of the Bill of Rights to state and local governments (B), thus protecting First Amendment freedoms (C). The Court has used the due process clause to protect corporations and other private property (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q5",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Social welfare spending",
+   "choices": [
+    "was extended to more recipients during the Clinton administration",
+    "decreased in the 1930s because of the Great Depression",
+    "increased during Democratic administrations and decreased during Republican adminis-trations",
+    "was restricted to fewer programs during the Johnson administration",
+    "was restricted during the Reagan adminis-tration"
+   ],
+   "answer": 4,
+   "explanation": "Under Reagan’s welfare reform system, benefits were reduced and many recipients removed from welfare rolls. Welfare spending came about as the result of the economic downturn of the Great Depression (A). During the administration of Clinton, a Democrat, welfare spending was reduced by limiting how long a person could receive benefits (B, D). Under the Johnson administration, Great Society programs embraced a wide variety of issues, including health care, school aid, and job training (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q6",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Cases that are appealed to the Supreme Court",
+   "choices": [
+    "cannot be returned to a lower court for reconsideration",
+    "are usually accepted because they involve a significant point of law",
+    "are frequently disposed of in brief orders",
+    "generally result in a reversal of a lower court decision",
+    "must receive the approval of two-thirds of the justices before they are heard"
+   ],
+   "answer": 2,
+   "explanation": "Many cases appealed to the Supreme Court are disposed of in brief orders and returned to the lower court for reconsideration (B) because they are similar to a case recently decided. Appeals to the Supreme Court must receive the approval of four of the five justices (A). Most appeals are denied because justices agree with the decision of the lower court (C) or believe that they do not deal with a significant point of law (D).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q7",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which is true of a concurring opinion of a case heard by the Supreme Court?",
+   "choices": [
+    "It is written by a justice who agrees with the majority opinion, but disagrees with the reasoning behind the majority opinion.",
+    "It requires the submission of an amicus curiae brief.",
+    "It is filed by a justice or justices who disagree with the majority opinion.",
+    "It is an informal poll to determine the opinion of the justices.",
+    "It must be written by the Chief Justice."
+   ],
+   "answer": 0,
+   "explanation": "A justice writing a concurrent opinion differs with the majority only because of the reasoning substantiating the majority opinion (E). The concurrent opinion, therefore, does not need to be written by the Chief Justice (B). A poll to determine how each justice is leaning in his or her opinion takes place during the conference phase of the Court’s deliberation (C). An amicus curiae brief is a statement submitted by an interested party who is not among the attorneys arguing the case (D).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q8",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is true of federalism?",
+   "choices": [
+    "Interstate highway projects are an example of dual federalism.",
+    "Cooperative federalism implies agreement between national and state governments on major social issues.",
+    "Nixon’s revenue sharing plan is an example of fiscal federalism.",
+    "The Founding Fathers interpreted federalism as dual federalism.",
+    "Fiscal federalism involves limited control of the national government over the state."
+   ],
+   "answer": 2,
+   "explanation": "Revenue sharing is an example of fiscal federalism, in which the federal government uses grants to influence the states. The Founding Fathers favored dual federalism, which views the national and state governments each supreme within their own sphere of influence (A). The interstate highway system is an example of cooperative federalism, which involves sharing between the two levels of government (B). Fiscal federalism involves some control over the states by the national government’s granting or withholding money for programs (C). Cooperative federalism may involve differences between the two levels of government. For example, interstate highways were constructed in the South during the civil rights movement, even though the southern states clashed with federal civil rights policies (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q9",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Because of the electoral college system",
+   "choices": [
+    "candidates focus on states with a winner-take-all rule",
+    "candidates focus on states with the largest electoral vote",
+    "the presidential candidate with a plurality in the electoral college wins the election",
+    "the winner of the popular vote for president may not win the election",
+    "the House of Representatives frequently chooses the president"
+   ],
+   "answer": 3,
+   "explanation": "The winner of the popular vote also needs to win the majority of electoral votes to win the election (C). Candidates focus on swing states, where the majority of voters are apt to vote for either major party (A). Elections rarely go into the House of Representatives (D). All states have a winner-take-all rule in apportioning their electoral votes (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q10",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The House committee that controls the conditions for floor consideration of a bill is",
+   "choices": [
+    "the Ways and Means Committee",
+    "the Judiciary Committee",
+    "the Rules Committee",
+    "the Budget Committee",
+    "the Appropriations Committee"
+   ],
+   "answer": 2,
+   "explanation": "The House of Representatives differs from the Senate by having a Rules Committee that sets the conditions for floor debate of a bill. The Rules Committee can facilitate, delay, or prevent House debate.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q11",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "What do the Fifth Amendment and the Fourteenth Amendment have in common?",
+   "choices": [
+    "Both deal with the privileges of citizens.",
+    "Both prevent the government from denying to any person the equal protection of the law.",
+    "Both speak of powers reserved to the states.",
+    "Both prevent government from depriving a person of life, liberty, and property without due process of law.",
+    "Both deal with criminal prosecutions."
+   ],
+   "answer": 3,
+   "explanation": "The Fifth Amendment prevents the federal government from depriving any person of life, liberty, or property without due process of law. The Fourteenth Amendment extends this prohibition to the states. Only the Fifth Amendment deals with criminal prosecutions (C). Only the Fourteenth Amendment deals with the powers reserved to the states (B) and the privileges of citizens (E). The Fourteenth Amendment includes the “equal protection” clause (D).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q12",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which is true of the success of third, or minor, parties? I. Their ideas have often been adopted by major parties. II. They have elected members to Congress. III. They have split the votes for major party candidates.",
+   "choices": [
+    "I and III only",
+    "II and III only",
+    "I, II, and III",
+    "I and II only",
+    "II only"
+   ],
+   "answer": 2,
+   "explanation": "Minor parties have elected a few members to Congress. Often the ideas of minor parties have been adopted into the platform of major political parties. A minor party may capture a percentage of the vote large enough to sway election results.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q13",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The Supreme Court has used the free exercise clause of the First Amendment to",
+   "choices": [
+    "strike down a federal law prohibiting polygamy",
+    "uphold the Religious Freedom Restoration Act of 1993",
+    "rule that school-sanctioned prayer in public schools is unconstitutional",
+    "distinguish between religious belief and religious practice",
+    "require Amish parents to send their children to public school beyond the eighth grade"
+   ],
+   "answer": 3,
+   "explanation": "The Court has ruled that religious belief is absolute, but that religious beliefs may be restricted, especially if those practices conflict with criminal laws. In 1997 the Supreme Court ruled the Religious Freedom Restoration Act unconstitutional (A). The Court used the establishment clause, not the free exercise clause, to rule in Engel v. Vitale that school-sanctioned prayer in public schools is unconstitutional (B). In Reynolds v. United States the Court upheld a federal law that prohibited polygamy (C). In Wisconsin v. Yoder the Court ruled that Wisconsin could not require Amish parents to send their children to public school beyond the eighth grade (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q14",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "When making an appointment to the Supreme Court, presidents",
+   "choices": [
+    "tend to choose judges from their own political party",
+    "tend to ignore race as a consideration for selecting a judge",
+    "remain impartial by refusing candidate endorsements from members of the Supreme Court",
+    "tend to disregard the religious affiliation of potential candidates",
+    "often select a candidate who is neither decidedly liberal nor conservative"
+   ],
+   "answer": 0,
+   "explanation": "Presidents tend to influence the Court by selecting judges from their own political party. Presidents often want to select a candidate who would tend to vote according to the president’s ideological position (B). They often consider race (C) and religious affiliation (E) to provide balance on the court or to satisfy certain segments of society. Presidents may consider endorsements of a particular justice from members of the Supreme Court (D).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q15",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT true concerning the historical development of U.S. political parties?",
+   "choices": [
+    "The period after the Civil War was one of Republican dominance.",
+    "The Republican Party began as a third party.",
+    "Since 1968 the Congress has been controlled by the president’s party.",
+    "States’ rights was a significant issue in the rise of a two-party system.",
+    "The period from 1932 to 1968 was an era of Democratic dominance."
+   ],
+   "answer": 2,
+   "explanation": "Since 1968 U.S. government has been described as divided government, in which one party controls the presidency and the opposing party controls one or both houses of Congress. The earliest Democratic-Republicans, led by Jefferson, favored states’ rights (B). The Republican Party began as a third party based largely on opposition to slavery (C). The period from the time of the New Deal to the Nixon presidency was one of Democratic dominance (D). The period after the Civil War was dominated by Republican presidents (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q17",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Today the chief presidential staff is composed of members of the",
+   "choices": [
+    "White House Office",
+    "Office of Management and Budget",
+    "National Security Council",
+    "Council of Economic Advisors",
+    "Office of Policy Development"
+   ],
+   "answer": 0,
+   "explanation": "The White House Office is made up of personal and political staff members who help with the day-to-day management of the executive branch. The Office of Management and Budget assists the president in the preparation of the annual federal budget (A). The Council of Economic Advisors informs the president about economic developments and problems (C). The National Security Council (D) advises the president on matters of domestic and foreign national security. The Office of Policy Development gives the president advice about domestic policy (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q18",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "All of the following are examples of informal amendments to the Constitution EXCEPT",
+   "choices": [
+    "senatorial courtesy",
+    "congressional override of presidential vetoes",
+    "judicial review",
+    "the creation of lower courts",
+    "the use of executive agreements rather than treaties"
+   ],
+   "answer": 1,
+   "explanation": "Article I of the Constitution provides for congressional override of presidential vetoes. In the Judiciary Act of 1789, Congress created lower courts in the federal system (A). The concept of judicial review resulted from Marbury v. Madison (B). The use of executive agreements rather than treaties allows the president to bypass the Senate (C). Senatorial courtesy is a tradition that has been incorporated into the political system and has lasted over time (D).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q19",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The technology of the 21st century has changed political parties by",
+   "choices": [
+    "decreasing the frequency of split-ticket voting",
+    "creating less diversity within major parties",
+    "increasing the importance of the presidential debate",
+    "illuminating the differences between the major parties",
+    "allowing candidates to become more directly involved with voters"
+   ],
+   "answer": 4,
+   "explanation": "New technology has allowed voters to use the Internet to learn of candidate qualifications rather than relying only on party-generated information. Split-ticket voting (splitting the vote among candidates from more than one party) can be accomplished regardless of technology (A). The power of televised presidential debate was already established by the 1960 election (B). Today there is greater diversity within the major parties (C). Today’s voters often fail to see a difference between the major parties (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q20",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The size of congressional districts is determined every 10 years by",
+   "choices": [
+    "the census",
+    "popular sovereignty",
+    "the electoral college",
+    "gerrymandering",
+    "single-member districts"
+   ],
+   "answer": 0,
+   "explanation": "After results of the census are compiled, congressional districts are redrawn, if necessary, to maintain populations that are nearly equal in each district. Gerrymandering (A) is the drawing of congressional districts to favor one political party or group over another. Single-member districts (B) are voting districts in which only one representative is chosen from each district. Popular sovereignty (D) is rule by the people. The electoral college (E) is a body of representatives from each state who formally cast ballots for the president and vice president.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q21",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a feature that the presidential elections of 1968, 1992, and 2000 share in common?",
+   "choices": [
+    "The elections were decided in the Senate.",
+    "The elections were decided by the Supreme Court.",
+    "The winners received only a plurality of the popular vote.",
+    "Neither candidate in each election won a majority of the electoral vote.",
+    "The elections were decided in the House of Representatives."
+   ],
+   "answer": 2,
+   "explanation": "In all three elections the winning candidates received only a plurality of the popular vote. Nixon in 1968 and Clinton in 1992 won a majority in the electoral college (A). In 2000, George Bush won a majority of the electoral vote only after the Supreme Court prevented a manual recount of votes in Florida in Bush v. Gore (B). Because ultimately all three elections resulted in a majority in the electoral college, they were not decided in the House (E). Presidential elections are not decided in the Senate (C).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q22",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Senatorial courtesy refers to",
+   "choices": [
+    "the practice of allowing senators from the majority party in a state where a federal judicial district is located to approve potential judicial nominees",
+    "the right of members of Congress to send mail to their constituents at the government’s expense",
+    "senatorial immunity from arrest while attending a session in the Senate",
+    "senatorial immunity from libel or slander suits as a result of their official conduct",
+    "the system in which the chairmanship of a committee is given to the senator with the longest continuous service"
+   ],
+   "answer": 0,
+   "explanation": "Choice (A) is the correct definition. Choices (B) and (D) are privileges extended to senators in Article I of the Constitution. Choice (C) is a definition of the franking privilege. Choice (E) is a definition of the seniority system.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q23",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is true of gerrymandering?",
+   "choices": [
+    "It is an effort to draw congressional districts to favor one party or group.",
+    "It violates the principle of the single-member district.",
+    "It is intended to draw congressional districts of unequal size.",
+    "It is a violation of the Fifteenth Amendment.",
+    "It is an attempt to give equal representation for all minority groups."
+   ],
+   "answer": 0,
+   "explanation": "Gerrymandering involves drawing irregular-shaped districts in order to include populations that favor one party or group over another. All congressional districts must include populations of nearly equal size (A). It is not intended to gain equal representation for all minority groups (B). In fact, gerrymandering is a violation of the Fifteenth Amendment if it is based solely on race (E). Gerrymandered districts remain single-member districts (D).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q24",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is among the provisions of the First Amendment?",
+   "choices": [
+    "the right to trial by jury",
+    "the right to bear arms",
+    "the right of protection from unreasonable searches and seizures",
+    "the right of peaceful assembly",
+    "the right to a speedy and public trial"
+   ],
+   "answer": 3,
+   "explanation": "Choice (B) is a provision of the First Amendment. Protection from unreasonable searches and seizures is guaranteed by the Fourth Amendment (A). The right to a speedy and public trial (C) and trial by jury (E) are provisions of the Sixth Amendment. The Second Amendment grants the right to bear arms (D).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q25",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The Supreme Court has used the “wall of separation” principle to",
+   "choices": [
+    "allow prayer in public schools",
+    "prohibit the teaching of evolution in public schools",
+    "require the teaching of creationism in public schools",
+    "allow the use of tax money to purchase textbooks for students in parochial schools",
+    "allow released-time religious instruction outside the public school building"
+   ],
+   "answer": 4,
+   "explanation": "Released-time religious instruction is constitutional if it does not take place within the public school. The Supreme Court has used the “wall of separation” principle to forbid prayer in public schools (A). It has struck down laws that prohibit the teaching of evolution (B) and that require giving equal time to the teaching of creationism (C). The Supreme Court has ruled that the Constitution denies the government the right to spend tax money to support religious institutions (D).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q26",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Interest groups attempt to influence members of Congress by all of the following EXCEPT",
+   "choices": [
+    "utilizing political action committees (PACs)",
+    "influencing party platforms",
+    "taking an issue to court",
+    "nominating candidates for public office",
+    "appealing to the public for support"
+   ],
+   "answer": 3,
+   "explanation": "Only political parties nominate candidates for public office. Choices (B), (C), (D), and (E) are all among the strategies typically used by interest groups.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q27",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Scientific polling includes I. controlling how the poll is taken II. sampling III. formulating public policy IV. analyzing and reporting results",
+   "choices": [
+    "I, II, and IV only",
+    "II and III only",
+    "II and IV only",
+    "I, III, and IV only",
+    "I, II, III, and IV"
+   ],
+   "answer": 0,
+   "explanation": "Scientific polling includes sampling, controlling how the poll is taken, and analyzing and reporting results. It is not used to formulate public policy.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q28",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "All of the following relate to interstate relations EXCEPT",
+   "choices": [
+    "revenue sharing",
+    "interstate compacts",
+    "full faith and credit",
+    "extradition",
+    "privileges and immunities"
+   ],
+   "answer": 0,
+   "explanation": "Revenue sharing is aid given to state and local governments by the national government. Interstate compacts (A) are agreements between states to work together to solve regional problems. The privileges and immunities clause of the Constitution (B) prohibits states from unreasonably discriminating against residents of other states. Extradition (C) is the provision that states may return fugitives to a state from which they have fled to avoid criminal prosecution at the request of the governor of the state. The full faith and credit clause of the Constitution (E) requires states to recognize the laws and legal documents of other states.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q29",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following reflect(s) the principles of the Fifteenth Amendment? I. The Twenty-Fourth Amendment II. The Civil Rights Act of 1957 III. Brown v. Board of Education IV. The Voting Rights Act of 1965",
+   "choices": [
+    "I only",
+    "I, II, and IV",
+    "II, III, and IV",
+    "I, II, III, and IV",
+    "III only"
+   ],
+   "answer": 1,
+   "explanation": "The Fifteenth Amendment provided that no person could be denied the right to vote based on race or the fact that he was once a slave. The Twenty- Fourth Amendment outlawed poll taxes in federal elections. The use of the poll tax was a strategy designed to keep blacks from voting. Brown v. Board of Education dealt with segregation in the public schools, not voting. The Civil Rights Act of 1957 made it a crime to prevent a person from voting in federal elections and created the Civil Rights Division within the Justice Department. The Voting Rights Act of 1965 allowed federal registrars to register voters and outlawed literacy tests in voter registration. Literacy tests had been used by local registrars to keep blacks from voting.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q30",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT true concerning the vice presidency?",
+   "choices": [
+    "The vice president helps determine presidential disability.",
+    "The vice president casts tie-breaking votes in the Senate.",
+    "A party’s vice presidential nominee is often chosen to balance the ticket.",
+    "The vice president may serve no more than two terms.",
+    "Since the 1960s the vice president has often been given a larger role in government."
+   ],
+   "answer": 3,
+   "explanation": "The number of terms a vice president serves is not limited. Under the Twenty-Fifth Amendment, the vice president helps determine presidential disability (B). The vice presidential nominee is often chosen in order to provide geographical or ideological balance to the ticket (C). Since the Kennedy assassination, more attention has been focused on the vice president (D). The vice president presides over the Senate, casting the tie- breaking vote if necessary (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q31",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "In Gideon v. Wainwright (1963), the U.S. Supreme Court declared that",
+   "choices": [
+    "state courts must provide an attorney to poor defendants accused of a felony",
+    "searches of criminal subjects are constitutional",
+    "suspects in police custody must be informed of their rights",
+    "the death penalty is constitutional when it is imposed based on the circumstances of the case",
+    "evidence obtained without a search warrant is excluded from trial in state courts"
+   ],
+   "answer": 0,
+   "explanation": "In Gideon v. Wainwright the Court ruled that, in state trials, those who cannot afford an attorney would have one provided by the state. Choice (A) refers to Miranda v. Arizona. Choice (C) refers to Gregg v. Georgia. Choice (D) pertains to Mapp v. Ohio. Choice (E) refers to Terry v. Ohio.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q32",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT a constitutional check on the powers of the president?",
+   "choices": [
+    "power of impeachment",
+    "judicial review of executive actions",
+    "executive agreements",
+    "power of the purse",
+    "override of presidential vetoes"
+   ],
+   "answer": 2,
+   "explanation": "Executive agreements are made by the president with other heads of state and are not subject to Senate ratification. The power of the purse (A) requires that agency budgets be authorized and appropriated by Congress. The power of impeachment (C) is a check of the legislative branch over the executive branch. Congress may override a presidential veto by a two-thirds majority of both houses (D). The Supreme Court has the power to review and declare unconstitutional the actions of the executive branch (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q33",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Initiative, referendum, and recall",
+   "choices": [
+    "are examples of issue, or policy, voting",
+    "allow citizens to nominate candidates",
+    "exist at both the national and state levels",
+    "were eliminated in the Voting Rights Act of 1965",
+    "emerged as a result of the civil rights movement"
+   ],
+   "answer": 0,
+   "explanation": "Recall is a special election to allow citizens to remove an official from office before his or her term expires. Initiative allows voters to petition to propose issues to be decided by voters. Referendum allows citizens to vote directly on issues called propositions. They do not exist at the national level (B) and are a result of the Progressive Movement (C). A direct primary allows citizens to nominate candidates (D). They were not eliminated by the Voting Rights Act of 1965 (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q34",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Under a single-member district electoral system",
+   "choices": [
+    "election results are based on proportional representation",
+    "public officials are elected in a winner-take-all arrangement",
+    "minor parties are strengthened",
+    "the traditional two-party system is weakened",
+    "major parties have less chance of winning than under proportional representation"
+   ],
+   "answer": 1,
+   "explanation": "In a single-member district the individual who receives the most votes is elected from that district or state. Minor parties tend to die out or blend with major parties (B). Election results are not proportional (C). Only major parties have a real chance to win seats in the legislature (D), thus strengthening the existence of the two-party system (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q35",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Under the system of checks and balances",
+   "choices": [
+    "federal court decisions are absolute",
+    "the vice president presides over the impeachment trial of the president",
+    "the judiciary creates lower federal courts",
+    "the president may pardon federal offenders",
+    "the House of Representatives confirms judicial appointments"
+   ],
+   "answer": 3,
+   "explanation": "The presidential pardon is a check on the judicial branch. The Chief Justice of the Supreme Court presides over the impeachment trial of the president (A). The Congress creates lower federal courts (C). The Senate confirms judicial appointments (D). The Congress may propose constitutional amendments that override Court decisions (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q36",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "All of the following are true of jurisdiction in federal courts EXCEPT",
+   "choices": [
+    "Appellate jurisdiction applies to courts that hear reviews or appeals of decisions from the lower courts.",
+    "The Supreme Court does not have original jurisdiction.",
+    "Concurrent jurisdiction allows certain types of cases to be tried in either federal or state courts.",
+    "District courts have original jurisdiction.",
+    "The Supreme Court has appellate jurisdiction."
+   ],
+   "answer": 1,
+   "explanation": "The Supreme Court has original jurisdiction in cases affecting ambassadors, other public ministers, and consuls, and in cases in which a state is a party. All other answer choices are true.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q37",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is true regarding the federal court system?",
+   "choices": [
+    "Supreme Court decisions set precedent.",
+    "Lower courts interpret the law more frequently than appellate courts do.",
+    "The size of the Supreme Court is perma-nently set at eight justices and a Chief Justice.",
+    "Federal judges can serve for unlimited terms of office.",
+    "Senatorial courtesy plays a key role in the nomination of judges to the Courts of Appeals."
+   ],
+   "answer": 0,
+   "explanation": "Supreme Court decisions often set precedent for future court decisions. Since circuits of the Courts of Appeals cover a wide geographic region, individual senators have less influence and senatorial courtesy does not play a role in nominations (A). Congress has the power to change the number of justices (B). Federal judges are appointed to serve “during good behavior,” which generally means for life (C). Appellate courts are more likely than lower courts to interpret the law (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q38",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The president can do which of the following without asking the consent of either house of Congress?",
+   "choices": [
+    "fill a vacancy in the vice presidency",
+    "appoint Supreme Court justices",
+    "appoint ambassadors",
+    "issue an executive order",
+    "negotiate treaties"
+   ],
+   "answer": 3,
+   "explanation": "An executive order is a directive issued by the president; it has the force of law. The president may negotiate treaties, but treaties must be ratified by a two-thirds vote of the Senate (C). The appointments mentioned in choices (B), (D), and (E) require Senate approval.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q39",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which is true regarding presidential veto power?",
+   "choices": [
+    "Since the Clinton administration, the Congress has given the president the line item veto.",
+    "The president may prevent a bill from becoming law without going through a congressional override attempt.",
+    "Veto power has not been a significant source of power for the modern presidency.",
+    "The Constitution permits the use of the line item veto.",
+    "Presidential vetoes are frequently overridden."
+   ],
+   "answer": 1,
+   "explanation": "If a president chooses to pocket veto a bill, it cannot be overridden by Congress. The Congress seldom overrides a presidential veto (B). In 1996, Congress allowed line item vetoes for appropriations bills. In 1998 the Supreme Court declared this line item veto unconstitutional (C). The Constitution does not mention the line item veto (D). Today even the threat of a veto is sufficient to prompt Congress to pass legislation acceptable to the president (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q40",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "According to traditional democratic theory, government is dependent upon",
+   "choices": [
+    "a system of several strong groups",
+    "bureaucrats",
+    "interest groups",
+    "a powerful elite",
+    "the consent of the governed"
+   ],
+   "answer": 4,
+   "explanation": "Traditional democratic theory states that government depends on the consent of the governed, given directly or through representatives. Choice (A) describes Max Weber’s bureaucratic theory. Choice (B) describes hyperpluralism. Choice (C) defines the pluralist theory, while (E) describes the elite theory of C. Wright Mills.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q41",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is true regarding government spending?",
+   "choices": [
+    "Student loans are an example of non-discretionary spending.",
+    "Expenditures to support troop deployment in the Iraqi War are considered nondiscretionary spending.",
+    "Discretionary spending includes interest on the national debt.",
+    "Entitlements are categorized as nondiscretionary spending.",
+    "In recent years, both discretionary and nondiscretionary spending have increased."
+   ],
+   "answer": 3,
+   "explanation": "Entitlements, including programs such as Medicare, Medicaid, and food stamps, are examples of nondiscretionary spending, or spending required by existing laws for current programs. In recent years the percentage of nondiscretionary spending has increased while the percentage of discretionary spending has increased (B). Student loans are an example of discretionary spending (D). Interest on the national debt is mandatory, or nondiscretionary spending. Defense spending is considered nondiscretionary (A).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q42",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The media perform all the following functions EXCEPT",
+   "choices": [
+    "serving as an investigator of personalities",
+    "formulating public policy",
+    "providing a link between citizens and the government",
+    "agenda setting by influencing what subjects become significant nationally",
+    "shaping public opinion"
+   ],
+   "answer": 1,
+   "explanation": "Formulating public policy is a function of the government. The other choices are examples of the roles of the media.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q43",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is required under federal election law?",
+   "choices": [
+    "Congressional districts must be drawn to include approximately equal numbers of voters from the major parties.",
+    "Prospective voters must pay a fee at the time of registration.",
+    "A written exam on the Constitution is required in order to register to vote.",
+    "Citizens must register to vote within 30 days after they reach the age of 18.",
+    "Ballots in the language of the population are required in areas with large linguistic minorities."
+   ],
+   "answer": 4,
+   "explanation": "In areas where a significant portion of the population uses a language other than English, voting materials must also be printed in that language. Written exams (A) and poll taxes are prohibited by the Voting Rights Act of 1965 and the Twenty-Fourth Amendment (E). Citizens must be registered before the election (C). Congressional districts must be drawn to contain approximately equal numbers of voters (D).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q44",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT an example of domestic policy?",
+   "choices": [
+    "crime prevention",
+    "health care",
+    "the environment",
+    "energy",
+    "defense"
+   ],
+   "answer": 4,
+   "explanation": "Domestic policy refers to the social policies of the United States in the areas of crime prevention, education, energy, the environment, health care, and social welfare.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q45",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a reserved power under the U.S. Constitution?",
+   "choices": [
+    "making all laws that are “necessary and proper”",
+    "establishment of federal courts below the Supreme Court",
+    "regulation of immigration",
+    "regulation of interstate commerce",
+    "establishment of public school systems"
+   ],
+   "answer": 4,
+   "explanation": "Reserved powers are those powers, such as the establishment of public school systems, that have been reserved to the states. The remaining answer choices are powers of the national government.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q46",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Of the following, the strongest influence in a person’s political socialization is",
+   "choices": [
+    "religion",
+    "income",
+    "education",
+    "family",
+    "ethnicity"
+   ],
+   "answer": 3,
+   "explanation": "Political socialization is the process by which citizens acquire a sense of political identity. Although all answer choices contribute to political socialization, the influence of the family is the strongest.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q47",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The flag-burning case of Texas v. Johnson (1989) was based on the provisions of",
+   "choices": [
+    "the Fifth Amendment and judicial review",
+    "the Second Amendment and due process",
+    "the Second Amendment and the Establishment Clause",
+    "the First Amendment and judicial review",
+    "the Fifth Amendment and the Free Exercise Clause"
+   ],
+   "answer": 3,
+   "explanation": "In Texas v. Johnson , the Supreme Court, ruling through the First Amendment guarantee of freedom of speech and through judicial review, declared that flag burning is a form of symbolic speech and, therefore, is protected. The Second Amendment (A, C) guarantees the right to bear arms. The Fifth Amendment guarantees due process (A, B). The Establishment Clause and the Free Exercise Clause are associated with the First Amendment guarantee of freedom of religion (C, D).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q48",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Compared to the U.S. Constitution, the Articles of Confederation",
+   "choices": [
+    "based representation in the Congress on population",
+    "allowed only the national government to coin money",
+    "created a stronger national judiciary",
+    "allowed the Congress stronger authority over interstate and foreign commerce",
+    "reserved more power to the states"
+   ],
+   "answer": 4,
+   "explanation": "While the Constitution created a strong national government, the Articles created a “league of friendship” among the states. Under the Articles, each state had one vote, regardless of population (A). The Articles did not provide for a national judiciary (B). Both the states and the national government could coin money (D). Congress could not regulate interstate trade or foreign commerce (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q49",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "In the debate over the ratification of the U.S. Constitution, the Anti- Federalists I. feared a strong national government II. wanted the addition of a Bill of Rights III. wanted expanded legislative powers IV. opposed states’ rights",
+   "choices": [
+    "III and IV only",
+    "I, II, III, and IV",
+    "I and II only",
+    "I and III only",
+    "II only"
+   ],
+   "answer": 2,
+   "explanation": "The Anti-Federalists believed that the strong national government provided by the Constitution reserved too few powers to the states. They also believed the Constitution did not explicitly guarantee basic rights and, therefore, favored the addition of a Bill of Rights. The Anti-Federalists were against the expansion of legislative powers provided by the Constitution.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q50",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a difference between the House of Representatives and the Senate?",
+   "choices": [
+    "There is limited debate in the Senate but not in the House.",
+    "Revenue bills must originate in the House of Representatives.",
+    "Filibusters are more common in the House.",
+    "Representation in the Senate is by population, whereas representation in the House is equal for all states.",
+    "Impeachment charges are drawn up only by the Senate."
+   ],
+   "answer": 1,
+   "explanation": "Article I of the Constitution provides that all bills regarding revenue must originate in the House. The Senate’s rules provide for unlimited debate (B). Filibusters, therefore, occur only in the Senate. A filibuster is a lengthy speech designed to delay the vote on a bill (D). Impeachment charges are drawn up only by the House (C). While representation in the House is by population, representation in the Senate is equal for each state (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q51",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "All of the following are checks on the power of the legislative branch EXCEPT",
+   "choices": [
+    "The president may recommend legislation.",
+    "The president may veto acts of Congress.",
+    "The president may appropriate funds for proposed legislation.",
+    "The courts may rule legislative acts unconstitutional.",
+    "The president may call special sessions of Congress."
+   ],
+   "answer": 2,
+   "explanation": "Only the legislative branch may appropriate funds. The other answer choices are all correct.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q52",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "A vote of cloture ends",
+   "choices": [
+    "house debate",
+    "logrolling",
+    "filibusters",
+    "lobbying",
+    "riders"
+   ],
+   "answer": 2,
+   "explanation": "Cloture is used to end a filibuster; it requires a vote of at least 60 senators. Logrolling (A) is an attempt by members of Congress to gain support of other members in return for their support of the members’ legislation. House debate already is limited under the House Rules Committee (C). Lobbying (E) is the attempt to influence members of Congress to support or reject legislation.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q53",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "A proposal to change the child credit allowance in the federal tax code would initially be sent to",
+   "choices": [
+    "the Senate Budget Committee",
+    "the House Rules Committee",
+    "the House Appropriations Committee",
+    "the House Ways and Means Committee",
+    "the Senate Finance Committee"
+   ],
+   "answer": 3,
+   "explanation": "The House Ways and Means Committee deals with changes in the tax code. Because all revenue bills must originate in the House, choices (B) and (D) are incorrect. The House Rules Committee decides whether the full House will consider a proposed bill after the proposal has made it out of committee (C). The House Appropriations Committee decides how revenue is appropriated or allowed for each proposal in the various committees (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q54",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "All of the following are true of political action committees (PACs) EXCEPT",
+   "choices": [
+    "They must promote multiple causes.",
+    "They must donate to several candidates.",
+    "They arise out of campaign finance reforms.",
+    "They are political arms of interest groups.",
+    "They must raise money from multiple contributors."
+   ],
+   "answer": 0,
+   "explanation": "PACs are not required to promote multiple causes. They arose from the campaign finance reforms of the 1970s (B). Choices (A), (D), and (E) are true of political action committees.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q55",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "If the president is unable to perform the duties of his office",
+   "choices": [
+    "the president cannot resume the duties of his or her office without a two-thirds vote of both houses of Congress",
+    "only the vice president informs Congress of the president’s disability",
+    "only the Secretary of State informs Congress that the president is disabled",
+    "the president, vice president, and cabinet members inform the Congress of the president’s disability",
+    "only the vice president actually becomes president"
+   ],
+   "answer": 3,
+   "explanation": "The president informs Congress of this disability. The vice president and the majority of the cabinet then inform Congress, in writing, of the president’s disability (B, C). The vice president becomes only “acting president” (A). The president may resume his or her duties upon informing Congress that no disability exists. If the vice president and a majority of the cabinet disagree, Congress has 21 days to decide the issue by a two-thirds vote of both houses (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q56",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT a value of U.S. democratic political culture?",
+   "choices": [
+    "majority rule/minority rights",
+    "compromise",
+    "political equality",
+    "absolute government",
+    "private property"
+   ],
+   "answer": 3,
+   "explanation": "In the United States, the powers of government are restricted by the will of the people. Compromise (A) allows for the combining of different interests and opinions to form public policy that benefits society. Political equality (C) is the equality of every individual before the law. Private property (D) is protected by law and supported by the capitalist system. Although democracy is based upon majority rule, minority rights must be guaranteed (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q57",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is true of U.S. elections?",
+   "choices": [
+    "“Soft money” refers to unregulated donations to political parties.",
+    "Voter turnout in off-year elections is generally higher than during presidential election years.",
+    "Dealigning elections occur with an increase in independents and split- ticket voting.",
+    "Single people are more likely to vote than married people.",
+    "The coattail effect often occurs during off-year elections."
+   ],
+   "answer": 2,
+   "explanation": "Dealigning elections occur when party loyalty becomes less important to voters, as may be seen with the increase in independent and split-ticket voting. The coattail effect (A) allows lesser-known or weaker candidates from the presidential candidate’s party to win by riding the “coattails” of the nominee. It occurs only during presidential election years. Married people are more likely to vote than single people (B). “Soft money” (D) is restricted by the Bipartisan Campaign Reform Act of 2002. Voter turnout is generally higher in presidential election years (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q58",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "All of the following are true of Roe v. Wade EXCEPT",
+   "choices": [
+    "It prompted right-to-life advocates to pressure presidents and senators to appoint Supreme Court justices who opposed the Court’s decision.",
+    "It is based on the Supreme Court’s doctrine of the right to privacy.",
+    "After the decision, state legislatures passed laws limiting abortions.",
+    "It ruled that states cannot prohibit abortions.",
+    "After the decision, Congress did not propose a constitutional amendment banning abortion."
+   ],
+   "answer": 3,
+   "explanation": "In Roe v. Wade the Court ruled that states may prohibit an abortion during the last three months of pregnancy. The other answer choices are true regarding Roe v. Wade.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q59",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "A constitutional right that persons who have been arrested must be informed of the charges against them is called",
+   "choices": [
+    "a bill of attainder",
+    "double jeopardy",
+    "a writ of habeas corpus",
+    "an ex post facto law",
+    "prior restraint"
+   ],
+   "answer": 2,
+   "explanation": "A writ of habeas corpus requires a judge to evaluate whether there is sufficient cause to keep a person in jail. An ex post facto law (A) is one applied to acts committed before the law’s passage. Prior restraint (B) is the censorship of information before it is published or broadcast. Double jeopardy (C) involves being tried twice for the same offense. A bill of attainder (E) prohibits a person from being found guilty of a crime without a trial.",
+   "source": "AP U.S. Government · Diagnostic Exam 2, Q60",
+   "topic": "Diagnostic Exam 2",
+   "topic_n": 1
+  }
+ ]
+}

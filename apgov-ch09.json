@@ -1,0 +1,154 @@
+{
+ "questions": [
+  {
+   "question": "Which of the following best describes a multi-party system?",
+   "choices": [
+    "Membership in the party of choice is not generally voluntary.",
+    "There is usually a general consensus of agreement as to basic principles of government.",
+    "Minor parties have little effect on most elections.",
+    "Multi-party systems usually give the voters meaningful choices.",
+    "Parties tend to avoid extreme ideologies."
+   ],
+   "answer": 3,
+   "explanation": "Multi-party systems tend to give voters a greater variety of major and minor party candidate choices. As a result, minor parties may affect elections (E). Party membership is voluntary (A). Parties represent a wide variety of ideologies (D). Multi-party systems often result in government by coalition, indicating a general lack of consensus (B).",
+   "source": "AP U.S. Government · Chapter 9 Review, Q1",
+   "topic": "Political Parties",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT a responsibility of a political party?",
+   "choices": [
+    "recruit candidates",
+    "represent special interests",
+    "raise campaign money",
+    "educate voters",
+    "organize the government"
+   ],
+   "answer": 1,
+   "explanation": "Interest groups, not political parties, represent special interests. The other answer choices represent roles of political parties.",
+   "source": "AP U.S. Government · Chapter 9 Review, Q2",
+   "topic": "Political Parties",
+   "topic_n": 1
+  },
+  {
+   "question": "The Republican and Democratic parties have dominated the political scene throughout American history. Minor parties have often surfaced to fill the void left by the major parties. A splinter minor party can best be characterized by",
+   "choices": [
+    "the permanence of its presence on the political scene",
+    "the fact that it is the result of a revolt within a major party",
+    "its presence during times of economic discontent",
+    "the single issues supported by the party",
+    "the fact that it is usually built around the working-class American"
+   ],
+   "answer": 1,
+   "explanation": "Splinter parties usually develop around a personality (A) within a major party. They split from that party when their candidate fails to receive the party nomination. A splinter party may disappear when their leader steps aside (C). Splinter parties are not often associated with the working class or with times of economic distress. An example is Theodore Roosevelt’s Progressive Party (B, D).",
+   "source": "AP U.S. Government · Chapter 9 Review, Q3",
+   "topic": "Political Parties",
+   "topic_n": 1
+  },
+  {
+   "question": "The Republicans dominated party politics during which span of years?",
+   "choices": [
+    "1800–1860",
+    "1860–1932",
+    "1932–1968",
+    "1968–present",
+    "1789–1800"
+   ],
+   "answer": 1,
+   "explanation": "Republicans often controlled Congress and the executive branch between 1860 and 1932. The years from 1800 to 1860 (D) and 1932 to 1968 (B) were eras of Democratic dominance. The period of 1968 to the present has been characterized by divided government (C). The period from 1789 to 1800 was one of party development (E).",
+   "source": "AP U.S. Government · Chapter 9 Review, Q4",
+   "topic": "Political Parties",
+   "topic_n": 1
+  },
+  {
+   "question": "The national convention serves what major purpose for a political party?",
+   "choices": [
+    "to establish the rules of party campaigning",
+    "to serve as the party’s national voice in the selection of the party’s candidate",
+    "to allow the people to direct the work of the national committee through a system of national participation",
+    "to manage the political party’s business by the vote of party constituents",
+    "to allow the political party to meet as a whole in order to raise funds, recruit new members, and encourage unity within the party"
+   ],
+   "answer": 1,
+   "explanation": "Two major functions of the national convention are to write the party platform and to nominate the party’s candidates for president and vice president. The national committee directs the party (A) and its campaign (B), manages the party’s business (D), and promotes party unity and fundraising (E).",
+   "source": "AP U.S. Government · Chapter 9 Review, Q5",
+   "topic": "Political Parties",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following best describes state party organizations?",
+   "choices": [
+    "They are subject to their own jurisdiction according to party doctrines.",
+    "Their funding has been affected by campaign reform law.",
+    "They are independent of the national party.",
+    "They have the same organizational structures in all states because they are regulated by state law.",
+    "They are determined and organized by the national party in accordance with national law."
+   ],
+   "answer": 1,
+   "explanation": "State parties have often received soft money from the national organization. In 2002 the use of soft money was restricted by the Bipartisan Campaign Reform Act.",
+   "source": "AP U.S. Government · Chapter 9 Review, Q6",
+   "topic": "Political Parties",
+   "topic_n": 1
+  },
+  {
+   "question": "Membership in an American political party is voluntary and based on party identification. Which factors influence party identification? I. education II. gender III. public opinion",
+   "choices": [
+    "III only",
+    "I and II only",
+    "I and III only",
+    "I only",
+    "II only"
+   ],
+   "answer": 1,
+   "explanation": "Education and gender are two of the several factors that influence party identification. Public opinion develops in part from party identification.",
+   "source": "AP U.S. Government · Chapter 9 Review, Q7",
+   "topic": "Political Parties",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following best describes the structure and organization of a political party?",
+   "choices": [
+    "The president plays no role in party leadership after his election.",
+    "After election day they are usually less responsible to the people.",
+    "They are close-knit and very organized.",
+    "They are highly decentralized or fragmented.",
+    "During the founding of our country, both parties organized in the same manner, along the same lines, and with the same political ideas in mind."
+   ],
+   "answer": 3,
+   "explanation": "Political parties tend to be highly decentralized and fragmented (A), especially at the national level and when no election is immediate. The president is the party leader after his or her election (D). Early political parties reflected different political ideas (E). After election day, political parties continue to communicate with their registered members through party mailings (C).",
+   "source": "AP U.S. Government · Chapter 9 Review, Q8",
+   "topic": "Political Parties",
+   "topic_n": 1
+  },
+  {
+   "question": "The shifting of voting patterns and formation of new coalitions of party supporters is known as",
+   "choices": [
+    "divided government",
+    "alignment",
+    "party positioning",
+    "realignment",
+    "dealignment"
+   ],
+   "answer": 3,
+   "explanation": "Realignment creates new voting coalitions, such as the New Deal coalition that elected Franklin Roosevelt in 1932.",
+   "source": "AP U.S. Government · Chapter 9 Review, Q9",
+   "topic": "Political Parties",
+   "topic_n": 1
+  },
+  {
+   "question": "The future of political parties in the United States is uncertain due to I. decline of third-party challenges II. perceived differences between the parties III. increase in split-ticket voting IV. lack of party reform",
+   "choices": [
+    "I, II, and IV only",
+    "II and III only",
+    "I only",
+    "I and III only",
+    "III only"
+   ],
+   "answer": 4,
+   "explanation": "The future of political parties is uncertain because of the increase in split-ticket voting, an increase in third-party challenges, a lack of perceived differences between the parties, and an increase in party reforms.",
+   "source": "AP U.S. Government · Chapter 9 Review, Q10",
+   "topic": "Political Parties",
+   "topic_n": 1
+  }
+ ]
+}

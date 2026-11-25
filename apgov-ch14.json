@@ -1,0 +1,154 @@
+{
+ "questions": [
+  {
+   "question": "Under the guidelines of the Constitution, which of the following is NOT within the jurisdiction of the federal courts?",
+   "choices": [
+    "cases involving territories",
+    "treaties",
+    "cases involving interpretation of state constitutions",
+    "cases involving interpretation of the federal Constitution",
+    "cases involving federal law"
+   ],
+   "answer": 2,
+   "explanation": "Cases involving state constitutions are heard in state courts, not federal courts. The other answer choices are within the jurisdiction of the federal courts.",
+   "source": "AP U.S. Government · Chapter 14 Review, Q1",
+   "topic": "The National Judiciary",
+   "topic_n": 1
+  },
+  {
+   "question": "Federal courts created by Congress under Article III of the Constitution include the Supreme Court, district courts, the Courts of Appeals, Court of Appeals for the Federal Circuit, and the U.S. Court of International Trade. These courts can best be described as",
+   "choices": [
+    "legislative courts",
+    "constitutional courts",
+    "original courts",
+    "territorial courts",
+    "inferior courts"
+   ],
+   "answer": 1,
+   "explanation": "Constitutional courts include the Supreme Court, district courts, the Courts of Appeals, the Court of Appeals for the Federal Circuit, and the U.S. Court of International Trade. Legislative courts (A) hear cases arising from the powers given to Congress under Article I. Territorial courts (B) are a type of legislative court. There are courts with original jurisdiction, but there are no courts termed “original courts” (D). Inferior courts (E) are federal courts below the Supreme Court.",
+   "source": "AP U.S. Government · Chapter 14 Review, Q2",
+   "topic": "The National Judiciary",
+   "topic_n": 1
+  },
+  {
+   "question": "What type of jurisdiction does the Supreme Court have? I. original II. appellate III. concurrent",
+   "choices": [
+    "I only",
+    "III only",
+    "I and II",
+    "II only",
+    "I, II, and III"
+   ],
+   "answer": 2,
+   "explanation": "The Supreme Court has both original and appellate jurisdiction.",
+   "source": "AP U.S. Government · Chapter 14 Review, Q3",
+   "topic": "The National Judiciary",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following best describes the formal qualifications for a federal judge?",
+   "choices": [
+    "They serve at the discretion of the Congress.",
+    "The president appoints them with the approval of the House of Representatives.",
+    "They serve at the discretion of the president.",
+    "They have no formal qualification other than being a loyal follower of the president.",
+    "They serve “during good behavior.”"
+   ],
+   "answer": 4,
+   "explanation": "There are no constitutional (formal) qualifications for federal judges (E). They are appointed by the president with confirmation by the Senate (B) and serve during “good behavior” (A, C, D).",
+   "source": "AP U.S. Government · Chapter 14 Review, Q4",
+   "topic": "The National Judiciary",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following has little bearing when the president makes an appointment to the Supreme Court?",
+   "choices": [
+    "judicial experience",
+    "judicial philosophy",
+    "party affiliation",
+    "“litmus test”",
+    "likability"
+   ],
+   "answer": 4,
+   "explanation": "The nominee’s personality is not a primary consideration in the nomination process. The president may consider party affiliation (A), judicial philosophy (B), and judicial experience (E) when appointing justices to the Supreme Court. A “litmus test” may also serve as a gauge of the nominee’s purity toward a liberal or conservative stand on certain issues (D).",
+   "source": "AP U.S. Government · Chapter 14 Review, Q5",
+   "topic": "The National Judiciary",
+   "topic_n": 1
+  },
+  {
+   "question": "Who was the first president to appoint an African American to the Supreme Court?",
+   "choices": [
+    "Ronald Reagan",
+    "Lyndon Johnson",
+    "John Kennedy",
+    "Jimmy Carter",
+    "Richard Nixon"
+   ],
+   "answer": 1,
+   "explanation": "In 1967 Lyndon Johnson appointed Thurgood Marshall, who became the first African American on the Supreme Court.",
+   "source": "AP U.S. Government · Chapter 14 Review, Q6",
+   "topic": "The National Judiciary",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following terms best describes the Supreme Court’s issuance of an order directing a lower court to send up its record for review?",
+   "choices": [
+    "writ of certiorari",
+    "rule of four",
+    "certificate",
+    "amicus curiae",
+    "brief order"
+   ],
+   "answer": 0,
+   "explanation": "A writ of certiorari is a court order directing a lower court to send up the records of a case for review. A certificate (A) is an appeal in which a lower court asks the Supreme Court about a rule of law or procedures. The rule of four (B) means that, in order for a case to be considered by the Supreme Court, four of the nine justices must agree to hear the case. An amicus curiae brief (C) is a statement written by interested parties to a court case. A brief order (E) is a document issued by the Supreme Court that returns a case to a lower court for reconsideration.",
+   "source": "AP U.S. Government · Chapter 14 Review, Q7",
+   "topic": "The National Judiciary",
+   "topic_n": 1
+  },
+  {
+   "question": "The majority opinion, issued by the Supreme Court as the final decision of a case, becomes the standard or guide that will be followed in deciding similar cases in the future. This standard or guide is known as a",
+   "choices": [
+    "precedent",
+    "brief",
+    "argument",
+    "poll of the court",
+    "decision"
+   ],
+   "answer": 0,
+   "explanation": "A precedent is a standard used by the courts to decide similar cases. A brief (B) is a detailed statement of the facts of a case supporting a particular position. An argument (C) is the presentation of a case before a court. A decision (D) is the final ruling of a court. A poll of the court (E) occurs in conference to determine how each justice is leaning in the case.",
+   "source": "AP U.S. Government · Chapter 14 Review, Q8",
+   "topic": "The National Judiciary",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following courts was first known for narrowing the rights of defendants?",
+   "choices": [
+    "Burger Court",
+    "New Deal Court",
+    "Nixon Court",
+    "Warren Court",
+    "Rehnquist Court"
+   ],
+   "answer": 0,
+   "explanation": "The Supreme Court under Chief Justice Warren Burger was the first to narrow the rights of defendants after those rights were broadened under the Warren Court (A). The Rehnquist Court (B) continued to narrow the rights of defendants. The New Deal Court (D) focused on consideration of laws designed to end the Great Depression. There was no Nixon Court (E).",
+   "source": "AP U.S. Government · Chapter 14 Review, Q9",
+   "topic": "The National Judiciary",
+   "topic_n": 1
+  },
+  {
+   "question": "The judicial philosophy that advocates the courts’ active role in policymaking is called",
+   "choices": [
+    "loose constructionist",
+    "strict constructionist",
+    "liberalism",
+    "judicial restraint",
+    "judicial activism"
+   ],
+   "answer": 4,
+   "explanation": "The philosophy of judicial activism advocates policymaking by the courts. A strict constructionist (A) view holds that justices should base decisions on a narrow interpretation of the Constitution. A loose constructionist view (C) believes that judges should have freedom in interpreting the Constitution. Judicial restraint (D) is a philosophy that holds that the court should avoid taking the initiative on social and political questions (D). Liberalism (E) is a political philosophy favoring broad government involvement in business, social welfare, and minority rights.",
+   "source": "AP U.S. Government · Chapter 14 Review, Q10",
+   "topic": "The National Judiciary",
+   "topic_n": 1
+  }
+ ]
+}

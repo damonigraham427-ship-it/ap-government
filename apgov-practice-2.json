@@ -1,0 +1,904 @@
+{
+ "questions": [
+  {
+   "question": "The burning of a United States flag would best be described as",
+   "choices": [
+    "a right that would be prohibited by the First Amendment",
+    "an obscenity",
+    "symbolic speech",
+    "unintended speech",
+    "a criminal activity"
+   ],
+   "answer": 2,
+   "explanation": "In Texas v. Johnson the Supreme Court stated that burning the U.S. flag was a form of symbolic speech protected under the First Amendment.",
+   "source": "AP U.S. Government · Practice Exam 2, Q1",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Richard Neustadt, a noted political theorist, has stated that a president’s power comes from",
+   "choices": [
+    "having the president’s political party control both houses of the Congress during the presidential term",
+    "not being sensitive to the political surroundings",
+    "the president’s ability to persuade others to do what he or she wants",
+    "being outside of politics",
+    "implementing his or her policies over the party’s policies"
+   ],
+   "answer": 2,
+   "explanation": "Richard Neustadt stated that a president’s power comes from the ability to persuade others to do what he or she wants.",
+   "source": "AP U.S. Government · Practice Exam 2, Q2",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The first African American to serve on the Supreme Court of the United States was",
+   "choices": [
+    "Oliver Wendell Holmes",
+    "William O. Douglas",
+    "John Marshall",
+    "Thurgood Marshall",
+    "Clarence Thomas"
+   ],
+   "answer": 3,
+   "explanation": "The first African American appointed to the Supreme Court was Thurgood Marshall, appointed by Lyndon Johnson. John Marshall (B) was the first Chief Justice of the Supreme Court. Oliver Wendell Holmes (D) and William O. Douglas (E) were Supreme Court justices. Clarence Thomas (C) currently serves as a justice on the Supreme Court.",
+   "source": "AP U.S. Government · Practice Exam 2, Q3",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "How often are members of the House of Representatives elected?",
+   "choices": [
+    "every four years",
+    "every three years",
+    "every five years",
+    "every two years",
+    "every six years"
+   ],
+   "answer": 3,
+   "explanation": "Members of the House of Representatives are elected every two years.",
+   "source": "AP U.S. Government · Practice Exam 2, Q4",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following was an expansion of suffrage that occurred before the Civil War?",
+   "choices": [
+    "elimination of race disqualifications",
+    "elimination of poll taxes",
+    "elimination of literacy tests",
+    "elimination of religious qualifications",
+    "elimination of gender disqualifications"
+   ],
+   "answer": 3,
+   "explanation": "Religious qualifications for voting were eliminated in the early years of the 19th century. Gender disqualifications (A) were eliminated in 1920 with the passage of the Nineteenth Amendment. Poll taxes in federal elections (B) were eliminated in 1964 with the passage of the Twenty-Fourth Amendment. Race disqualifications (D) were eliminated in 1870 with the passage of the Fifteenth Amendment. Literary tests (E) were eliminated in the Voting Rights Act of 1965.",
+   "source": "AP U.S. Government · Practice Exam 2, Q5",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "If the president must nominate a new vice president due to the office being vacated, the nomination must be approved and confirmed by",
+   "choices": [
+    "both houses of Congress",
+    "the Senate and the Supreme Court",
+    "the Senate",
+    "the Supreme Court",
+    "the House of Representatives"
+   ],
+   "answer": 0,
+   "explanation": "If the president nominates a vice president because of a vacancy in the office, the Twenty-Fifth Amendment calls for both houses of Congress to approve the nomination.",
+   "source": "AP U.S. Government · Practice Exam 2, Q6",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Interest groups are different from political parties because they",
+   "choices": [
+    "do not nominate candidates for office",
+    "are only concerned with the winning of elections",
+    "are more concerned with the making of policy than influencing policy",
+    "only attempt to influence the president",
+    "deal with a wide range of policy issues"
+   ],
+   "answer": 0,
+   "explanation": "Interest groups do not nominate candidates for office. Choices (C), (D), and (E) describe the activities of political parties. Neither interest groups nor political parties attempt to influence only the president (A).",
+   "source": "AP U.S. Government · Practice Exam 2, Q7",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "In the United States Constitution, where is the congressional power of taxation found?",
+   "choices": [
+    "Article IV",
+    "Article II",
+    "Article VI",
+    "Article III",
+    "Article I"
+   ],
+   "answer": 4,
+   "explanation": "Article I, which establishes the legislative branch, gives Congress the power to tax. Article II (B) establishes the executive branch, while Article III (A) establishes the judicial branch. Article IV (E) deals with relationships among the states, while Article VI (D) establishes the supremacy of the Constitution.",
+   "source": "AP U.S. Government · Practice Exam 2, Q8",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "When Congress passed the Brady Bill, which required a five-day waiting period before the purchase of a handgun, it was following which step of the policymaking process?",
+   "choices": [
+    "agenda setting",
+    "policy evaluation",
+    "policy implementation",
+    "policy formulation",
+    "policy adoption"
+   ],
+   "answer": 4,
+   "explanation": "Congress was involved in the policy adoption step, in which government adopts a plan of action, including the passage of legislation, to solve a problem. Agenda setting (A) is the recognition of an issue as a problem that must be addressed. Policy formulation (B) involves finding ways to solve the problem. Policy implementation (E) is the execution of the plan of action by the appropriate agencies, while policy evaluation (C) is the analysis of policy and its impact upon the problem.",
+   "source": "AP U.S. Government · Practice Exam 2, Q9",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The Full Faith and Credit Clause of the Constitution is the requirement that each state accept the public acts, records, and judicial proceedings of every other state, found in the Constitution in",
+   "choices": [
+    "Article VI",
+    "Article I",
+    "Article III",
+    "Article IV",
+    "Article II"
+   ],
+   "answer": 3,
+   "explanation": "The Full Faith and Credit Clause is found in Article IV of the Constitution, which addresses the relationship among the states.",
+   "source": "AP U.S. Government · Practice Exam 2, Q10",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which amendment of the United States Constitution applies to unreasonable searches and seizure?",
+   "choices": [
+    "Ninth Amendment",
+    "Tenth Amendment",
+    "Fifth Amendment",
+    "Second Amendment",
+    "Fourth Amendment"
+   ],
+   "answer": 4,
+   "explanation": "The Fourth Amendment protects against unreasonable searches and seizures. The Tenth Amendment (B) speaks of the powers reserved to the states or to the people. The Fifth Amendment (C) deals with criminal proceedings and due process. The Ninth Amendment (D) addresses rights retained by the people, while the Second Amendment (E) guarantees the right to bear arms.",
+   "source": "AP U.S. Government · Practice Exam 2, Q11",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "What is a possible result of a “mid-term” or “off-year” election?",
+   "choices": [
+    "The political power of Congress increases.",
+    "The president may be forced to resign.",
+    "The Constitution may change.",
+    "The power base of Congress may change.",
+    "An entirely new Senate is elected."
+   ],
+   "answer": 3,
+   "explanation": "Frequently during off-year elections the party of the president may lose seats in Congress, changing the base of power. Off-year elections do not force the president to resign (A), nor does the political power of Congress increase (B). The Constitution changes only by amendment (D). In any congressional election, only one-third of the Senate is elected (E).",
+   "source": "AP U.S. Government · Practice Exam 2, Q12",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Executive agreements",
+   "choices": [
+    "do not have the force of law",
+    "do not require Senate approval",
+    "require the approval of both houses of Congress",
+    "must be approved by the Supreme Court",
+    "are nonbinding agreements"
+   ],
+   "answer": 1,
+   "explanation": "Executive agreements do not require Senate approval (B). They are pacts between the president and the head of state of a foreign country and are binding on the parties who make the agreement (A). They do not require the consent of the Supreme Court (D), nor do they remove governmental authority from Congress (C).",
+   "source": "AP U.S. Government · Practice Exam 2, Q13",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "An order from the Supreme Court requesting that a lower court send up its records on a particular case is known as a(n)",
+   "choices": [
+    "brief proposal",
+    "writ of power",
+    "writ of certiorari",
+    "appeal",
+    "certificate"
+   ],
+   "answer": 2,
+   "explanation": "A writ of certiorari (cert) is an order from the Supreme Court requesting that a lower court send up its records on a particular case.",
+   "source": "AP U.S. Government · Practice Exam 2, Q14",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following was NOT an aspect of the political culture of most of the Founding Fathers present at the Constitutional Convention?",
+   "choices": [
+    "natural rights",
+    "limited government",
+    "traditional democratic theory",
+    "Enlightenment philosophy",
+    "divine right theory"
+   ],
+   "answer": 4,
+   "explanation": "Political culture is the set of basic beliefs and values about government that is shared by most citizens. The divine right theory was the traditional European belief that monarchs ruled by direct authority from God. By the time in which the Constitution was written, the divine right theory had been challenged by Enlightenment philosophy (A), which included a belief in natural rights (D) ensured by limited government (E). The Founding Fathers embraced traditional democratic theory (C), or the concept that government depends on the consent of the governed.",
+   "source": "AP U.S. Government · Practice Exam 2, Q15",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a proposed plan of reform for the electoral college when electing the president? I. the district plan II. the proportional plan III. direct population election IV. the national bonus plan",
+   "choices": [
+    "III and IV only",
+    "I, II, III, and IV",
+    "I only",
+    "III only",
+    "II and IV only"
+   ],
+   "answer": 1,
+   "explanation": "Proposed reforms of the electoral college include the district plan, proportional plan, national bonus plan, and direct popular election. In the district plan, two electors would be chosen at large from each state, while the other electors would be chosen within the state’s congressional districts. Under the proportional plan, each presidential candidate would receive a share of the electoral vote proportional to the state’s popular vote. The national bonus plan keeps the basic structure of the electoral college, but awards an additional 102 electoral votes to the winner of the popular vote. Direct popular election is the concept of abolishing the electoral college.",
+   "source": "AP U.S. Government · Practice Exam 2, Q16",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Political action committees are extensions of interest groups that",
+   "choices": [
+    "define public opinion",
+    "raise money for campaigns",
+    "call for the resignation of fraudulent office holders",
+    "determine public opinion",
+    "encourage massive use of propaganda"
+   ],
+   "answer": 1,
+   "explanation": "Political action committees are extensions of interest groups that raise money for political candidates and campaigns.",
+   "source": "AP U.S. Government · Practice Exam 2, Q17",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is true about most presidential elections in modern history?",
+   "choices": [
+    "They result in major party realignments.",
+    "They are nonpartisan elections.",
+    "The winner of the popular vote usually wins the majority of the electoral vote.",
+    "Candidates from all parties usually receive some electoral votes.",
+    "They often center around one important issue."
+   ],
+   "answer": 2,
+   "explanation": "In most modern presidential elections, the winner of the popular vote also wins the majority of the electoral vote. Usually only candidates of major parties receive electoral votes (A). Most modern elections center around a variety of issues (C), but seldom result in realignment of the major parties (B). Elections involve the active participation of political parties (E).",
+   "source": "AP U.S. Government · Practice Exam 2, Q18",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The power of television in U.S. politics was best illustrated in which of the following presidential elections?",
+   "choices": [
+    "the Truman-Dewey election of 1948",
+    "the Reagan-Carter election of 1980",
+    "the Nixon-Kennedy election of 1960",
+    "the Bush-Gore election of 2000",
+    "the Carter-Ford election of 1976"
+   ],
+   "answer": 2,
+   "explanation": "The power of the media, especially television, is best illustrated by the Kennedy-Nixon campaign in 1960, when a presidential debate was televised for the first time. Television coverage of the debates is credited as one of the factors in Kennedy’s victory over Nixon. Television continued to play a major role in the coverage of future presidential campaigns (A, D, E). The role of the media in the Truman-Dewey campaign (B) is best noted by faulty polling methods that incorrectly predicted Dewey as the winner of the election.",
+   "source": "AP U.S. Government · Practice Exam 2, Q19",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "An important result of McCulloch v. Maryland (1819) was to",
+   "choices": [
+    "affirm the supremacy of the federal government over the states",
+    "give greater power to the states",
+    "place limits on the powers of Congress",
+    "establish the doctrine of judicial review",
+    "establish the doctrine of dual federalism"
+   ],
+   "answer": 0,
+   "explanation": "An important result of McCulloch v. Maryland (1819) was to establish the supremacy of the federal government over the states (E). McCulloch upheld the implied powers of Congress to create a Bank of the United States (B). Judicial review (C) was established in Marbury v. Madison. Dual federalism (D) views the national and state governments each remaining supreme within their own sphere of influence.",
+   "source": "AP U.S. Government · Practice Exam 2, Q20",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following occurs latest in the passage of a bill in Congress?",
+   "choices": [
+    "amendment committee",
+    "investigation and hearings",
+    "conference committee",
+    "debate on the floor",
+    "referral to committee"
+   ],
+   "answer": 2,
+   "explanation": "The conference committee occurs latest in this list of steps in the passage of a bill through Congress. Conference committees are organized when the House and the Senate pass a bill in different forms. The steps in the passage of a bill are B, C, E, D, and A.",
+   "source": "AP U.S. Government · Practice Exam 2, Q21",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Voters casting their ballots for candidates of a presidential candidate’s political party because of the popularity of the presidential candidate is best described as",
+   "choices": [
+    "the party-electoral effect",
+    "the presidential-coattail effect",
+    "the electoral effect",
+    "presidential-party voting",
+    "same-party voting"
+   ],
+   "answer": 1,
+   "explanation": "The presidential coattail effect refers to the phenomenon whereby voters support members of the president’s party running for other offices, because of the president’s popularity.",
+   "source": "AP U.S. Government · Practice Exam 2, Q22",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which is true of the Supreme Court of the United States?",
+   "choices": [
+    "Judges are appointed for life and can only be removed by impeachment.",
+    "Judges are always from the same political party as the president.",
+    "Judges are nominated by the president and confirmed by the House of Representatives.",
+    "Judges set their own salaries and benefits.",
+    "Judges serve at the will of the president."
+   ],
+   "answer": 0,
+   "explanation": "Justices to the Supreme Court are appointed for life terms, during good behavior, and can be removed only through impeachment and conviction of the charges against them (B). They are nominated by the president and confirmed by the Senate (A). Although the president tends to choose justices who reflect his or her own political ideology, he or she does not always nominate a candidate from the president’s party (E). Congress sets the salaries and benefits of Supreme Court justices (D).",
+   "source": "AP U.S. Government · Practice Exam 2, Q23",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "A low percentage of voter turnout is often caused by I. mobility of the electorate II. the perception of obvious differences between candidates or parties III. lack of political efficacy IV. dissatisfaction with things as they are",
+   "choices": [
+    "III only",
+    "II only",
+    "I and II only",
+    "I and III only",
+    "I and IV only"
+   ],
+   "answer": 3,
+   "explanation": "Both the mobility of the electorate and lack of political efficacy are reasons for low voter turnout. Political efficacy is the belief that a person can influence politics and public policymaking. Dissatisfaction with the status quo tends to produce a higher voter turnout. If candidates or parties show distinct differences in their programs or ideologies, voters tend to feel that their vote is more significant.",
+   "source": "AP U.S. Government · Practice Exam 2, Q24",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Cabinet-level executive departments are created by",
+   "choices": [
+    "the president",
+    "the Supreme Court",
+    "recommendation of other cabinet-level offices",
+    "Congress",
+    "the Constitution"
+   ],
+   "answer": 3,
+   "explanation": "Congress creates executive departments, including those at the cabinet level.",
+   "source": "AP U.S. Government · Practice Exam 2, Q25",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "When the House of Representatives sits as one large committee, it is sitting as",
+   "choices": [
+    "the full house",
+    "the Committee of the Whole",
+    "a standing committee",
+    "the Committee at Large",
+    "a quorum"
+   ],
+   "answer": 1,
+   "explanation": "The House of Representatives sitting as one large committee is the Committee of the Whole. A standing committee (C) is a permanent committee of the House or Senate. A quorum (B) is the number of members who must be present for business to take place. The full house (A) and the Committee at Large (E) are not types of House committees.",
+   "source": "AP U.S. Government · Practice Exam 2, Q26",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a false statement regarding minor parties?",
+   "choices": [
+    "Minor parties have usually been successful in getting candidates elected to office.",
+    "Minor parties have played an important role in reforming American politics.",
+    "Third parties have been useful in introducing new ideas in American politics.",
+    "Minor parties may also be classified as ideological parties.",
+    "Minor parties tend to focus on single issues."
+   ],
+   "answer": 0,
+   "explanation": "Minor parties have not been very successful in electing candidates to office. No president and only a few members of Congress have been elected from minor parties. Major parties have frequently adopted the ideas of third parties into their platform (A, B). Many minor parties are ideological, or based upon a set of social, political, or economic beliefs (D). Minor parties often tend to focus on a single public policy matter such as abolition, abortion, or prohibition (E).",
+   "source": "AP U.S. Government · Practice Exam 2, Q27",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Checking with party members on party policy and helping the floor leader to determine if there are enough votes to pass a particular issue is part of the job description of which of the following members of Congress?",
+   "choices": [
+    "minority floor leaders",
+    "the president pro tempore",
+    "the speaker of the House",
+    "committee chairpersons",
+    "whips"
+   ],
+   "answer": 4,
+   "explanation": "Floor whips check on party members and assist the floor leader in gathering the votes necessary to pass or defeat a bill. The minority floor leader (A) is the major spokesperson for the minority party and organizes opposition to the majority party. The speaker of the House (C) is the presiding officer of the House. The president pro tempore is the presiding officer of the Senate in the absence of the vice president (D). Committee chairpersons (E) set agendas, assign members to subcommittees, and decide whether the committee will hold public hearings.",
+   "source": "AP U.S. Government · Practice Exam 2, Q28",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "When the United States government is party to a case, who represents the United States before the Supreme Court?",
+   "choices": [
+    "the solicitor general",
+    "the general counsel for the president",
+    "the attorney general",
+    "the chief justice of the Supreme Court",
+    "the secretary of justice"
+   ],
+   "answer": 0,
+   "explanation": "The solicitor general represents the U.S. government before the Supreme Court.",
+   "source": "AP U.S. Government · Practice Exam 2, Q29",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "With reference to the executive branch, the Twenty-Fifth Amendment establishes",
+   "choices": [
+    "a direct change in the electoral college",
+    "more power to be given to the vice president",
+    "presidential succession and disability procedures",
+    "a system of checks and balances",
+    "direct election of the president"
+   ],
+   "answer": 2,
+   "explanation": "The Twenty-Fifth Amendment calls for a method to deal with presidential succession and disability.",
+   "source": "AP U.S. Government · Practice Exam 2, Q30",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a reason for the decline in voting?",
+   "choices": [
+    "same-day registration in a larger number of states",
+    "decrease in the number of eligible voters",
+    "penalties for nonvoting",
+    "decline in parties’ ability to mobilize voters",
+    "increase in party loyalty"
+   ],
+   "answer": 3,
+   "explanation": "A decline in the ability of political parties to mobilize voters is a reason for the decline in voter turnout. The expansion, not a decrease, in the size of the electorate often results in a lower percentage of voter turnout. (A) For example, after the increase in the size of the electorate caused by the ratification of the Twenty-Sixth Amendment, the low turnout of new voters between the ages of 18 and 21 decreased the percentage of voter turnout. The few states that have same-day registration have shown an increase in voter turnout (C). In recent years, party loyalty has tended to decrease (E). There are no penalties for nonvoting (D).",
+   "source": "AP U.S. Government · Practice Exam 2, Q31",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is true of the incumbency effect?",
+   "choices": [
+    "Members of the Senate benefit more than members of the House of Representatives.",
+    "The president benefits from the incumbency effect.",
+    "Members of the House of Representatives and Senate benefit equally.",
+    "Members of the House of Representatives benefit more than members of the Senate.",
+    "Incumbency does not benefit either members of the House of Representatives or Senate."
+   ],
+   "answer": 3,
+   "explanation": "Because the terms of the members of the House of Representatives last only two years, the incumbency effect benefits members of the House of Representatives more than it benefits the members of the Senate.",
+   "source": "AP U.S. Government · Practice Exam 2, Q32",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following would probably be least likely to vote?",
+   "choices": [
+    "a woman professional",
+    "a wealthy white businessman",
+    "a labor union member",
+    "an active Roman Catholic",
+    "a high school dropout"
+   ],
+   "answer": 4,
+   "explanation": "Because education is a key factor in voter participation, the high school dropout would probably be the least likely to vote. Those with higher incomes and persons involved in the professions or business are more likely to vote (B, C). Union members and persons who actively participate in their religion are also more likely to vote (D, E).",
+   "source": "AP U.S. Government · Practice Exam 2, Q33",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The issuance of an executive order falls under the president’s",
+   "choices": [
+    "military powers",
+    "diplomatic powers",
+    "executive powers",
+    "legislative powers",
+    "judicial powers"
+   ],
+   "answer": 2,
+   "explanation": "The president’s issuance of an executive order to carry out a policy is an example of the executive powers of the presidency. An example of the president’s legislative powers is the veto power (A). The president’s diplomatic powers include issuing executive agreements (B). Granting reprieves and pardons is a judicial power of the presidency (D). Providing for domestic order is one of the president’s military powers (E).",
+   "source": "AP U.S. Government · Practice Exam 2, Q34",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "After 1950, the success of the civil rights movement was aided most by",
+   "choices": [
+    "a shift of the movement to the courts",
+    "African Americans winning election to public office",
+    "the passage of the Fourteenth Amendment",
+    "decreased participation by interest groups in the civil rights movement",
+    "African Americans lowering their expectations"
+   ],
+   "answer": 0,
+   "explanation": "The success of the civil rights movement after 1950 was aided by the movement’s shift to the courts. The Fourteenth Amendment, ratified in 1868, defined citizenship and the rights of citizens (B). The number of African Americans in public office did not increase significantly until the 1970s (D). Interest groups such as the NAACP continue to promote the goals of the civil rights movement (E).",
+   "source": "AP U.S. Government · Practice Exam 2, Q35",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "As a special interest group, the National Organization for Women was organized for the purpose of",
+   "choices": [
+    "ratifying an equal rights amendment for women",
+    "promoting a national women’s party devoted to the purpose of electing the first woman president",
+    "dealing with the abortion issue in America",
+    "creating more jobs for women",
+    "advocating for legislation to protect women’s rights"
+   ],
+   "answer": 4,
+   "explanation": "The goal of the National Organization for Women is to protect women’s rights through the passage of legislation.",
+   "source": "AP U.S. Government · Practice Exam 2, Q36",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT true of federalism?",
+   "choices": [
+    "The powers of the federal government are less than the powers of the state governments.",
+    "States must honor another state’s public acts, laws, and records.",
+    "A state may not unreasonably discriminate against the resident of another state.",
+    "The federal government handles matters of national concern.",
+    "States may extradite fugitives from one state to another."
+   ],
+   "answer": 0,
+   "explanation": "Under federalism the national and state governments each have certain authority over the same territory and people. A constitution outlines the powers and prohibitions pertaining to each level of government.",
+   "source": "AP U.S. Government · Practice Exam 2, Q37",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The Supreme Court case of Gideon v. Wainwright was a significant case in that it",
+   "choices": [
+    "called for the accused to be confronted by witnesses against them",
+    "allowed judges to determine what constitutes double jeopardy in a case",
+    "stated that search warrants were constitutionally required under all circumstances",
+    "called for attorney rights to be applied at the state level as well as at the federal level",
+    "caused law enforcement officers to advise the criminally accused of their rights"
+   ],
+   "answer": 3,
+   "explanation": "Gideon v. Wainwright provided for attorney rights in state cases. This case was used by the Supreme Court to apply the Sixth Amendment to the states through the Due Process Clause of the Fourteenth Amendment. Choice (A) refers to Miranda v. Arizona. The Sixth Amendment guarantees the right of the accused to be confronted by witnesses against them (C) and prohibits double jeopardy (E). Several Court cases, including Terry v. Ohio , place limits on the constitutional guarantee of protection against unreasonable search and seizure (D).",
+   "source": "AP U.S. Government · Practice Exam 2, Q38",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "A bill that has been held up in a committee may be forced out of that committee by which of the following methods?",
+   "choices": [
+    "discharge petition",
+    "joint resolution",
+    "House call by the speaker",
+    "cannot be forced out of a committee in either house of Congress",
+    "cloture petition"
+   ],
+   "answer": 0,
+   "explanation": "Bills held up in committee may be forced out of committee by members of the House of Representatives so that the whole House may debate the bill. A joint resolution (A) is a proposal for action that is issued by both the House and Senate acting together; it has the force of law when passed. A cloture petition (D) is a request for a Senate vote to limit or end floor debate.",
+   "source": "AP U.S. Government · Practice Exam 2, Q39",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Party dealignment might be occurring if",
+   "choices": [
+    "one party tends to win control of government more often",
+    "political parties are becoming more centralized",
+    "people are voting Republican more often than they are voting Democrat",
+    "support for minor parties is declining",
+    "government tends to be “divided”"
+   ],
+   "answer": 4,
+   "explanation": "One sign of party dealignment may be “divided government,” with one party controlling the executive branch and the other party controlling one or both houses of Congress.",
+   "source": "AP U.S. Government · Practice Exam 2, Q40",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT a check on the power of the federal courts by Congress?",
+   "choices": [
+    "changing the tenure of justices",
+    "changing the court’s jurisdiction",
+    "confirmation of appointments",
+    "amending the Constitution",
+    "altering the number of justices"
+   ],
+   "answer": 0,
+   "explanation": "Changing the tenure of judges is not a check on the power of the federal courts by Congress. Tenure for federal judges is established by the Constitution. The remaining answer choices represent checks on the power of the judicial branch.",
+   "source": "AP U.S. Government · Practice Exam 2, Q41",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The War Powers Resolution of 1973 requires I. the president to inform Congress within 48 hours of any commitment of American troops abroad II. the president to keep troops abroad for at least 60 days III. the president to follow the guidelines of the Constitution regarding war",
+   "choices": [
+    "I and II only",
+    "I, II, and III",
+    "III only",
+    "II only",
+    "I only"
+   ],
+   "answer": 4,
+   "explanation": "The War Powers Resolution requires the president to inform Congress within 48 hours of any commitment of U.S. troops abroad.",
+   "source": "AP U.S. Government · Practice Exam 2, Q42",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following historic Supreme Court cases called for apportionment of representative seats in Congress to be as equal as possible?",
+   "choices": [
+    "Mapp v. Ohio",
+    "Miranda v. Arizona",
+    "Marbury v. Madison",
+    "McCulloch v. Maryland",
+    "Wesberry v. Sanders"
+   ],
+   "answer": 4,
+   "explanation": "In Wesberry v. Sanders the Court ruled that the apportionment of representative seats in Congress must be as equal as possible. Marbury v. Madison established the power of judicial review (A). McCulloch v. Maryland established the supremacy of the national government (B). Mapp v. Ohio applied the exclusionary rule to state courts (C). Miranda v. Arizona requires that anyone arrested for a crime be advised of the right to counsel and the right to remain silent (E).",
+   "source": "AP U.S. Government · Practice Exam 2, Q43",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "A list of cases to be heard is called a(n)",
+   "choices": [
+    "amicus docket",
+    "docket",
+    "agenda of cases",
+    "court agenda",
+    "decisis of cases"
+   ],
+   "answer": 1,
+   "explanation": "A docket is a list of cases to be heard by the court.",
+   "source": "AP U.S. Government · Practice Exam 2, Q44",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Compared to a political conservative, a political liberal generally",
+   "choices": [
+    "favors limited governmental involvement in civil rights issues",
+    "favors a limited governmental role in the promotion of national security",
+    "supports more traditional values and lifestyles",
+    "promotes a limited governmental role in aiding individuals economically",
+    "supports active governmental involvement in the promotion of individual welfare"
+   ],
+   "answer": 4,
+   "explanation": "A political liberal tends to believe in active governmental involvement to promote individual welfare. The remaining answer choices describe a political conservative.",
+   "source": "AP U.S. Government · Practice Exam 2, Q45",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The Constitution of the United States was written as a direct result of",
+   "choices": [
+    "the decisions reached at the Annapolis Convention",
+    "the failure of the Articles of Confederation to provide adequate direction for the union",
+    "the failure of state governments under the new federal union",
+    "orders issued by the Second Continental Congress",
+    "the American Revolution"
+   ],
+   "answer": 1,
+   "explanation": "The Constitution of the United States was written as a direct result of the failure of the Articles of Confederation to provide adequate direction for the Union. The Annapolis Convention (D) failed to reach a decision regarding the weaknesses of the Articles of Confederation. The Second Continental Congress (B) was the government that oversaw the conduct of the American Revolution. The writing of the Articles of Confederation was a direct result of the American Revolution (A). The state governments were stronger than the national government under the Articles (C).",
+   "source": "AP U.S. Government · Practice Exam 2, Q46",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "When voters elect a representative from a district within a state, and that representative is selected from several candidates, what type of election system is that state using?",
+   "choices": [
+    "at-large voting",
+    "a single-member district system",
+    "gerrymandering",
+    "a general ticket system",
+    "a one-person one-vote system"
+   ],
+   "answer": 1,
+   "explanation": "A single-member district allows for the election of only one winner to represent the voters. At-large voting (C) involves an election in which candidates for office compete throughout the district or state as a whole. The one-person one-vote system (D) is the concept that each legislative district within a state should contain the same number of eligible voters to assure equal representation based on population. Gerrymandering (E) is the redrawing of legislative districts to give an advantage to a political party or group.",
+   "source": "AP U.S. Government · Practice Exam 2, Q47",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following include the president’s key foreign and military advisors?",
+   "choices": [
+    "State Department",
+    "Federal Bureau of Investigation",
+    "Department of Homeland Security",
+    "National Security Council",
+    "Central Intelligence Agency"
+   ],
+   "answer": 3,
+   "explanation": "As part of the Executive Office of the President, the National Security Council is composed of the president’s key foreign and military advisors. The Department of Homeland Security (D) is a department with cabinet status. It is in charge of the prevention of terrorist attacks within the United States. Another cabinet-level department, the Department of State (A), advises the president on foreign policy. The CIA (B) gathers secret information essential to national defense. The FBI (C) defends the United States against terrorism and enforces U.S. criminal laws.",
+   "source": "AP U.S. Government · Practice Exam 2, Q48",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "How many presidents of the United States have been impeached?",
+   "choices": [
+    "three",
+    "one",
+    "two",
+    "four",
+    "none"
+   ],
+   "answer": 2,
+   "explanation": "Two presidents, Andrew Johnson and Bill Clinton, were impeached by the House of Representatives; neither was convicted by the Senate. Richard Nixon resigned prior to a vote on impeachment charges by the House of Representatives; therefore, he was not impeached.",
+   "source": "AP U.S. Government · Practice Exam 2, Q49",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which constitutional amendment provided for the direct election of senators?",
+   "choices": [
+    "Twelfth Amendment",
+    "Seventeenth Amendment",
+    "Twentieth Amendment",
+    "Sixteenth Amendment",
+    "Fourteenth Amendment"
+   ],
+   "answer": 1,
+   "explanation": "The Seventeenth Amendment provided for the direct election of senators. The Twelfth Amendment (A) changed the method of voting in the electoral college. The Sixteenth Amendment (B) established a federal income tax. The Twentieth Amendment (C) set the terms of office of the president and members of Congress, while the Fourteenth Amendment (D) defined citizenship and the rights of citizens.",
+   "source": "AP U.S. Government · Practice Exam 2, Q50",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is not considered to be one of the special or legislative courts in the federal court system?",
+   "choices": [
+    "the United States Tax Court",
+    "the Courts of Appeals",
+    "the Court of Military Appeals",
+    "the Territorial Courts",
+    "the United States Claims Court"
+   ],
+   "answer": 1,
+   "explanation": "The Courts of Appeals are constitutional courts, not legislative courts.",
+   "source": "AP U.S. Government · Practice Exam 2, Q51",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "What is the minimum age requirement for a member of the United States Senate?",
+   "choices": [
+    "21",
+    "35",
+    "30",
+    "25",
+    "There is no minimum age requirement."
+   ],
+   "answer": 2,
+   "explanation": "The minimum age for members of the Senate is 30 years.",
+   "source": "AP U.S. Government · Practice Exam 2, Q52",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The first political parties in America were the Federalist and the Democratic-Republicans. The leaders of these two parties were",
+   "choices": [
+    "James Madison and Dewitt Clinton",
+    "Alexander Hamilton and Aaron Burr",
+    "George Washington and John Adams",
+    "John Adams and Andrew Jackson",
+    "Alexander Hamilton and Thomas Jefferson"
+   ],
+   "answer": 4,
+   "explanation": "The leaders of the Federalists and Democratic-Republicans were Alexander Hamilton and Thomas Jefferson, respectively.",
+   "source": "AP U.S. Government · Practice Exam 2, Q53",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "When appointing justices to the Supreme Court, the president considers all of the following EXCEPT",
+   "choices": [
+    "senatorial courtesy",
+    "political party of nominee",
+    "race, age, and gender of nominee",
+    "judicial experience",
+    "political ideology"
+   ],
+   "answer": 0,
+   "explanation": "Senatorial courtesy is not used by the president when appointing justices to the Supreme Court. The other answer choices are factors a president commonly considers when appointing a justice to the Supreme Court.",
+   "source": "AP U.S. Government · Practice Exam 2, Q54",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT a constitutional power of the president?",
+   "choices": [
+    "the president signing or vetoing legislation",
+    "the president invoking the practice of executive privilege",
+    "delivery of the State of the Union Address",
+    "the president creating cabinet-level departments of the executive branch",
+    "the president serving as commander of the military"
+   ],
+   "answer": 3,
+   "explanation": "Congress, not the president, creates cabinet-level departments of the executive branch. The remaining answer choices represent presidential powers.",
+   "source": "AP U.S. Government · Practice Exam 2, Q55",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a specific power of the Senate? I. tries and convicts in impeachment cases II. elects the vice president when the electoral college fails III. approves presidential appointments and treaties",
+   "choices": [
+    "I only",
+    "I and II",
+    "I, II, and III",
+    "II only",
+    "II and III"
+   ],
+   "answer": 2,
+   "explanation": "Powers of the Senate include trying and convicting impeachment cases, electing the vice president if the electoral college fails to determine a winner, and approving presidential appointments and treaties.",
+   "source": "AP U.S. Government · Practice Exam 2, Q56",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which office of the executive branch is responsible for helping the president prepare the national budget?",
+   "choices": [
+    "Department of the Treasury",
+    "Office of Management and Budget",
+    "United States Tax Office",
+    "Office of Budget Affairs",
+    "Department of Commerce"
+   ],
+   "answer": 1,
+   "explanation": "The Office of Management and Budget is the executive branch agency responsible for helping the president prepare the annual budget. The Department of the Treasury (B) collects federal revenue, pays federal bills, and mints coins and prints paper money. The Department of Commerce (C) grants patents and trademarks and promotes international trade.",
+   "source": "AP U.S. Government · Practice Exam 2, Q57",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "What type of jurisdiction does the Supreme Court have?",
+   "choices": [
+    "only appellate",
+    "original and appellate",
+    "only exclusive",
+    "only original",
+    "original and mutual"
+   ],
+   "answer": 1,
+   "explanation": "The Supreme Court has both original and appellate jurisdiction.",
+   "source": "AP U.S. Government · Practice Exam 2, Q58",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Who of the following is the most powerful person in the United States Senate?",
+   "choices": [
+    "president of the Senate",
+    "vice president",
+    "minority leader",
+    "speaker",
+    "majority leader"
+   ],
+   "answer": 4,
+   "explanation": "The most powerful person in the Senate is the majority leader. He or she is also the spokesperson for the majority party in the Senate. The vice president (B, C) serves as president of the Senate, but he or she does not debate and votes only to break a tie. The minority leader (D) organizes opposition to the majority party in the Senate. There is no speaker of the Senate (A).",
+   "source": "AP U.S. Government · Practice Exam 2, Q59",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "A major factor influencing whether or not a person approves of a president’s job performance is",
+   "choices": [
+    "race",
+    "level of income",
+    "political party identification",
+    "geographic location",
+    "gender"
+   ],
+   "answer": 2,
+   "explanation": "Political party identification is a major factor that influences whether a person approves or disapproves of a president’s job performance.",
+   "source": "AP U.S. Government · Practice Exam 2, Q60",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "questions": [
+  {
+   "question": "How is an interest group different from a political party?",
+   "choices": [
+    "Interest groups often support political candidates for office.",
+    "Only interested people belong to interest groups.",
+    "Interest groups control government.",
+    "Membership in an interest group is nonrestrictive.",
+    "Interest groups have no legal status in the election process."
+   ],
+   "answer": 4,
+   "explanation": "Interest groups have no legal status in the election process, whereas political parties fulfill many roles in the election process. Interest groups may support political candidates for office; only political parties nominate candidates for office (A). Membership in an interest group may be restricted (B). Interest groups influence governmental policies, whereas political parties control government (D). Not all interested people belong to interest groups (E).",
+   "source": "AP U.S. Government · Chapter 11 Review, Q1",
+   "topic": "Interest Groups and the Mass Media",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT a function of an interest group?",
+   "choices": [
+    "represent a broad range of interests",
+    "raise awareness and stimulate interest in public affairs",
+    "provide information to the government",
+    "provide a channel for public political participation for the achievement of common goals",
+    "serve as a link between its members and government"
+   ],
+   "answer": 0,
+   "explanation": "Interest groups focus on issues that directly affect their membership. The other answer choices reflect the functions of an interest group.",
+   "source": "AP U.S. Government · Chapter 11 Review, Q2",
+   "topic": "Interest Groups and the Mass Media",
+   "topic_n": 1
+  },
+  {
+   "question": "An example of an interest group that would promote a specific cause is",
+   "choices": [
+    "the American Bar Association",
+    "the National Education Association",
+    "the National Grange",
+    "the Teamsters Union",
+    "the National Rifle Association"
+   ],
+   "answer": 4,
+   "explanation": "The National Rifle Association promotes gun ownership as a right of citizens. The National Grange (A) promotes general agricultural interests. The Teamsters Union (B) advocates and protects the interests of organized labor. The American Bar Association (C) and the National Education Association (D) are professional groups.",
+   "source": "AP U.S. Government · Chapter 11 Review, Q3",
+   "topic": "Interest Groups and the Mass Media",
+   "topic_n": 1
+  },
+  {
+   "question": "An example of a public interest group is",
+   "choices": [
+    "the League of Women Voters",
+    "the National Council of Churches",
+    "the American Jewish Congress",
+    "the American Bar Association",
+    "the American Association of Retired Persons"
+   ],
+   "answer": 0,
+   "explanation": "The League of Women Voters is a public interest group created to encourage voter participation. The AARP (B), the National Council of Churches (D), and the American Jewish Congress (E) are groups that promote causes. The American Bar Association (C) is a professional group.",
+   "source": "AP U.S. Government · Chapter 11 Review, Q4",
+   "topic": "Interest Groups and the Mass Media",
+   "topic_n": 1
+  },
+  {
+   "question": "A method of lobbying by which interest group members and others outside the organization write letters, send telegrams, and make telephone calls to influence policymakers is known as",
+   "choices": [
+    "litigation lobbying",
+    "influential lobbying",
+    "grassroots lobbying",
+    "coalition lobbying",
+    "direct lobbying"
+   ],
+   "answer": 2,
+   "explanation": "Grassroots lobbying attempts to reach the average voter at the local level. Litigation lobbying involves taking an issue to court (A). Direct lobbying (C) uses personal contacts between lobbyists and policymakers. Coalition lobbying (D) brings together several interest groups with common goals. Influential lobbying influences elections (E).",
+   "source": "AP U.S. Government · Chapter 11 Review, Q5",
+   "topic": "Interest Groups and the Mass Media",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is true regarding the regulation of lobbying?",
+   "choices": [
+    "The Lobbying Disclosure Act did not apply to lobbyists who attempted to influence congressional staff members.",
+    "The Federal Regulation of Lobbying Act was directed at those who tried to influence members of the executive branch.",
+    "The first major attempt to regulate lobbying came during the Progressive Era in the early years of the 20th century.",
+    "Both the Federal Regulation of Lobbying Act and the Lobbying Disclosure Act required lobbyists to register.",
+    "In the second half of the 20th century, laws regulating lobbying became more lenient."
+   ],
+   "answer": 3,
+   "explanation": "Both laws require the registration of lobbyists, with the Lobbying Disclosure Act requiring registration under more circumstances than the Federal Regulation of Lobbying Act. The Federal Regulation of Lobbying Act was directed at those trying to influence members of Congress (A). The first major attempt to regulate lobbying came in 1976 (B). Laws regulating lobbying became stricter and more comprehensive (C). The Act applied to lobbying of members of Congress, congressional staff, or policymakers in the executive branch (D).",
+   "source": "AP U.S. Government · Chapter 11 Review, Q6",
+   "topic": "Interest Groups and the Mass Media",
+   "topic_n": 1
+  },
+  {
+   "question": "Which is true of government regulation of the media?",
+   "choices": [
+    "Government regulation of the media affects the print media more than the broadcast media.",
+    "The Federal Communications Commission is restricted to the regulation of interstate commerce.",
+    "Structural regulations deal with issues affecting the organization of broadcasting companies.",
+    "The First Amendment protects the broadcast media from the regulation of content.",
+    "The Telecommunications Act (1996) restricted competition among broadcasting companies."
+   ],
+   "answer": 2,
+   "explanation": "Structural regulations control the organization and ownership of broadcasting companies. Government regulation affects radio and television more than newspapers and magazines (A). The Telecommunications Act broadened competition (C). The FCC regulates interstate and foreign communication (D). The broadcast media have been subject to regulation of content (E).",
+   "source": "AP U.S. Government · Chapter 11 Review, Q7",
+   "topic": "Interest Groups and the Mass Media",
+   "topic_n": 1
+  },
+  {
+   "question": "In the history of radio as a mode of mass media, which American president was first to make the medium a regular feature of his administration as a method of informing the people?",
+   "choices": [
+    "Harry Truman",
+    "Bill Clinton",
+    "Ronald Reagan",
+    "George H. W. Bush",
+    "Franklin Roosevelt"
+   ],
+   "answer": 4,
+   "explanation": "Franklin Roosevelt used the radio to deliver his “fireside chats” to the American people as a method of informing them about the economy and the war.",
+   "source": "AP U.S. Government · Chapter 11 Review, Q8",
+   "topic": "Interest Groups and the Mass Media",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following has been an important function in the role of the mass media? I. directing government II. agenda setting III. informing the public IV. shaping public opinion",
+   "choices": [
+    "II, III, and IV only",
+    "I and III only",
+    "I only",
+    "I, II, and III only",
+    "II and IV only"
+   ],
+   "answer": 0,
+   "explanation": "Agenda setting, informing the public, and shaping public opinion are functions of the mass media. The mass media investigate government policies, but do not direct government.",
+   "source": "AP U.S. Government · Chapter 11 Review, Q9",
+   "topic": "Interest Groups and the Mass Media",
+   "topic_n": 1
+  },
+  {
+   "question": "Those media executives and news editors who decide which events to present and how to present the news are called",
+   "choices": [
+    "gatekeepers",
+    "telecommunication regulators",
+    "media representatives",
+    "technical regulators",
+    "content regulators"
+   ],
+   "answer": 0,
+   "explanation": "News is generally directed through gatekeepers (media executives, news editors, and prominent reporters who decide which events to present and how to present them).",
+   "source": "AP U.S. Government · Chapter 11 Review, Q10",
+   "topic": "Interest Groups and the Mass Media",
+   "topic_n": 1
+  }
+ ]
+}

@@ -1,0 +1,904 @@
+{
+ "questions": [
+  {
+   "question": "In the Supreme Court case of Mapp v. Ohio, the Court ruled that",
+   "choices": [
+    "the Due Process Clause of the Fourteenth Amendment applies to illegal searches",
+    "police acting in good faith, with a legal warrant, may present evidence in court",
+    "evidence may be used in court if the evidence would have been inevitably discovered",
+    "the exclusionary rule does not apply to cases tried in state courts",
+    "searches of criminal suspects are constitutional"
+   ],
+   "answer": 4,
+   "explanation": "The case of Mapp v. Ohio is among several cases that established the exclusionary rule of evidence (evidence seized in an illegal search may not be used in a court of law). Mapp v. Ohio also applied the exclusionary rule to state courts (E). Choice (A) refers to United States v. Leon. In Wolf v. Colorado , the Court applied protections against unreasonable search and seizure to the states under the Due Process Clause of the Fourteenth Amendment (B). Also, in Terry v. Ohio the Court ruled that searches of criminal suspects are constitutional (B). The Court established the inevitable discovery rule in Nix v. Williams (D).",
+   "source": "AP U.S. Government · Practice Exam 1, Q1",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "If the United States government were to be sued, to which court(s) would those seeking damages take their case to be heard?",
+   "choices": [
+    "U.S. Courts of Appeals",
+    "U.S. Supreme Court",
+    "U.S. Tax Court",
+    "U.S. District Courts",
+    "U.S. Court of Claims"
+   ],
+   "answer": 4,
+   "explanation": "Cases against the U.S. government are heard in the U.S. Court of Claims. The U.S. District Courts (A) have original jurisdiction and serve as trial courts at the federal level. The Supreme Court (B) is the final authority dealing with all questions arising from the Constitution, federal laws, and treaties. The U.S. Courts of Appeals (C) decide appeals from U.S. district courts and review decisions of federal administrative agencies. The U.S. Tax Court (D) is a special court within the federal judicial system.",
+   "source": "AP U.S. Government · Practice Exam 1, Q2",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "What method of floor vote is used in the passage of a bill in both houses of Congress? I. voice vote II. standing vote III. roll-call vote IV. teller vote V. electronic vote",
+   "choices": [
+    "III only",
+    "II only",
+    "I only",
+    "I, II, III",
+    "IV and V only"
+   ],
+   "answer": 3,
+   "explanation": "Voting on legislation in both houses of Congress may be by voice, standing, or roll-call vote. The House of Representatives also uses teller and electronic voting; the Senate does not.",
+   "source": "AP U.S. Government · Practice Exam 1, Q3",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "A constitutional duty of the vice president is to",
+   "choices": [
+    "preside over the House of Representatives and break tie votes",
+    "issue directives, on the president’s order, to the political parties",
+    "work with the Supreme Court on constitutional issues",
+    "preside over the Senate and break tie votes",
+    "balance the ticket"
+   ],
+   "answer": 3,
+   "explanation": "According to the Constitution, the duty of the vice president is to preside over the Senate and vote only in the case of a tie (D). The vice president does not work with the Supreme Court (A), nor does he or she issue directives to the political parties (E). The president often chooses the vice presidential running mate to balance the ticket. Balancing the ticket, however, is not a constitutional role of the vice president (C).",
+   "source": "AP U.S. Government · Practice Exam 1, Q4",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The United States Constitution has been amended",
+   "choices": [
+    "26 times",
+    "originally only 10 times including the Bill of Rights",
+    "27 times",
+    "17 times",
+    "28 times"
+   ],
+   "answer": 2,
+   "explanation": "There are 27 formal amendments to the U.S. Constitution.",
+   "source": "AP U.S. Government · Practice Exam 1, Q5",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The first woman appointed to the Supreme Court of the United States was",
+   "choices": [
+    "Jeannette Rankin",
+    "Sandra Day O’Connor",
+    "Ruth Bader Ginsburg",
+    "Barbara Jordan",
+    "Geraldine Ferraro"
+   ],
+   "answer": 1,
+   "explanation": "Sandra Day O’Connor was appointed in 1981 by President Ronald Reagan as the first woman on the Supreme Court. Ruth Bader Ginsburg (B) is the Court’s second woman Supreme Court justice. Barbara Jordan (C) was a member of the U.S. House of Representatives from Texas. Jeannette Rankin (D) was the first woman elected to the U.S. Congress. Geraldine Ferraro (E) is a former member of the U.S. House of Representatives and the first woman to run for vice president from a major political party.",
+   "source": "AP U.S. Government · Practice Exam 1, Q6",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a function that political parties are expected to perform? I. nominate candidates for office II. politically educate the electorate III. create a sense of centralized responsibility IV. maintain the separation of powers in government",
+   "choices": [
+    "I only",
+    "I, II, III, and IV",
+    "I and III only",
+    "I, II, and III only",
+    "III and IV only"
+   ],
+   "answer": 3,
+   "explanation": "Political parties nominate candidates for office, politically educate the electorate, and help create a sense of centralized responsibility. The U.S. Constitution provided for the separation of powers before the entrance of parties onto the U.S. political scene.",
+   "source": "AP U.S. Government · Practice Exam 1, Q7",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Regulating securities, financial markets, and investment companies, and prohibiting fraud and dishonest investment practices would be the major functions of which of the following independent regulatory agencies?",
+   "choices": [
+    "Securities and Exchange Commission",
+    "Consumer Product Safety Commission",
+    "the Federal Reserve",
+    "Federal Trade Commission",
+    "Commodity Futures Trading Commission"
+   ],
+   "answer": 0,
+   "explanation": "The Securities and Exchange Commission was created as an independent regulatory agency to regulate securities, financial markets, and investment companies, and to prohibit fraud and dishonest investment practices. The Federal Reserve (A) regulates the lending practices of banks and the nation’s money supply. The Federal Trade Commission (B) regulates misleading and false trade practices. The Commodity Futures Trading Commission (C) is an independent agency that monitors the trading of futures contracts. The Consumer Product Safety Commission (E) is an independent regulatory agency that regulates the sale and manufacture of consumer products.",
+   "source": "AP U.S. Government · Practice Exam 1, Q8",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following would be a true statement if a presidential election had to be decided by the House of Representatives?",
+   "choices": [
+    "Each member of the House is allowed one vote.",
+    "Each state’s delegation casts one vote.",
+    "The House Rules Committee makes the decision.",
+    "The House votes as a single unit.",
+    "Only the speaker votes."
+   ],
+   "answer": 1,
+   "explanation": "If the House of Representatives were to act upon the failure of the electoral college to elect a president, each state delegation would receive one vote. A majority of 26 votes would be necessary for a candidate to win election.",
+   "source": "AP U.S. Government · Practice Exam 1, Q9",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is most accurate regarding interest groups?",
+   "choices": [
+    "Interest groups attempt to control government.",
+    "Some interest groups have influence that is not proportional to their size.",
+    "Interest groups are well financed.",
+    "Interest groups undermine the goals of the American political system.",
+    "Interest groups always provide accurate and concise information."
+   ],
+   "answer": 1,
+   "explanation": "Some interest groups have influence that is not proportional to the group’s number of members. Some interest groups are small in membership and exert considerable influence, while other groups with large memberships may exert very little influence. Interest groups sometimes distort facts to sway the public toward their cause (A). They seek to influence the policies of government, while political parties attempt to control government (C). Interest groups vary in their degree of financial support (D). They provide channels for political participation that enable citizens to work together to achieve a common goal (E).",
+   "source": "AP U.S. Government · Practice Exam 1, Q10",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The Necessary and Proper Clause found in Article I, Section 8 of the United States Constitution is also known as the",
+   "choices": [
+    "implied clause",
+    "the general practice clause of Congress",
+    "elastic clause",
+    "expressed clause",
+    "congressional clause"
+   ],
+   "answer": 2,
+   "explanation": "The Necessary and Proper Clause is often termed the “elastic clause” because it stretches the powers of Congress.",
+   "source": "AP U.S. Government · Practice Exam 1, Q11",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a qualification required in order to be president of the United States?",
+   "choices": [
+    "resident of the United States for at least nine years",
+    "natural-born citizen",
+    "naturalized citizen",
+    "30 years of age",
+    "previous experience in government"
+   ],
+   "answer": 1,
+   "explanation": "In order to be eligible to be elected president of the United States, a candidate must be a natural-born citizen. Other qualifications include being at least 35 years of age and having lived in the United States for at least 14 years.",
+   "source": "AP U.S. Government · Practice Exam 1, Q12",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is the best definition of political socialization?",
+   "choices": [
+    "individuals with diverse sets of values and beliefs about public policy",
+    "individuals defining their political society in relation to their form of government",
+    "individuals playing different political roles in society",
+    "individuals acquiring their differing beliefs and political orientation",
+    "individuals with diverse beliefs about public policy"
+   ],
+   "answer": 3,
+   "explanation": "Political socialization involves personal acquisition of differing beliefs and political ideology.",
+   "source": "AP U.S. Government · Practice Exam 1, Q13",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a right that would not be guaranteed to a noncitizen?",
+   "choices": [
+    "freedom to move about the country",
+    "freedom of speech",
+    "freedom of press",
+    "freedom of religion",
+    "right to an attorney"
+   ],
+   "answer": 0,
+   "explanation": "Noncitizens are not guaranteed the freedom to move about the country, while citizens of the United States have this right under the Privileges and Immunities Clause of Article IV of the Constitution. The freedoms of speech (A), religion (B), and the press (C) are guaranteed to all persons by the First Amendment. The right to an attorney (D) is granted to accused persons through Supreme Court decisions in Powell v. Alabama , Betts v. Brady , Escobedo v. Illinois , and Gideon v. Wainwright.",
+   "source": "AP U.S. Government · Practice Exam 1, Q14",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "In order for a case to be heard in the Supreme Court of the United States, a consensus must be reached among the justices. This agreement is known as:",
+   "choices": [
+    "a writ of certiorari",
+    "“the rule of four”",
+    "a certificate",
+    "a precedent",
+    "amicus curiae"
+   ],
+   "answer": 1,
+   "explanation": "In order for cases to be heard by the Supreme Court, the “rule of four” requires that at least four of the justices agree to place the case on the Court’s docket. A writ of certiorari (A) is an order issued by the Supreme Court directing a lower court to send up a record of a case for review. A precedent (B) is an example set by a court decision for future court cases. An amicus curiae (C) is a “friend of the court” brief. A certificate (E) is a query from a lower court to the Supreme Court regarding a rule of law or a procedure.",
+   "source": "AP U.S. Government · Practice Exam 1, Q15",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following would be a true statement regarding judicial review and the power of the court to declare an act of government unconstitutional?",
+   "choices": [
+    "All federal courts and most state courts hold this power.",
+    "Most federal courts and most state courts hold this power.",
+    "Only the Supreme Court of the United States holds this power.",
+    "Only federal courts hold this power.",
+    "All federal courts and all state courts hold this power."
+   ],
+   "answer": 0,
+   "explanation": "All federal and most state courts have the power of judicial review. Municipal courts are one type of court that does not have the power of judicial review.",
+   "source": "AP U.S. Government · Practice Exam 1, Q16",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The executive department charged with the administration of the largest entitlement program in the United States is",
+   "choices": [
+    "Homeland Security",
+    "Veterans Affairs",
+    "Labor",
+    "Health and Human Services",
+    "Education"
+   ],
+   "answer": 3,
+   "explanation": "The Department of Health and Human Services administers the Social Security program, which is the most extensive entitlement program in the United States. Homeland Security (B) prevents terrorist attacks in the United States. It includes the Coast Guard, Secret Service, Border Patrol, Immigration and Visa Services, and FEMA. The Department of Veterans Affairs (C) promotes the welfare of veterans of the armed forces. The Department of Labor (D) enforces federal labor laws and administers unemployment programs. The Department of Education (E) administers federal aid programs to schools.",
+   "source": "AP U.S. Government · Practice Exam 1, Q17",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Presidential impeachment",
+   "choices": [
+    "allows the Senate to bring charges against the president",
+    "is the removal of a president from office",
+    "exemplifies the concept of checks and balances",
+    "is presided over by the vice president",
+    "requires a majority vote of the Senate for conviction"
+   ],
+   "answer": 2,
+   "explanation": "In the impeachment process the House checks the power of the executive branch by bringing charges of impeachment against the president (E). The chief justice of the Supreme Court sits as the presiding judge in the impeachment trial, thus checking the power of the legislative branch over the executive branch (D). A two-thirds vote of the Senate is required for conviction (A). Impeachment is the act of bringing charges against the president; it may or may not result in conviction and the subsequent removal of the president from office (C).",
+   "source": "AP U.S. Government · Practice Exam 1, Q18",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "A group of individuals seeking to control government by winning an election and placing a candidate in office would best be described as a(n)",
+   "choices": [
+    "political action committee",
+    "caucus",
+    "interest group",
+    "constituency",
+    "political party"
+   ],
+   "answer": 4,
+   "explanation": "In the United States, a political party is a group of individuals that seeks to control government by winning elections. A caucus (A) is a state meeting to select delegates who, in turn, nominate candidates to political offices. An interest group (C) has no legal status in the election process. Political action committees (D) are the political arms of interest groups. A constituency (E) is the group of people in a state or district that a member of Congress represents.",
+   "source": "AP U.S. Government · Practice Exam 1, Q19",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "In order to get elected to the Congress, the most significant advantage is",
+   "choices": [
+    "an endorsement by a major business or community leader",
+    "financial support",
+    "incumbency",
+    "military service",
+    "knowledge of the workings of government"
+   ],
+   "answer": 2,
+   "explanation": "Although choices (B), (C), (D), and (E) may contribute to the success of a congressional candidate, the most significant advantage is incumbency. Name recognition, claiming credit for projects, providing casework for constituents, greater media exposure, and fundraising abilities are all advantages of incumbents during an election.",
+   "source": "AP U.S. Government · Practice Exam 1, Q20",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Constitutional amendments may be ratified by",
+   "choices": [
+    "a national convention",
+    "a two-thirds vote of each house of the Congress",
+    "legislatures of three-fourths of the states",
+    "state conventions called by Congress",
+    "legislatures of two-thirds of the states"
+   ],
+   "answer": 2,
+   "explanation": "One method of ratification of constitutional amendments is by the state legislatures in three-fourths of the states (E). A second method of ratification is by special conventions held in three-fourths of the states. These conventions are called by the states, not by Congress (A). Amendments may be proposed by a national convention (B) or by a two- thirds vote of both houses of Congress (C).",
+   "source": "AP U.S. Government · Practice Exam 1, Q21",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Justices of the Supreme Court and the lower federal courts serve for a period of",
+   "choices": [
+    "25 years",
+    "4 years",
+    "life, during good behavior",
+    "time determined by Congress",
+    "time determined by the president"
+   ],
+   "answer": 2,
+   "explanation": "Federal judges, including Supreme Court justices, serve for a period of life, during good behavior. They may be removed from office only through the impeachment process.",
+   "source": "AP U.S. Government · Practice Exam 1, Q22",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "James Madison applied the term “faction” to",
+   "choices": [
+    "political parties",
+    "political parties and interest groups",
+    "states not willing to be a part of the federal union",
+    "splinter groups of the executive",
+    "negative members of Congress"
+   ],
+   "answer": 1,
+   "explanation": "In Federalist #10 , James Madison referred to factions, meaning political parties and interest groups.",
+   "source": "AP U.S. Government · Practice Exam 1, Q23",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The general beliefs that the American public has about politics and policy issues can best be defined as",
+   "choices": [
+    "political ideology",
+    "political socialization",
+    "policy formulation",
+    "public opinion",
+    "public policy"
+   ],
+   "answer": 3,
+   "explanation": "Public opinion is the belief that the general public has about politics and public policy issues. Political socialization (A) is the complex process by which people get their sense of political identity, beliefs, and values. Public policy (B) is the exercise of governmental power in doing those things necessary to maintain legitimate authority and control over society. Policy formulation (C) is the crafting of a policy to resolve public problems. Political ideology (D) is a consistent set of beliefs about politics and public policy that sets the framework for evaluating government and public policy.",
+   "source": "AP U.S. Government · Practice Exam 1, Q24",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT a check on the power of the executive branch?",
+   "choices": [
+    "executive agreements",
+    "approval powers over appointments",
+    "judicial review of executive actions",
+    "public opinion",
+    "the power of the purse"
+   ],
+   "answer": 0,
+   "explanation": "Executive agreements are pacts made between the president and other heads of state. Unlike treaties, executive agreements do not require Senate approval. The power of the purse (B) is the fact that agency budgets must be authorized and appropriated by Congress. Judicial review of executive actions (C) is the power to declare executive actions unconstitutional. Public opinion may act as a check on presidential actions (D). Presidential appointments must be approved by a two-thirds vote of the Senate (E).",
+   "source": "AP U.S. Government · Practice Exam 1, Q25",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "After a proposed bill has had its first reading, what is generally the next step that a bill might encounter?",
+   "choices": [
+    "The proposed bill is sent to a standing committee.",
+    "The proposed bill is voted on by the entire Congress.",
+    "The proposed bill is sent to the president.",
+    "The proposed bill is vetoed by the president.",
+    "The proposed bill is reviewed by an investigating committee."
+   ],
+   "answer": 0,
+   "explanation": "After a bill is introduced, which is considered the first reading, it is then sent to the appropriate standing committee for review. The correct order for the remaining choices is A (if further information on the bill is necessary), E, B, and D.",
+   "source": "AP U.S. Government · Practice Exam 1, Q26",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is true of the constitutional provision regarding the electoral college?",
+   "choices": [
+    "Electoral ballots are cast along political party lines.",
+    "State legislatures with the help of the electoral college choose the president.",
+    "Each presidential electoral casts two ballots.",
+    "Electors are bound by state law to vote for their party’s candidate.",
+    "Electors are bound by federal law to vote for their party’s candidate."
+   ],
+   "answer": 2,
+   "explanation": "According to the Twelfth Amendment, each elector casts two ballots, one for president and another for vice president. State legislatures do not have a role in the choice of the president (B). Although not a constitutional provision, electoral votes are cast according to the state popular vote (C). Although electors are not bound by federal law to vote for their party’s candidate (D), the laws of a few states bind electors to vote according to the popular vote (E).",
+   "source": "AP U.S. Government · Practice Exam 1, Q27",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT a correct statement regarding interest groups?",
+   "choices": [
+    "Interest groups seek to improve their image by appealing to the public.",
+    "In recent years lobbying has become increasingly more regulated.",
+    "Federal law requires political action committees to donate to several candidates.",
+    "Interest groups concentrate on influencing Congress without involving the courts.",
+    "Interest groups sometimes form coalitions to strengthen their influence."
+   ],
+   "answer": 3,
+   "explanation": "Interest groups often take an issue to court if they are unsuccessful in gaining the support of Congress. The remaining answer choices are true regarding interest groups.",
+   "source": "AP U.S. Government · Practice Exam 1, Q28",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Sometimes litigants that are not part of the formal proceeding of Supreme Court oral arguments wish to have their points of view presented. They may file what is known as a(n)",
+   "choices": [
+    "certificate",
+    "per curiam decision",
+    "writ of certiorari",
+    "stare decisis",
+    "amicus curiae brief"
+   ],
+   "answer": 4,
+   "explanation": "Amicus curiae briefs are filed by “friends of the court,” interested parties who have no standing in the case but who wish to provide information and opinions to the court for consideration. A per curiam decision (A) is one delivered by the court as a whole. A certificate (B) is a method of bringing a case before the Supreme Court. A writ of certiorari (C) is an order by a higher court directing a lower court to provide the record in a case for review. Stare decisis (E) is the doctrine that a trial court is bound by the decisions of appellate courts.",
+   "source": "AP U.S. Government · Practice Exam 1, Q29",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT a basic principle of government found in the Constitution?",
+   "choices": [
+    "federalism",
+    "judicial review",
+    "conservatism",
+    "popular sovereignty",
+    "limited government"
+   ],
+   "answer": 2,
+   "explanation": "Conservatism, or the belief that big government infringes on personal liberties, is not a principle found in the Constitution. Popular sovereignty (A) is the concept that government exists with the consent of the governed. Limited government (C) is the principle that governmental power is restricted. Judicial review (D), one aspect of the principle of checks and balances, is the power of courts to determine the constitutionality of legislative and executive actions. Federalism (E) is the division of powers between a national government and several regional governments.",
+   "source": "AP U.S. Government · Practice Exam 1, Q30",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following would best describe gerrymandering?",
+   "choices": [
+    "dividing states along party lines in order to determine party strategy",
+    "drawing electoral districts within a state in order to favor a political party or candidate",
+    "dividing the states into regional electoral districts",
+    "a group of Congress members teaming together in order to get legislation passed",
+    "the breakdown of a political party within the Congress"
+   ],
+   "answer": 1,
+   "explanation": "The drawing of electoral districts within a state in order to favor one political party or candidate is known as gerrymandering. The other answer choices do not describe gerrymandering.",
+   "source": "AP U.S. Government · Practice Exam 1, Q31",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The political theory proposed by John Locke, calling for a nation to be developed as a voluntary agreement between citizens and government, is known as the",
+   "choices": [
+    "social contract theory",
+    "elite theory",
+    "divine right theory",
+    "hyperpluralist theory",
+    "state theory"
+   ],
+   "answer": 0,
+   "explanation": "The social contract theory, based on the writings of John Locke and supported by Thomas Jefferson in the Declaration of Independence, calls for a voluntary agreement between citizens and government. The divine right theory (A) was the traditional European belief that monarchs derived their power to govern from God. Hyperpluralism (B) views democracy as a system of many groups pulling government in many directions at the same time. The elite theory (E) holds that governmental power is in the hands of a small powerful elite. There is no state theory (D).",
+   "source": "AP U.S. Government · Practice Exam 1, Q32",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The power of the Supreme Court to determine the constitutionality of a law passed by Congress is called",
+   "choices": [
+    "constitutional review",
+    "Supreme Court review",
+    "judicial review",
+    "special review",
+    "congressional review"
+   ],
+   "answer": 2,
+   "explanation": "Judicial review allows a court to act on the constitutionality of a law passed by Congress. The Supreme Court established this principle in Marbury v. Madison (1803).",
+   "source": "AP U.S. Government · Practice Exam 1, Q33",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Independent agencies that are usually beyond the reach of presidential control are called",
+   "choices": [
+    "independent executive agencies",
+    "independent government agencies",
+    "executive agencies",
+    "independent regulatory commissions",
+    "government corporations"
+   ],
+   "answer": 3,
+   "explanation": "Independent regulatory commissions are created to act independently of presidential control.",
+   "source": "AP U.S. Government · Practice Exam 1, Q34",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT an expressed presidential power found in the United States Constitution?",
+   "choices": [
+    "commander of the military",
+    "granting pardons",
+    "making appointments",
+    "budget management",
+    "treaty making"
+   ],
+   "answer": 3,
+   "explanation": "The Constitution does not delegate manage-ment of the federal budget to the president. The Constitution does grant the president the powers of making appointments (A) and treaties (C), both with the consent of the Senate. The president is the commander-in-chief of the armed forces (B). The Constitution also gives the president the power to grant pardons (E).",
+   "source": "AP U.S. Government · Practice Exam 1, Q35",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following stages generally occurs earliest in the presidential election contest?",
+   "choices": [
+    "state primaries and caucuses",
+    "the popular election",
+    "national party conventions",
+    "the electoral college election",
+    "choosing a running mate"
+   ],
+   "answer": 0,
+   "explanation": "State primaries and caucuses generally occur earliest in the presidential election contest. The next stage is usually the national party convention (A) and selection of the running mate (E). The next stage is the popular election (B) followed by the electoral college election (D).",
+   "source": "AP U.S. Government · Practice Exam 1, Q36",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following are types of opinions that may be submitted by the justices when the Supreme Court reaches a decision in a case? I. majority opinion II. concurring opinion III. dissenting opinion IV. concluding opinion",
+   "choices": [
+    "I, II, III, and IV",
+    "I, II, and III only",
+    "II and IV only",
+    "II and III only",
+    "I only"
+   ],
+   "answer": 1,
+   "explanation": "The majority opinion is submitted by those justices who agree with the Court’s majority decision. A concurring opinion is submitted by a justice or justices who agree with the majority decision but have different reasons for doing so. A dissenting opinion is submitted by a justice or justices who disagree with the majority opinion. All three may be submitted to explain the decisions of the Court.",
+   "source": "AP U.S. Government · Practice Exam 1, Q37",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The most effective tool of any interest group wishing to influence the workings of government is",
+   "choices": [
+    "the lobbyist",
+    "the political party",
+    "grassroots organizations",
+    "the American voter",
+    "propaganda"
+   ],
+   "answer": 0,
+   "explanation": "Lobbyists serve interest groups by trying to bring influence on the workings of government.",
+   "source": "AP U.S. Government · Practice Exam 1, Q38",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "All of the following are strategies typically used by successful interest groups EXCEPT",
+   "choices": [
+    "bringing grassroots pressures on legislators",
+    "contributing to political candidates through political action committees",
+    "litigation",
+    "creating coalitions with other interest groups",
+    "engaging in acts of civil disobedience and violence"
+   ],
+   "answer": 4,
+   "explanation": "Successful interest groups usually employ tactics and strategies other than civil disobedience or violence. The remaining answer choices are methods frequently used by interest groups.",
+   "source": "AP U.S. Government · Practice Exam 1, Q39",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Poll taxes were fees paid by individuals in order to vote. Which amendment in the United States Constitution outlaws this practice?",
+   "choices": [
+    "Twentieth Amendment",
+    "Eighteenth Amendment",
+    "Twenty-First Amendment",
+    "Twenty-Fifth Amendment",
+    "Twenty-Fourth Amendment"
+   ],
+   "answer": 4,
+   "explanation": "The Twenty-Fourth Amendment abolished the poll tax. The Twentieth Amendment (A) set the dates of the terms of the president and vice president and of the sessions of Congress. The Eighteenth Amendment (B) established prohibition, while the Twenty-First Amendment (C) repealed prohibition. The Twenty-Fifth Amendment (D) dealt with presidential succession.",
+   "source": "AP U.S. Government · Practice Exam 1, Q40",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT a role of the members of Congress?",
+   "choices": [
+    "policymaker",
+    "gatekeeper",
+    "delegate",
+    "constituent servant",
+    "trustee"
+   ],
+   "answer": 1,
+   "explanation": "Gatekeepers are media executives, news editors, and prominent reporters who decide what news to present and how it will be presented. The remaining answer choices represent roles of the members of Congress. A constituent servant (A) is a representative who is interested in assisting constituents with problems. As a policymaker (C), a member of Congress makes public policy through the passage of legislation. A delegate (D) is a representative whose vote is based on the wishes of constituents. A trustee (E) is a representative who, after listening to constituents, votes based on his or her own opinions.",
+   "source": "AP U.S. Government · Practice Exam 1, Q41",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Amnesty would fall under which power of the president?",
+   "choices": [
+    "executive power",
+    "naturalization power",
+    "ordinance power",
+    "immigration power",
+    "judicial power"
+   ],
+   "answer": 4,
+   "explanation": "One of the judicial powers of the president is the power to grant amnesty, the offer of a pardon to a group of people who have committed offenses against the government. President Gerald Ford granted amnesty to men who left the United States during the Vietnam Conflict to avoid the draft.",
+   "source": "AP U.S. Government · Practice Exam 1, Q42",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "In the United States government the creation of every bureaucratic agency may be traced back to",
+   "choices": [
+    "Congress",
+    "the Constitution",
+    "the Articles of Confederation",
+    "the president",
+    "state governments"
+   ],
+   "answer": 0,
+   "explanation": "The Constitution gives Congress the power to establish agencies of the federal bureaucracy.",
+   "source": "AP U.S. Government · Practice Exam 1, Q43",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "What is the correct term for an organizational department of the government that has been created by the Congress but is still not located within the jurisdiction of one of the cabinet departments?",
+   "choices": [
+    "independent agency",
+    "government agency",
+    "congressional agency",
+    "legislative agency",
+    "executive agency"
+   ],
+   "answer": 0,
+   "explanation": "An independent agency is an agency of the executive branch that does not fall within the jurisdiction of a cabinet-level department. Examples include the Equal Opportunity Employment Commission and the Environmental Protection Agency.",
+   "source": "AP U.S. Government · Practice Exam 1, Q44",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "During the 1930s, President Franklin Roosevelt attempted to increase the size of the Supreme Court by an unusual scheme. If he had been successful, six new positions would have been added. What was this scheme called?",
+   "choices": [
+    "constitutional court controlling",
+    "partisan control",
+    "amicus addendum",
+    "stare decisis",
+    "court packing"
+   ],
+   "answer": 4,
+   "explanation": "“Court packing” is the term used to describe President Franklin Roosevelt’s plan to increase the size of the Supreme Court by allowing the appointment of justices who were more likely to support Roosevelt’s New Deal legislation. The plan was never implemented.",
+   "source": "AP U.S. Government · Practice Exam 1, Q45",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following best describes the speaker of the House?",
+   "choices": [
+    "controls Congress with the help of the president",
+    "shares power with the president pro tem",
+    "appointed by the president",
+    "appointed by members of his political party within the House",
+    "presiding officer of the House"
+   ],
+   "answer": 4,
+   "explanation": "The speaker of the House is the presiding officer of the House of Representatives. The speaker does not share power with the president pro tempore of the Senate (B). The speaker is elected by the members of the majority party in the House (C, D). The majority leader and the majority whip, not the president, assist the speaker (E).",
+   "source": "AP U.S. Government · Practice Exam 1, Q46",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT a function of an interest group?",
+   "choices": [
+    "provides information to government officials",
+    "provides an avenue for political parties to obtain the vote and confidence of the people",
+    "creates interest in public affairs",
+    "stimulates political participation by the people",
+    "provides for a system of checks and balances on government officials"
+   ],
+   "answer": 1,
+   "explanation": "Interest groups do not provide ways for political parties to obtain votes. Interest groups do create interest in public affairs (A), stimulate political participation by the people (C), provide information to the government on issues they represent (D), and help provide for the system of checks and balance through their monitoring functions (B).",
+   "source": "AP U.S. Government · Practice Exam 1, Q47",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which amendment of the United States Constitution altered the manner of voting in the electoral college?",
+   "choices": [
+    "Twenty-Fifth Amendment",
+    "Twentieth Amendment",
+    "Twenty-Second Amendment",
+    "Twelfth Amendment",
+    "Twenty-Sixth Amendment"
+   ],
+   "answer": 3,
+   "explanation": "The Twelfth Amendment provides for electors to choose the president and vice president by casting separate ballots for each office. Before the ratification of this amendment, each elector would cast two ballots. The candidate with the largest number of electoral votes became president, while the candidate receiving the second highest number of votes became vice president. The Twelfth Amendment was added in 1804 after the election of 1800 failed to produce a winner in the electoral college. Thomas Jefferson became president in 1801 after a long battle in the House of Representatives.",
+   "source": "AP U.S. Government · Practice Exam 1, Q48",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT mentioned in the United States Constitution?",
+   "choices": [
+    "taxation",
+    "impeachment",
+    "ex post facto laws",
+    "treason",
+    "political parties"
+   ],
+   "answer": 4,
+   "explanation": "Since political parties did not begin to form until George Washington’s second administration, the Constitution does not refer to political parties.",
+   "source": "AP U.S. Government · Practice Exam 1, Q49",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The primary purpose of a conference committee is to",
+   "choices": [
+    "determine if proposed bills are worthy of continuing the legislative process",
+    "review revenue bills",
+    "provide the president with an update on vetoed bills",
+    "compromise proposed bills between the two houses of the Congress",
+    "provide an investigative step in the passage of a bill"
+   ],
+   "answer": 3,
+   "explanation": "Conference committees are created to iron out the differences in the House and Senate versions of a bill. Their goal is to create a compromise bill that, once passed by the House and Senate, can be sent to the president for signature or veto.",
+   "source": "AP U.S. Government · Practice Exam 1, Q50",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is considered to be the main trial court within the federal court system?",
+   "choices": [
+    "a federal circuit court",
+    "a court of appeals",
+    "a district court",
+    "the Supreme Court",
+    "an appellate court"
+   ],
+   "answer": 2,
+   "explanation": "District courts serve as the trial courts within the federal court system. The remaining answer choices do not refer to trial courts.",
+   "source": "AP U.S. Government · Practice Exam 1, Q51",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following best describes the action taken by the Congress when the president vetoes a bill?",
+   "choices": [
+    "The bill is tabled.",
+    "The bill is sent to a conference committee.",
+    "The bill may become a law if both houses override the presidential veto by a simple majority in each house.",
+    "The speaker of the House is sent to discuss the bill with the president.",
+    "The bill may become a law if both houses override the presidential veto by a two-thirds vote."
+   ],
+   "answer": 4,
+   "explanation": "When the president vetoes a bill it is sent back to Congress, where it may become law if it is overridden by a two-thirds vote of both houses.",
+   "source": "AP U.S. Government · Practice Exam 1, Q52",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a false statement about the United States Constitution?",
+   "choices": [
+    "It provides for the protection of individual freedoms.",
+    "It provides for a system of checks and balances among the branches of government.",
+    "It is the guideline for fundamental law in the United States.",
+    "It limits the individual liberties of the American people.",
+    "It provides for the separation of power among the three branches of government."
+   ],
+   "answer": 3,
+   "explanation": "The Constitution does not limit the individual liberties of the American people. The Constitution, including the Bill of Rights, guarantees numerous rights to the people.",
+   "source": "AP U.S. Government · Practice Exam 1, Q53",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a characteristic of cooperative federalism? I. block grants II. revenue sharing III. federal grants-in-aid IV. devolution",
+   "choices": [
+    "I only",
+    "I, II, and IV only",
+    "II only",
+    "II, III, and IV only",
+    "I, II, and III only"
+   ],
+   "answer": 4,
+   "explanation": "Block grants, revenue sharing, and federal grants-in-aid are all characteristic of cooperative federalism. Devolution requires greater state responsibility about how grant money should be spent and is, therefore, a step away from cooperative federalism.",
+   "source": "AP U.S. Government · Practice Exam 1, Q54",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "In the absence of the vice president, who is the presiding officer in the United States Senate?",
+   "choices": [
+    "the minority leader",
+    "the majority leader",
+    "the speaker",
+    "the president pro tem",
+    "the president of the Senate"
+   ],
+   "answer": 3,
+   "explanation": "If the vice president, who serves as president of the Senate, is not present, the president pro tempore serves in the vice president’s absence. The majority party selects the president pro tempore .",
+   "source": "AP U.S. Government · Practice Exam 1, Q55",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Where in the Constitution is the establishment of a federal court system found?",
+   "choices": [
+    "Article III",
+    "Articles II and IV",
+    "Articles I and II",
+    "Article II",
+    "Article I"
+   ],
+   "answer": 0,
+   "explanation": "Article III of the Constitution establishes the federal court system. Article I describes the organization and powers of the legislative branch, while Article II establishes the executive branch. Article IV deals with relations among the states.",
+   "source": "AP U.S. Government · Practice Exam 1, Q56",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the Supreme Courts was the most active in the area of increasing the rights of the accused?",
+   "choices": [
+    "Taft Court",
+    "Warren Court",
+    "Rehnquist Court",
+    "Nixon Court",
+    "Marshall Court"
+   ],
+   "answer": 1,
+   "explanation": "The Supreme Court under Chief Justice Earl Warren (1953–1969) was the most active in increasing the rights of the accused. (Sample cases include Miranda v. Arizona , 1966; Gideon v. Wainwright , 1963; and Mapp v. Ohio , 1961.)",
+   "source": "AP U.S. Government · Practice Exam 1, Q57",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is part of the legislative process in the House of Representatives but NOT in the Senate?",
+   "choices": [
+    "roll-call vote",
+    "debate on the floor",
+    "referral to committee",
+    "assignment of rules",
+    "a filibuster"
+   ],
+   "answer": 3,
+   "explanation": "The assignment of rules occurs in the Rules Committee in the House of Representatives, but no such committee exists in the Senate. Filibusters (B) may occur in the Senate but not in the House of Representatives. Floor debate (A), referral to committee (C), and the roll-call vote (D) occur in both the House of Representatives and the Senate.",
+   "source": "AP U.S. Government · Practice Exam 1, Q58",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "If a state is using a party-column ballot, what type of voting strategy is a voter more likely to use?",
+   "choices": [
+    "partisan voting",
+    "straight-ticket voting",
+    "party-line voting",
+    "nonpartisan voting",
+    "split-ticket voting"
+   ],
+   "answer": 1,
+   "explanation": "Since the party-column ballot lists only the party members running for each office on the ballot, the party-column ballot attracts voters because it makes straight-ticket voting easier.",
+   "source": "AP U.S. Government · Practice Exam 1, Q59",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "According to James David Barber, which of the following is NOT a classification of presidential character?",
+   "choices": [
+    "active-negative",
+    "passive-negative",
+    "passive-positive",
+    "active-positive",
+    "positive-assertive"
+   ],
+   "answer": 4,
+   "explanation": "James David Barber classified types of presidential character as active- positive, active-negative, passive-positive, and passive-negative. Positive- assertive was not a classification used by Barber.",
+   "source": "AP U.S. Government · Practice Exam 1, Q60",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  }
+ ]
+}

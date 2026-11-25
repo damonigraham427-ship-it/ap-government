@@ -1,0 +1,118 @@
+{
+ "exams": [
+  {
+   "file": "apgov-diagnostic-1.json",
+   "title": "AP Government — Diagnostic Exam 1",
+   "note": "60 questions",
+   "category": "AP Government",
+   "chapter": "Diagnostics",
+   "draw": 20
+  },
+  {
+   "file": "apgov-diagnostic-2.json",
+   "title": "AP Government — Diagnostic Exam 2",
+   "note": "58 questions",
+   "category": "AP Government",
+   "chapter": "Diagnostics",
+   "draw": 20
+  },
+  {
+   "file": "apgov-ch06.json",
+   "title": "AP Government — Chapter 6: Architecture and Development of U.S. Government",
+   "note": "10 questions",
+   "category": "AP Government",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apgov-ch07.json",
+   "title": "AP Government — Chapter 7: Federalism",
+   "note": "10 questions",
+   "category": "AP Government",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apgov-ch08.json",
+   "title": "AP Government — Chapter 8: Political Culture",
+   "note": "5 questions",
+   "category": "AP Government",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apgov-ch09.json",
+   "title": "AP Government — Chapter 9: Political Parties",
+   "note": "10 questions",
+   "category": "AP Government",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apgov-ch10.json",
+   "title": "AP Government — Chapter 10: Voting and Elections",
+   "note": "10 questions",
+   "category": "AP Government",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apgov-ch11.json",
+   "title": "AP Government — Chapter 11: Interest Groups and the Mass Media",
+   "note": "10 questions",
+   "category": "AP Government",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apgov-ch12.json",
+   "title": "AP Government — Chapter 12: The Legislative Branch",
+   "note": "10 questions",
+   "category": "AP Government",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apgov-ch13.json",
+   "title": "AP Government — Chapter 13: The Executive Branch and the Bureaucracy",
+   "note": "10 questions",
+   "category": "AP Government",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apgov-ch14.json",
+   "title": "AP Government — Chapter 14: The National Judiciary",
+   "note": "10 questions",
+   "category": "AP Government",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apgov-ch15.json",
+   "title": "AP Government — Chapter 15: Civil Liberties and Civil Rights",
+   "note": "10 questions",
+   "category": "AP Government",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apgov-ch16.json",
+   "title": "AP Government — Chapter 16: Politics and Public Policymaking",
+   "note": "10 questions",
+   "category": "AP Government",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apgov-practice-1.json",
+   "title": "AP Government — Practice Exam 1",
+   "note": "60 questions",
+   "category": "AP Government",
+   "chapter": "Practice Exams"
+  },
+  {
+   "file": "apgov-practice-2.json",
+   "title": "AP Government — Practice Exam 2",
+   "note": "60 questions",
+   "category": "AP Government",
+   "chapter": "Practice Exams"
+  },
+  {
+   "file": "apgov-practice-3.json",
+   "title": "AP Government — Practice Exam 3",
+   "note": "60 questions",
+   "category": "AP Government",
+   "chapter": "Practice Exams"
+  }
+ ]
+}

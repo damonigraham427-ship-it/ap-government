@@ -1,0 +1,904 @@
+{
+ "questions": [
+  {
+   "question": "American civil liberties were granted by the",
+   "choices": [
+    "Judiciary Article of the United States Constitution",
+    "Declaration of Independence",
+    "Bill of Rights",
+    "Articles of Confederation",
+    "Supreme Court decision in Marbury v. Madison"
+   ],
+   "answer": 2,
+   "explanation": "The Bill of Rights established basic rights, including freedom of speech, petition, assembly, religion, and the press; the right to bear arms; freedom from unreasonable search and seizure; the right to a speedy and public jury trial; and freedom from cruel and unusual punishment. The Articles of Confederation (B) did not enumerate civil liberties. Although the Declaration of Independence (C) was a statement of the ideals of the new United States, it did not have the force of law and, therefore, did not establish civil liberties. The Judiciary Article (D) grants only the right of trial by jury in federal cases. Marbury v. Madison (E) established the principle of judicial review.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q1",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The only president to resign from office was",
+   "choices": [
+    "Zachary Taylor",
+    "Spiro Agnew",
+    "Lyndon Johnson",
+    "Calvin Coolidge",
+    "Richard Nixon"
+   ],
+   "answer": 4,
+   "explanation": "Richard Nixon resigned from office in 1974 as a result of the Watergate scandal. He is the only president to resign thus far. Calvin Coolidge (A) and Lyndon Johnson (C) completed their terms of office. Zachary Taylor (E) died while in office. Spiro Agnew (B) did resign from office, but he was a vice president, not a president.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q2",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Impeachment cases must be tried in the I. Senate only II. House only III. Senate and House IV. Senate and House with the Supreme Court presiding",
+   "choices": [
+    "II",
+    "I",
+    "IV",
+    "III",
+    "I and II"
+   ],
+   "answer": 1,
+   "explanation": "According to the Constitution, the House of Representatives brings charges of impeachment, whereas the Senate tries, or sits in judgment of, impeachment cases.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q3",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "An example of a government corporation would be",
+   "choices": [
+    "any independent regulatory agency found within the U.S. government",
+    "the U.S. armed forces",
+    "the U.S. Treasury Department",
+    "the Internal Revenue Service",
+    "the U.S. Postal Service"
+   ],
+   "answer": 4,
+   "explanation": "The U.S. Postal Service is a government corporation. The U.S. Treasury (A) is a department of the federal government. The armed forces (C) are part of the Defense Department, and the IRS (D) is an independent agency. Independent regulatory agencies (E) are part of the executive branch.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q4",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Primary elections are held to",
+   "choices": [
+    "give the voters more choice in the general election",
+    "narrow down the field of candidates within a political party",
+    "increase participation of third-party candidates",
+    "expand the field of candidates within a political party",
+    "allow state legislatures the opportunity to determine political districts"
+   ],
+   "answer": 1,
+   "explanation": "Primary elections are “first elections,” held to nominate candidates from within a political party. Primary elections narrow the field of party candidates to one (B), giving voters the choice of only one candidate per party in the general election (C). State legislatures do not use primary results to determine political districts (D). Primary elections are among the factors that limit the influence and participation of third-party candidates.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q5",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The primary purpose of major U.S. political parties is to control government by",
+   "choices": [
+    "pushing legislation through Congress",
+    "defining party principles",
+    "winning elections through peaceful legal actions",
+    "affecting public policy",
+    "promoting an individual political cause"
+   ],
+   "answer": 2,
+   "explanation": "The primary goal of political parties is to seek to control government through the winning of elections. Choice (D) reflects only one aspect of the role of political parties at the national level. The goals of affecting public policy (A), defining party principles (B), and promoting an individual political cause (E) are secondary goals for major U.S. political parties, which are election oriented.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q6",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The independent regulatory commission responsible for the supervision of the nation’s banking system and regulation of the money supply is the",
+   "choices": [
+    "Consumer Product Safety Commission",
+    "Federal Reserve System",
+    "Department of the Treasury",
+    "Federal Trade Commission",
+    "Securities and Exchange Commission"
+   ],
+   "answer": 1,
+   "explanation": "The Federal Reserve System was created in 1913 to supervise the nation’s banking system and to regulate the money supply. The Federal Trade Commission (A) regulates fraudulent trade practices. The Securities and Exchange Commission (B) supervises the exchange of securities to protect investors. The Department of the Treasury (D) is a department, not an independent regulatory commission, of the federal government that collects revenue and administers federal finances. The Consumer Product Safety Commission (C) is an independent regulatory agency that protects the public from faulty consumer products.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q7",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Senatorial elections",
+   "choices": [
+    "result in less diverse constituencies than those of representatives",
+    "provide for a continuous body in the Senate",
+    "attract less media attention than elections of representatives",
+    "promote frequent personal contact with senatorial constituencies",
+    "occur within single-member districts"
+   ],
+   "answer": 1,
+   "explanation": "Although senators are elected for six-year terms, senatorial elections are staggered so that only one-third of the Senate is elected every two years. Senators are elected in statewide, at-large elections (A), resulting in a larger and, therefore, more diverse, constituency (E). The prestige of the Senate leads to more media interest (B). Because senators are elected from the entire state, their constituencies are generally more diverse than those of representatives.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q8",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The Founding Fathers envisioned a president who would fulfill all of the following roles EXCEPT",
+   "choices": [
+    "the executor of bills passed by Congress",
+    "the head of state",
+    "a check on bills enacted into law",
+    "the commander of the armed forces",
+    "a shaper of public opinion"
+   ],
+   "answer": 4,
+   "explanation": "The world of the late 18th century was so limited, and the nature of the U.S. presidency so newly defined, that the Founding Fathers could not anticipate the extent to which future presidents would use their power to shape public opinion. The Constitution provides for the presidential role as a check on bills enacted into law through the power of the vote (B) and as administrator, or executor, of bills passed by Congress (E). Article II grants the president the command of the armed forces (D). As both the chief executive and the ceremonial head of the United States, the president is head of state (C).",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q9",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Before the Supreme Court hears the oral arguments of a case presented for its review, each side must present written documents supporting that side’s legal viewpoint. These written documents are known as",
+   "choices": [
+    "viewpoints of the court",
+    "briefs",
+    "a writ",
+    "a prospectus",
+    "legal documents"
+   ],
+   "answer": 1,
+   "explanation": "Briefs are written documents given to the court to present each side’s views on the case. Briefs do not present the viewpoint of the court (C). A legal document (A) states a contractual relationship or grants a right. A prospectus (D) is a document that describes major features of a proposed project, whereas a writ (E) is a legal order requiring a person to do or refrain from a specific act.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q10",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following best describes a filibuster?",
+   "choices": [
+    "A filibuster is a tactic that can only be used in the Senate.",
+    "It can easily be avoided or stopped.",
+    "It is used in both houses to stop or slow down action on legislation.",
+    "It is used quite often by the members of Congress and is usually very successful.",
+    "A filibuster is a tactic that can only be used in the House."
+   ],
+   "answer": 0,
+   "explanation": "A filibuster is a stalling tactic used only in the Senate (C, E), where debate is not limited. The House of Representatives limits debate under the authority of the Rules Committee (B). It is difficult to avoid or stop a filibuster because senators are hesitant to place limits on one another (D).",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q11",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Interest groups are most often associated with",
+   "choices": [
+    "methods of increasing voter participation",
+    "military issues",
+    "matters of social interest and value",
+    "matters of political interest",
+    "matters of economic interest"
+   ],
+   "answer": 4,
+   "explanation": "Although interest groups may focus on the subjects mentioned in choices (B) to (E), the largest number of interest groups are based on economic issues.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q12",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "In the United States, the average person’s political participation is limited to",
+   "choices": [
+    "ignoring government altogether",
+    "voting in local elections",
+    "working for a political party at some level of government",
+    "a basic understanding of government",
+    "voting in presidential elections"
+   ],
+   "answer": 4,
+   "explanation": "Voting in presidential elections is the method of participation used by the largest number of Americans. Most Americans do not vote in local elections (A) or work for a political party (E). Choice (B) refers to knowledge rather than participation, while choice (D) involves a lack of political participation.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q13",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The membership of the House of Representatives",
+   "choices": [
+    "is dependent on the national census",
+    "is a continuous body",
+    "is permanently restricted to 435 members",
+    "is apportioned according to the provisions of the New Jersey Plan",
+    "is elected in 50 statewide at-large elections"
+   ],
+   "answer": 0,
+   "explanation": "The number of representatives apportioned to each state depends on the findings of the most recent census. The members of the House of Representatives are elected every two years, preventing a continuous body as in the Senate (B). Congress may vote to alter the “permanent” size of the House (C). Only those states whose population is small enough to allow for only one representative elect representatives in at-large elections; most states elect representatives from single-member districts (D). The Virginia Plan provided for the apportionment of representatives according to population (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q14",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a major defect of the electoral college?",
+   "choices": [
+    "The candidate winning the popular vote always wins.",
+    "The Senate, not the people, decides elections for president.",
+    "Federal law apportions an equal number of electors to each state.",
+    "Electors are directed by the Constitution as to how to cast their ballot.",
+    "Electors are not legally pledged to their candidate."
+   ],
+   "answer": 4,
+   "explanation": "Electors are not legally pledged to vote for their candidate and may vote for any candidate (C). If no candidate wins a majority of electoral votes, it is the House, not the Senate, that decides the election (A). The candidate winning the popular vote sometimes loses the election, as in the election of 2000 (D). Each state is apportioned electors according to its number of representatives plus senators (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q15",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "In Lemon v. Kurtzman , the court established the Lemon Test. According to this test, which of the following would apply?",
+   "choices": [
+    "Education laws do not apply to religious freedom.",
+    "Religious freedom is guaranteed by the Constitution.",
+    "Prayer in public schools is unconstitutional.",
+    "State aid must be of a secular purpose if it is to be applied to a church school.",
+    "Prayer in public schools is constitutional."
+   ],
+   "answer": 3,
+   "explanation": "The Lemon Test created standards for the establishment clause of the First Amendment, under which state aid given to a church school must be for a secular purpose. Choices (A), (B), (C), and (D) are not included in this court decision.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q16",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is true about the voting process in America?",
+   "choices": [
+    "All individuals over the age of 18 are required to register to vote.",
+    "Anyone may vote regardless of registration status.",
+    "Local governments are responsible for voter registration laws.",
+    "The federal government regulates voter registration in all states.",
+    "State governments regulate voter registration within their respective state."
+   ],
+   "answer": 4,
+   "explanation": "Voter registration is regulated by state governments (A, E). Registration to vote is not required of anyone in the United States (C); most states, however, require registration in order to vote (D).",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q17",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "In order to ratify the Constitution of the United States",
+   "choices": [
+    "a three-fourths vote of all state legislatures had to approve the document",
+    "the document had to have unanimous approval by all of the states",
+    "the people had to approve the Constitution by popular vote",
+    "a two-thirds vote by both houses of the new government was necessary",
+    "9 of the 13 states had to approve the document"
+   ],
+   "answer": 4,
+   "explanation": "According to Article VII of the Constitution, ratification would occur with the approval of 9 of the 13 states.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q18",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT true about the Senate?",
+   "choices": [
+    "The most influential member is the Senate majority leader.",
+    "The Senate’s larger number makes it more powerful.",
+    "The Senate works with the president when treaties are involved.",
+    "The Senate contains 100 members.",
+    "Revenue bills cannot be introduced in the Senate."
+   ],
+   "answer": 1,
+   "explanation": "The Senate (E) has a smaller number of members (100) than the House of Representatives (435). The most influential member is the Senate majority leader, who often also serves as the spokesman for the majority party in the Senate (A). Revenue bills may be introduced only in the House (B). The Senate has the authority to ratify or reject a treaty made by the president (C).",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q19",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The purpose of the Twenty-Second Amendment, passed in 1951, was to",
+   "choices": [
+    "allow the president to choose a vice presidential running mate",
+    "allow voters in the District of Columbia to vote",
+    "provide more checks and balances on the executive office",
+    "allow for presidential impeachment",
+    "limit presidential terms of office"
+   ],
+   "answer": 4,
+   "explanation": "The Twenty-Second Amendment limits the president to two elected terms and not more than ten years in office. The Twenty-Third Amendment allows voters in the District of Columbia to vote in presidential elections (D). No amendments address checks and balances (C), presidential impeachment (E), or the selection of vice-presidential running mates (B).",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q20",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following presidents appointed the first woman to the Supreme Court of the United States?",
+   "choices": [
+    "Franklin Roosevelt",
+    "Gerald Ford",
+    "Jimmy Carter",
+    "Ronald Reagan",
+    "Bill Clinton"
+   ],
+   "answer": 3,
+   "explanation": "Sandra Day O’Connor, the first woman appointed to the Supreme Court, was appointed by Ronald Reagan in 1981.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q21",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a specific power of the House of Representatives? I. impeachment of the president II. election of the president if the electoral college fails III. initiation of revenue bills",
+   "choices": [
+    "I, II, and III",
+    "I only",
+    "III only",
+    "I and II",
+    "II only"
+   ],
+   "answer": 0,
+   "explanation": "The House of Representatives has the sole power to bring charges of impeachment, elect the president if there is not a majority in the electoral college, and initiate revenue bills.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q22",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Members of the federal executive bureaucracy tend to represent the interests of",
+   "choices": [
+    "the political party to which they belong",
+    "themselves",
+    "the president",
+    "the departments in which they work",
+    "the special interests to which they belong"
+   ],
+   "answer": 3,
+   "explanation": "A bureaucracy is an organization composed of several levels of authority. It often uses specialization to carry out the tasks of its departments and agencies. Members of the federal bureaucracy tend to represent the departments in which they work rather than the president (A), special interest groups (C), political parties (D), or themselves (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q23",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "In the United States, the powers of government are divided between a national government, state governments, and several regional and local governments. This system is called",
+   "choices": [
+    "democracy",
+    "federalism",
+    "checks and balances",
+    "republican government",
+    "delegated government"
+   ],
+   "answer": 1,
+   "explanation": "U.S. federalism is the division of governmental powers between national, state, and several regional and local governments. Delegated government (A) receives its powers through a constitution. Democracy (C) is rule by the people. A republican government (D) is one in which the people are ruled by elected representatives. Checks and balances (E) are the limits placed by one branch of the federal government over another.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q24",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "A private organization that attempts to get government officials to respond to its philosophy and way of thinking on particular issues is called a(n)",
+   "choices": [
+    "lobbyist",
+    "political power group",
+    "interest group",
+    "political pressure group",
+    "pressure group"
+   ],
+   "answer": 2,
+   "explanation": "Interest groups are private groups that attempt to pressure government officials to respond to their issue or philosophy. Choices (A), (B), and (D) do not specifically define an interest group. A lobbyist (E) is a representative of a special interest group.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q25",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The political belief that the president is the steward of the people and should continually act in the best interests of the people is known as the stewardship theory. Which president first promoted this theory?",
+   "choices": [
+    "Theodore Roosevelt",
+    "George Washington",
+    "Thomas Jefferson",
+    "Franklin Roosevelt",
+    "Woodrow Wilson"
+   ],
+   "answer": 0,
+   "explanation": "The progressive president Theodore Roosevelt first promoted the stewardship theory, a concept descriptive of the modern presidency. He articulated this philosophy in his 1913 autobiography.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q26",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "States, which require the winning candidates of each party to have an absolute majority in a primary election, may also require the holding of a(n)",
+   "choices": [
+    "closed primary",
+    "direct primary",
+    "nonpartisan primary",
+    "runoff primary",
+    "open primary"
+   ],
+   "answer": 3,
+   "explanation": "When no candidate receives an absolute majority in a primary, states may require a runoff election between the top candidates. An open primary (A) is one in which any qualified voter may participate. A closed primary (B) is one in which participants must be declared party members. A nonpartisan primary (D) is one in which the candidates do not run on party labels. A direct primary (E) is an election in which voters vote directly for their party’s candidates for office.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q27",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "In the United States, the Congress has created two types of federal courts. These courts are",
+   "choices": [
+    "constitutional and appellate courts",
+    "district and appellate courts",
+    "constitutional and legislative courts",
+    "district and constitutional courts",
+    "special and legislative courts"
+   ],
+   "answer": 2,
+   "explanation": "Constitutional courts are the federal courts created by Congress under Article III of the Constitution. Legislative courts are special courts that hear cases arising from the powers given to Congress under Article I (A). District courts, a type of constitutional court, serve as federal trial courts (B, E). Appellate courts (C), which decide appeals from district courts, are constitutional courts.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q28",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "What right is protected by the Second Amendment of the United States Constitution?",
+   "choices": [
+    "petition the federal government",
+    "serve in a militia",
+    "bear arms and maintain a militia",
+    "express and exhibit free speech",
+    "quarter troops"
+   ],
+   "answer": 2,
+   "explanation": "The Second Amendment provides the right to bear arms. Quartering troops is addressed in the Third Amendment (A). The First Amendment deals with free speech (E) and petitioning the government (D). No amendment addresses the issue of serving in a militia (C).",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q29",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a true statement about political parties in the United States?",
+   "choices": [
+    "Political parties are becoming less diverse in their membership.",
+    "Membership is voluntary and represents a good cross section of the country’s population.",
+    "Party membership is strengthening.",
+    "Political parties are addressed in the Constitution.",
+    "Membership is voluntary, but only a small portion of the voting public belongs."
+   ],
+   "answer": 1,
+   "explanation": "Membership in U.S. political parties is voluntary and represents voters from a variety of geographical regions, ethnic and racial groups, income and educational levels, religions, and ideologies. Political parties are not mentioned in the Constitution, and George Washington was elected to the presidency without membership in a party (A). A large portion of the voting public claims party membership (C). More and more U.S. voters are classifying themselves as independents (D), while members of political parties represent more diverse ideologies (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q30",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "An incumbent is a",
+   "choices": [
+    "first-time office holder",
+    "most recently defeated candidate",
+    "candidate with the most votes",
+    "candidate running for office",
+    "current office holder"
+   ],
+   "answer": 4,
+   "explanation": "Incumbents are current office holders.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q31",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "In developing the United States Constitution, which of the following plans called for a strong national government with three separate branches?",
+   "choices": [
+    "the Philadelphia Plan",
+    "the Connecticut Plan",
+    "the Hamilton Plan",
+    "the New Jersey Plan",
+    "the Virginia Plan"
+   ],
+   "answer": 4,
+   "explanation": "The Virginia Plan provided for a strong central government with three branches. The New Jersey Plan (B) called for a weak national government with three separate branches. The Connecticut Compromise (not a proposed plan) created a strong national government with three separate branches (C). There was no Philadelphia Plan (D), and the Hamilton Plan (E) favored a monarch.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q32",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "An interest group, a bureaucratic government agency, and a committee of Congress working together would be an example of",
+   "choices": [
+    "an independent regulatory agency",
+    "an independent government agency",
+    "an iron triangle",
+    "an issue network",
+    "a government corporation"
+   ],
+   "answer": 2,
+   "explanation": "An iron triangle is an alliance that develops between bureaucratic agencies, interest groups, and congressional committees or subcommittees in pursuit of a common goal. A government corporation is created by Congress to carry out businesslike activities (B). An issue network (C) is a group of individuals in Washington who regularly discuss and advocate public policies. An independent executive agency (D) is similar to a department but has no cabinet status. An independent regulatory agency (E) is one that is created to regulate or police.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q33",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The purpose of a poll watcher is to",
+   "choices": [
+    "ensure that enough ballots are on hand to meet the needs of voter turnout",
+    "ensure the election process at the poll is fair and honest",
+    "determine exit poll results",
+    "direct the voter to the proper polling station",
+    "help the election judge count the votes"
+   ],
+   "answer": 1,
+   "explanation": "A poll watcher is a representative of a political party or candidate who ensures that the election process is fair and honest. Election judges and other election officials direct voters (A), help count votes (B), and ensure that enough ballots are on hand (E). Political pollsters determine exit poll results (C).",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q34",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The president’s cabinet is designed to",
+   "choices": [
+    "both advise the president and administer a department of government",
+    "negotiate executive agreements",
+    "set the president’s agenda before the Congress",
+    "run the executive branch of the government",
+    "issue executive orders"
+   ],
+   "answer": 0,
+   "explanation": "The president’s cabinet advises the president; each secretary administers a department of the government. Only the president has the power to issue executive orders (A), negotiate executive agreements (B), run the executive branch (C), and set his agenda before the Congress (D).",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q35",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following terms best describes the legislative tactic of acquiring funds or projects for a congressperson’s home district?",
+   "choices": [
+    "gerrymandering",
+    "pork barrel legislation",
+    "logrolling",
+    "congressional campaigning",
+    "lobbying"
+   ],
+   "answer": 1,
+   "explanation": "Pork barrel legislation is the term for a member of Congress acquiring funds or projects for his or her home district. Logrolling (A) is an attempt by members of Congress to gain the support of other members for their support of the congressperson’s legislation. Gerrymandering (C) involves drawing congressional districts to favor one political party or group over another. Congressional campaigning (D) is the act of running for Congress. Lobbying (E) is the attempt of interest groups to support or reject legislation.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q36",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "What is the total current membership of the electoral college?",
+   "choices": [
+    "438",
+    "535",
+    "270",
+    "435",
+    "538"
+   ],
+   "answer": 4,
+   "explanation": "The electoral college is composed of 538 members, with each state having the same number of electors as the sum of its representatives and senators. The Twenty-Third Amendment provides that Washington, D.C., shall have the same number of electors as the smallest state—three.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q37",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "How many courts of appeals are there in the federal court system?",
+   "choices": [
+    "90",
+    "1",
+    "3",
+    "12",
+    "6"
+   ],
+   "answer": 3,
+   "explanation": "There are 12 courts of appeals in the federal court system.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q38",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Adding amendments to the United States Constitution is a two-step process that includes",
+   "choices": [
+    "proposal by the United States Senate and ratification by the House of Representatives",
+    "proposal and ratification by both houses of Congress",
+    "proposal by the executive branch and ratification by the legislative branch",
+    "proposal by the United States Congress and ratification by the states",
+    "proposal by the United States House of Representatives and ratification by the Senate"
+   ],
+   "answer": 3,
+   "explanation": "Amending the Constitution requires Congress to propose amendments by a two-thirds vote in both houses. The proposed amendment must then be ratified by the state legislatures of three-fourths of the states or by conventions held in three-fourths of the states. Another method of amendment allows Congress to call a national convention when requested by three-fourths of the state legislatures. This convention then initiates the process by proposing the amendment. To date a national convention has not been called to propose an amendment.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q39",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Each state in the House of Representatives is allowed a certain number of representatives. That number is determined by:",
+   "choices": [
+    "constitutional amendment",
+    "presidential mandate",
+    "the number of electors each state has in the electoral college",
+    "a number called for in the Constitution of each state",
+    "the population of each state"
+   ],
+   "answer": 4,
+   "explanation": "The Constitution requires that a state’s representation in the House of Representatives be based on the population of the state.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q40",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "In the case of a tie vote in the electoral college during the selection of the president, who is charged with electing the president?",
+   "choices": [
+    "Senate",
+    "House of Representatives",
+    "Supreme Court and House of Representatives",
+    "Supreme Court",
+    "Senate and Supreme Court"
+   ],
+   "answer": 1,
+   "explanation": "According to the Constitution, if the electoral college fails to choose a president, the House of Representatives is charged with choosing the president.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q41",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is an executive power of the Senate?",
+   "choices": [
+    "approving appointments and treaties",
+    "keeping a check on the House of Representatives",
+    "proposing constitutional amendments",
+    "trying impeachment cases",
+    "reviewing presidential vetoes"
+   ],
+   "answer": 0,
+   "explanation": "Approving appointments and treaties are executive powers of the Senate because they are used in conjunction with a power of the president. Reviewing presidential vetoes (A) and proposing constitutional amendments (D) are two of the Senate’s legislative powers. Trying impeachment cases (B) is a nonlegislative power of the Senate. The Senate does not check the power of the House of Representatives (C).",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q42",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following Supreme Court cases established the principle of judicial review in the American court system?",
+   "choices": [
+    "McCulloch v. Maryland",
+    "Mapp v. Ohio",
+    "Miranda v. Arizona",
+    "Gibbons v. Ogden",
+    "Marbury v. Madison"
+   ],
+   "answer": 4,
+   "explanation": "Marbury v. Madison (1803) established the principle of judicial review. McCulloch v. Maryland (1819) upheld the power of the national government by denying the right of a state to tax the Bank of the United States (A). Gibbons v. Ogden (1824) upheld the power of the national government over interstate commerce (B). Mapp v. Ohio (1961) extended the Fourth Amendment’s protection against unreasonable searches and seizures to the states as well as to the national government (D). Miranda v. Arizona (1966) held that the Fifth Amendment requires that a person arrested for a crime must be advised of his or her right to remain silent and to have an attorney present (E).",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q43",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following best describes a public interest group?",
+   "choices": [
+    "A public interest group seeks to benefit the nation as a whole rather than its self-interest.",
+    "A public interest group seeks to provide information to certain groups within the Congress.",
+    "A public interest group seeks to benefit its self-interest.",
+    "A public interest group seeks to win the support of the president.",
+    "A public interest group seeks to destroy government bureaucracy."
+   ],
+   "answer": 0,
+   "explanation": "A public interest group, such as Common Cause or Mothers Against Drunk Driving, seeks to benefit the nation as a whole. Public interest groups are concerned with issues such as the environment, consumer protection, crime, and civil rights.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q44",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "While the president has the power to make appointments, he or she also has the power to remove some appointed officials from office. Where in the United States Constitution is this power located?",
+   "choices": [
+    "Article II",
+    "Article III",
+    "Article IV",
+    "Article I",
+    "Article V"
+   ],
+   "answer": 0,
+   "explanation": "Article II of the Constitution addresses the powers of the president.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q45",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "What is the minimum age requirement for a member of the House of Representatives?",
+   "choices": [
+    "There is no minimum age requirement",
+    "35",
+    "The same age requirement as for the president",
+    "30",
+    "25"
+   ],
+   "answer": 4,
+   "explanation": "The minimum age for a member of the House of Representatives is 25.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q46",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which court was considered to be the most liberal court of the 20th century?",
+   "choices": [
+    "Burger Court",
+    "Taft Court",
+    "Warren Court",
+    "Taney Court",
+    "Marshall Court"
+   ],
+   "answer": 2,
+   "explanation": "Because of its decisions that expanded the rights of criminal defendants, the Supreme Court under Chief Justice Earl Warren is often considered the most liberal court of the 20th century. While the Burger court (B) was responsible for liberal decisions in Roe v. Wade and U.S. v. Nixon , it is generally considered a more conservative court for its narrowing of the rights of defendants. The Taft Court (E) was a conservative court. The Marshall (C) and Taney (D) courts were 19th-century courts.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q47",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The civil service system in the United States was created by",
+   "choices": [
+    "the Pendleton Act",
+    "the Civil Service Act of 1850",
+    "the Constitution",
+    "the Hatch Act",
+    "executive order"
+   ],
+   "answer": 0,
+   "explanation": "The Pendleton Act (1883) created the U.S. civil service system.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q48",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "A primary election open only to the known voters of a political party would best be described as a(n)",
+   "choices": [
+    "closed primary",
+    "indirect primary",
+    "wide-open primary",
+    "open primary",
+    "blanket primary"
+   ],
+   "answer": 0,
+   "explanation": "A primary election would best be described as a closed primary if only the known members of a political party were able to participate. In an open primary (A), voters may choose candidates of either party, whether they belong to that party or not. In a blanket primary (C), voters may choose the candidates of either party, voting for a Republican for one office and a Democrat for another. The wide-open primary (D) is another term for the blanket primary. “Indirect” is not a term used to describe primaries (B).",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q49",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "How many judges currently serve on the Supreme Court?",
+   "choices": [
+    "five",
+    "nine",
+    "ten",
+    "four",
+    "six"
+   ],
+   "answer": 1,
+   "explanation": "There are currently nine justices on the Supreme Court—a chief justice and eight associate justices.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q50",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT true of the seniority rule?",
+   "choices": [
+    "The seniority rule is not as important today as in the past.",
+    "The seniority rule ignores ability.",
+    "The seniority rule allows the most qualified individual to be selected for the job.",
+    "The seniority rule is significant in the selection of committee chairpersons.",
+    "The seniority rule discourages hard work."
+   ],
+   "answer": 2,
+   "explanation": "The seniority rule is the custom that the chair of a congressional committee is awarded to the member of the majority party with the longest participation on the committee. The use of the seniority rule does not require the selection of the most qualified individual to be chosen as a committee chairperson.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q51",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT an accurate description of the president’s ability to deal with the Congress?",
+   "choices": [
+    "The president may veto acts of Congress.",
+    "In dealing with Congress, the president works under a system of checks and balances.",
+    "The president must work with political party influences in Congress.",
+    "The president must work with Congress on issues important to both branches of the government.",
+    "The president is able to enact legislation that he or she deems necessary."
+   ],
+   "answer": 4,
+   "explanation": "The president is only able to suggest legislation. Congress must pass bills enacting legislation.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q52",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "If a special session of Congress is necessary after Congress has adjourned, who has the power to call Congress back into session?",
+   "choices": [
+    "the members of Congress",
+    "the president",
+    "the speaker of the House and the president pro tempore",
+    "the vice president by virtue of position in the Senate",
+    "the members of the House and Senate Special Session Committee"
+   ],
+   "answer": 1,
+   "explanation": "Only the president may call special sessions of Congress.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q53",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "When a case is appealed to the Supreme Court of the United States on the request of a lower court that is not sure on the point of law, the lower court must present a(n)",
+   "choices": [
+    "appeal",
+    "brief solicitation",
+    "certificate",
+    "writ of assistance",
+    "writ of certiorari"
+   ],
+   "answer": 2,
+   "explanation": "Appealing a case to the Supreme Court because a lower court is unsure on a point of law requires the presentation of a certificate. An appeal (B) is a case brought to a higher court from a lower court. A writ of assistance (C) was a document that allowed British officers to search a premise. A writ of certiorari (D) is a document from a superior court demanding the record of a case from an inferior court. A brief solicitation (E) is a request for a written argument presented to a court.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q54",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which U.S. president held the most press conferences?",
+   "choices": [
+    "Franklin Roosevelt",
+    "George Bush",
+    "John Kennedy",
+    "Richard Nixon",
+    "Jimmy Carter"
+   ],
+   "answer": 0,
+   "explanation": "Franklin Delano Roosevelt held the most press conferences, partly because of his long tenure in office and the national emergencies of the times.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q55",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The size of the House of Representatives is determined by",
+   "choices": [
+    "the population of the states",
+    "the president",
+    "Congress",
+    "the Constitution",
+    "the Supreme Court"
+   ],
+   "answer": 2,
+   "explanation": "Congress determines the size of the House of Representatives through the passage of legislation. The Reapportionment Act of 1929 established the current size at 435 members. Although each state’s membership in the House is determined by population, changes in population distribution are resolved by reapportionment, thus maintaining the current size of the House at 435 members.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q56",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Bicameralism is",
+   "choices": [
+    "a legislative body that shares power with an executive",
+    "a legislative body dominated by two major political parties",
+    "a legislative body composed of one house",
+    "a legislative body composed of two houses",
+    "a legislative body that shares power with a judiciary"
+   ],
+   "answer": 3,
+   "explanation": "Bicameralism describes a legislative body composed of two houses, such as the United States Congress.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q57",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "“A President’s power originates in his ability to persuade others.” This statement can best be attributed to which of the following individuals?",
+   "choices": [
+    "James David Barber",
+    "Richard Nixon",
+    "Richard Neustadt",
+    "John Locke",
+    "Bill Clinton"
+   ],
+   "answer": 2,
+   "explanation": "The quotation is attributed to Richard Neustadt.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q58",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The political party system in the United States is based on the principle of a(n)",
+   "choices": [
+    "independent system",
+    "two-party system",
+    "single-member district system",
+    "moderate-liberal system",
+    "multi-party system"
+   ],
+   "answer": 1,
+   "explanation": "The United States operates under a two-party system, with only two major parties having a reasonable chance of winning elections. A single- member district (B) is an electoral district from which voters choose one person for each elected office.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q59",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The Supreme Court of the United States has both original and appellate jurisdiction. The court usually hears cases on appeal and decides only a few cases each year. Who decides which cases the court will hear?",
+   "choices": [
+    "the chief justice of the Supreme Court",
+    "the attorney general of the United States",
+    "the members of the Supreme Court as a group",
+    "the solicitor general of the United States",
+    "the chief associate judge of the Supreme Court"
+   ],
+   "answer": 2,
+   "explanation": "The justices of the Supreme Court, using the rule of four, decide which cases they will consider. According to the rule of four, four of the nine justices must agree to hear the case.",
+   "source": "AP U.S. Government · Diagnostic Exam 1, Q60",
+   "topic": "Diagnostic Exam 1",
+   "topic_n": 1
+  }
+ ]
+}

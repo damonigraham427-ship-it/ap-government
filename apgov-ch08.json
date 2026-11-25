@@ -1,0 +1,79 @@
+{
+ "questions": [
+  {
+   "question": "Which of the following is NOT a concept found in the political culture of the American democratic society?",
+   "choices": [
+    "minority rule",
+    "private property",
+    "equality",
+    "majority rule",
+    "compromise"
+   ],
+   "answer": 0,
+   "explanation": "Majority rule/minority rights is a concept found in U.S. political culture. The other answer choices reflect ideals of U.S. democratic society.",
+   "source": "AP U.S. Government · Chapter 8 Review, Q1",
+   "topic": "Political Culture",
+   "topic_n": 1
+  },
+  {
+   "question": "The process by which citizens acquire a sense of their own political identity would best be defined as",
+   "choices": [
+    "public opinion",
+    "demographics",
+    "political socialization",
+    "patriotism",
+    "political culture"
+   ],
+   "answer": 2,
+   "explanation": "Political socialization is the process of acquiring a political identity. Public opinion (A) is a collection of shared attitudes of many different people. Demographics (C) and patriotism (E) are factors that shape political socialization. Political culture (D) is a set of basic values and beliefs about a country or government that is shared by most citizens.",
+   "source": "AP U.S. Government · Chapter 8 Review, Q2",
+   "topic": "Political Culture",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following would be a true statement regarding public opinion?",
+   "choices": [
+    "Public opinion is shaped by an individual’s political culture and political socialization.",
+    "Public opinion is usually based on the ideas of small select groups within a given political socialization area.",
+    "Public opinion allows citizens to become aware of politics, learn facts, and form political values.",
+    "A change in public opinion is always a slow process.",
+    "Public opinion teaches patriotism."
+   ],
+   "answer": 0,
+   "explanation": "Public opinion is shaped by an individual’s political culture and political socialization. Institutions such as the family and schools teach patriotism (A). Public opinion is shaped by facts and political values (B). Change may be slow or sudden and may be analyzed (D). Public opinion is based on attitudes shared by many different people (E).",
+   "source": "AP U.S. Government · Chapter 8 Review, Q3",
+   "topic": "Political Culture",
+   "topic_n": 1
+  },
+  {
+   "question": "Attempting to measure public opinion by asking the same question of a large number of people is",
+   "choices": [
+    "a controlling poll",
+    "a literary poll",
+    "a sampling poll",
+    "a straw poll",
+    "a scientific poll"
+   ],
+   "answer": 3,
+   "explanation": "A straw poll is an attempt to measure public opinion by asking the same question of a large number of people. Sampling (B) and controlling (C) are features of scientific polling (D). A literary poll (E) refers to an inaccurate poll taken in the election campaign of 1936.",
+   "source": "AP U.S. Government · Chapter 8 Review, Q4",
+   "topic": "Political Culture",
+   "topic_n": 1
+  },
+  {
+   "question": "There are many different ideologies within the political spectrum. An ideology that promotes a limited governmental role in helping individuals and supports traditional values and lifestyles would best be defined as a",
+   "choices": [
+    "reactionary ideology",
+    "moderate ideology",
+    "liberal ideology",
+    "radical ideology",
+    "conservative ideology"
+   ],
+   "answer": 4,
+   "explanation": "A conservative ideology promotes a limited governmental role in helping individuals and supports traditional values and lifestyles. Liberal ideology (A) supports active government involvement. Reactionary ideology (B) desires a return to an earlier social order or government. Radical ideology (C) favors rapid, fundamental change. Moderate ideology (D) falls between liberal and conservative on the political spectrum.",
+   "source": "AP U.S. Government · Chapter 8 Review, Q5",
+   "topic": "Political Culture",
+   "topic_n": 1
+  }
+ ]
+}

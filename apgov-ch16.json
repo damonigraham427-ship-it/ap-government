@@ -1,0 +1,154 @@
+{
+ "questions": [
+  {
+   "question": "During the policymaking process, when a plan of action is executed by an agency or agencies, what important step has taken place?",
+   "choices": [
+    "policy adoption",
+    "policy formulation",
+    "policy implementation",
+    "policy evaluation",
+    "agenda setting"
+   ],
+   "answer": 2,
+   "explanation": "Policy implementation is the process of enactment of policy. Policy formulation (A) involves finding ways to solve the problem. Policy adoption (C) is adopting a plan of action. Agenda setting (D) is the recognition of an issue as a problem that must be addressed. Policy evaluation (E) is analysis of the policy and its impact.",
+   "source": "AP U.S. Government · Chapter 16 Review, Q1",
+   "topic": "Politics and Public Policymaking",
+   "topic_n": 1
+  },
+  {
+   "question": "What has been the major goal of the government’s education policy?",
+   "choices": [
+    "give more power to the states",
+    "provide more money to low-income schools",
+    "increase the power of the Department of Education",
+    "ensure equal access to educational opportunity",
+    "provide more programs for higher education"
+   ],
+   "answer": 3,
+   "explanation": "The major educational policy goal of the federal government has been to ensure equal access to educational opportunities. Recently the federal government has played an increasing role in education (A). Although choices (B), (C), and (D) are goals of the government’s educational policy, these goals are subordinate to the greater goal of equal access to education.",
+   "source": "AP U.S. Government · Chapter 16 Review, Q2",
+   "topic": "Politics and Public Policymaking",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT associated with U.S. domestic policy?",
+   "choices": [
+    "The National Security Council",
+    "The Federal Bureau of Investigation",
+    "The Environmental Protection Agency",
+    "The Centers for Disease Control",
+    "The Drug Enforcement Administration"
+   ],
+   "answer": 0,
+   "explanation": "The National Security Council deals with foreign and defense policy and includes the chairman of the Joint Chiefs of Staff, the president’s national security advisor, and the director of the CIA. The other answer choices deal with U.S. domestic policy.",
+   "source": "AP U.S. Government · Chapter 16 Review, Q3",
+   "topic": "Politics and Public Policymaking",
+   "topic_n": 1
+  },
+  {
+   "question": "In the United States the largest percentage of government spending goes to",
+   "choices": [
+    "Medicare and Medicaid programs",
+    "Centers for Disease Control",
+    "the Food and Drug Administration",
+    "Veterans Affairs",
+    "public health services"
+   ],
+   "answer": 0,
+   "explanation": "Medicare and Medicaid receive the largest percentage of government spending. The other answer choices are programs and agencies that involve somewhat less government spending.",
+   "source": "AP U.S. Government · Chapter 16 Review, Q4",
+   "topic": "Politics and Public Policymaking",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following was the first major government act of economic support?",
+   "choices": [
+    "the Medicare and Medicaid Act",
+    "the Social Security Act",
+    "the Welfare Act",
+    "the Great Society Act",
+    "the Reduction in Poverty Act"
+   ],
+   "answer": 1,
+   "explanation": "The first major governmental act to aid citizens was the Social Security Act. Answers D and E are nonexistent organizations. Medicare and Medicaid (B) are programs that began under President Johnson’s Great Society (A) in the 1960s.",
+   "source": "AP U.S. Government · Chapter 16 Review, Q5",
+   "topic": "Politics and Public Policymaking",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is true regarding U.S. economic policy?",
+   "choices": [
+    "Disaster aid is included under mandatory spending .",
+    "The government raises revenue primarily through the collection of taxes.",
+    "Discretionary spending includes interest on the national debt.",
+    "Government planners may make choices about nondiscretionary spending.",
+    "The Department of the Treasury is held responsible for the economic health of the nation."
+   ],
+   "answer": 1,
+   "explanation": "The primary source of government revenue is taxation. Government planners make choices about discretionary spending (A). The president and the Congress are held responsible for the nation’s economic health (B). Interest on the national debt is discretionary spending (D). Disaster aid (E) is included under discretionary spending. Mandatory spending is another term for nondiscretionary spending.",
+   "source": "AP U.S. Government · Chapter 16 Review, Q6",
+   "topic": "Politics and Public Policymaking",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT a part of the federal budget process?",
+   "choices": [
+    "The executive branch (OMB) holds meetings to review budget proposals.",
+    "Each federal agency submits an estimate of needs to the OMB.",
+    "The Supreme Court reviews budget requests that are outside the realm of constitutional law .",
+    "Congress debates budget proposals.",
+    "Congress sends appropriations bills to the president."
+   ],
+   "answer": 2,
+   "explanation": "The Supreme Court does not participate in the federal budget process. The remaining answer choices are steps in the process of creating the federal budget.",
+   "source": "AP U.S. Government · Chapter 16 Review, Q7",
+   "topic": "Politics and Public Policymaking",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT a true statement?",
+   "choices": [
+    "Foreign policy is the responsibility of the Congress through the secretary of state.",
+    "The process of carrying out foreign policy is accomplished through foreign relations.",
+    "Foreign policy involves all the strategies and procedures for dealing with other nations.",
+    "The purpose of foreign policy is to maintain peaceful relations with foreign nations.",
+    "Defense policy is the role that the military establishment plays in providing for the defense of the nation."
+   ],
+   "answer": 0,
+   "explanation": "The president, not Congress, works with the secretary of state to develop foreign policy. The other answer choices describe the nature of foreign policy.",
+   "source": "AP U.S. Government · Chapter 16 Review, Q8",
+   "topic": "Politics and Public Policymaking",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following departments is most responsible for providing the president with military information that would be useful in dealing with foreign nations?",
+   "choices": [
+    "the Department of State",
+    "the United States Information Agency",
+    "the National Security Council",
+    "the Central Intelligence Agency",
+    "the Department of Defense"
+   ],
+   "answer": 4,
+   "explanation": "The Department of Defense is responsible for providing military information to the president. The Department of State (A), the National Security Council (C), and the Central Intelligence Agency (E) deal with foreign policy. The United States Information Agency (D) runs radio stations, libraries, and educational programs in foreign countries.",
+   "source": "AP U.S. Government · Chapter 16 Review, Q9",
+   "topic": "Politics and Public Policymaking",
+   "topic_n": 1
+  },
+  {
+   "question": "Current foreign policy issues include all of the following EXCEPT",
+   "choices": [
+    "national defense",
+    "national education",
+    "nuclear proliferation",
+    "terrorism",
+    "international trade"
+   ],
+   "answer": 1,
+   "explanation": "National education is a domestic policy issue. The remaining answer choices deal with foreign policy issues.",
+   "source": "AP U.S. Government · Chapter 16 Review, Q10",
+   "topic": "Politics and Public Policymaking",
+   "topic_n": 1
+  }
+ ]
+}

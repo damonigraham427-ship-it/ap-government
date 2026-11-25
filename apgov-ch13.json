@@ -1,0 +1,154 @@
+{
+ "questions": [
+  {
+   "question": "The office of the president of the United States can best be described as an office",
+   "choices": [
+    "full of conflict and by nature difficult to understand",
+    "untouched by the power and experience of the person holding it",
+    "created as a mere ceremonial head of state",
+    "of great responsibility and function",
+    "dedicated to the service of the government beyond the will of the people"
+   ],
+   "answer": 3,
+   "explanation": "The presidency is the most important single office in the United States, and the powers of the president extend beyond just ceremonial duties (B). The roles and powers of the presidency are clearly defined by Article II of the Constitution (C, E). The power and experience of the president contributes to the prestige of the office (D).",
+   "source": "AP U.S. Government · Chapter 13 Review, Q1",
+   "topic": "The Executive Branch and the Bureaucracy",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following amendments provides for presidential succession and disability?",
+   "choices": [
+    "Twenty-Third",
+    "Twenty-Second",
+    "Twenty-Seventh",
+    "Twenty-Fifth",
+    "Twentieth"
+   ],
+   "answer": 3,
+   "explanation": "The Twenty-Fifth Amendment provides for succession and disability. The Twenty-Second Amendment (A) deals with presidential tenure. The Twentieth Amendment (B) sets the beginning dates of the terms for the president, vice president, and members of Congress. The Twenty-Third Amendment (D) provides presidential electors for the District of Columbia. The Twenty-Seventh Amendment (E) deals with salary increases for members of Congress.",
+   "source": "AP U.S. Government · Chapter 13 Review, Q2",
+   "topic": "The Executive Branch and the Bureaucracy",
+   "topic_n": 1
+  },
+  {
+   "question": "When the Founding Fathers finally decided on the length of the presidential term of office, they established a term",
+   "choices": [
+    "of eight years",
+    "not to exceed ten years",
+    "that could not be renewed after four years",
+    "of four years",
+    "that could extend indefinitely if reviewed by Congress"
+   ],
+   "answer": 3,
+   "explanation": "The term of office for the president is four years.",
+   "source": "AP U.S. Government · Chapter 13 Review, Q3",
+   "topic": "The Executive Branch and the Bureaucracy",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a constitutional qualification for being president? I. must be at least 35 years old II. must be a natural-born citizen III. must have lived in the United States for at least 14 years IV. must be a naturalized citizen within the first five years of birth",
+   "choices": [
+    "I, II, III, and IV",
+    "I, II, III only",
+    "II, III, and IV only",
+    "I and II only",
+    "II and III only"
+   ],
+   "answer": 1,
+   "explanation": "There are three formal qualifications for president outlined in the Constitution: he or she must be at least 35 years of age, must be a natural- born citizen of the United States, and must have lived in the United States for at least 14 years.",
+   "source": "AP U.S. Government · Chapter 13 Review, Q4",
+   "topic": "The Executive Branch and the Bureaucracy",
+   "topic_n": 1
+  },
+  {
+   "question": "If the president becomes disabled and cannot perform his or her duties, how may the vice president take over the office of the president? I. The president may write a letter to the leaders of Congress stating lack of ability to perform the duties of office. II. Congress removes the president. III. The vice president and a majority of the cabinet may remove the president.",
+   "choices": [
+    "I only",
+    "I and III only",
+    "II and III only",
+    "II only",
+    "I and II only"
+   ],
+   "answer": 1,
+   "explanation": "Either the president may inform Congress of his or her inability to perform the duties of office, or the vice president and a majority of the cabinet may inform Congress of the president’s inability to perform his or her duties.",
+   "source": "AP U.S. Government · Chapter 13 Review, Q5",
+   "topic": "The Executive Branch and the Bureaucracy",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT considered to be a part of the Executive Office of the President?",
+   "choices": [
+    "Office of Personnel Management",
+    "White House Office",
+    "National Security Council",
+    "Office of Management and Budget",
+    "Council of Economic Advisors"
+   ],
+   "answer": 0,
+   "explanation": "The Office of Personnel Management is an independent agency that is not a part of the EOC. The other answer choices are offices in the EOC.",
+   "source": "AP U.S. Government · Chapter 13 Review, Q6",
+   "topic": "The Executive Branch and the Bureaucracy",
+   "topic_n": 1
+  },
+  {
+   "question": "Members of the president’s cabinet are usually individuals of great ability but little or no political power. Which of the following best describes this statement?",
+   "choices": [
+    "Cabinet members serve as long as the president remains in office.",
+    "The Senate must approve all appointments made by the president.",
+    "Cabinet members serve as an informal advisory body.",
+    "The primary functions of cabinet members are to effectively run a department of government and advise the president.",
+    "Only the president may appoint and remove members of the cabinet."
+   ],
+   "answer": 3,
+   "explanation": "Cabinet members must possess the administrative skills necessary to run a cabinet-level department as well as to advise the president. At the same time, they serve largely at the request of the president (C, D, E) and by approval of the Senate (A).",
+   "source": "AP U.S. Government · Chapter 13 Review, Q7",
+   "topic": "The Executive Branch and the Bureaucracy",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following was NOT an original cabinet position?",
+   "choices": [
+    "secretary of the treasury",
+    "secretary of state",
+    "secretary of war",
+    "secretary of the interior",
+    "attorney general"
+   ],
+   "answer": 3,
+   "explanation": "The secretary of the interior was not added to the cabinet until 1849. Washington’s cabinet was composed of secretaries of state (A), war (B), and the treasury (E) in addition to an attorney general (C).",
+   "source": "AP U.S. Government · Chapter 13 Review, Q8",
+   "topic": "The Executive Branch and the Bureaucracy",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following powers is used by the president for the purpose of enforcing federal law?",
+   "choices": [
+    "general administrative power",
+    "executive agreements",
+    "patronage",
+    "veto power",
+    "judicial power"
+   ],
+   "answer": 0,
+   "explanation": "The president uses administrative powers to enforce federal laws. The president’s veto power (B) is a legislative power; executive agreements (C) are included in the president’s diplomatic powers. Patronage (D) is the practice of offering political positions or jobs to friends and supporters. The president’s judicial power (E) includes appointing members of the federal judiciary and granting pardons, reprieves, and amnesty.",
+   "source": "AP U.S. Government · Chapter 13 Review, Q9",
+   "topic": "The Executive Branch and the Bureaucracy",
+   "topic_n": 1
+  },
+  {
+   "question": "The partisan power of the president is most recognizable in the fact that the president",
+   "choices": [
+    "alone must write the party platform",
+    "is the head of a political party",
+    "appoints all party members",
+    "is an elected leader",
+    "checks the power of the party controlling Congress"
+   ],
+   "answer": 1,
+   "explanation": "The president serves as the elected leader of his or her political party (A).",
+   "source": "AP U.S. Government · Chapter 13 Review, Q10",
+   "topic": "The Executive Branch and the Bureaucracy",
+   "topic_n": 1
+  }
+ ]
+}

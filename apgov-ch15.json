@@ -1,0 +1,154 @@
+{
+ "questions": [
+  {
+   "question": "Which constitutional amendment provides for the expansion of individual rights found in the Bill of Rights?",
+   "choices": [
+    "Twenty-Second Amendment",
+    "Fourteenth Amendment",
+    "Twenty-Fifth Amendment",
+    "Nineteenth Amendment",
+    "Fifteenth Amendment"
+   ],
+   "answer": 1,
+   "explanation": "The Fourteenth Amendment has been used to apply the freedoms listed in the Bill of Rights to the states. The Fifteenth Amendment (B) prevents the states from denying the right to vote to any person on the basis of race, color, or servitude. The Nineteenth Amendment (C) prohibits the denial of suffrage on the basis of sex. The Twenty-Second Amendment (D) addresses presidential tenure, while the Twenty-Fifth Amendment (E) deals with presidential succession.",
+   "source": "AP U.S. Government · Chapter 15 Review, Q1",
+   "topic": "Civil Liberties and Civil Rights",
+   "topic_n": 1
+  },
+  {
+   "question": "The Constitution creates a “wall of separation between Church and State” in the words of the",
+   "choices": [
+    "exclusionary clause",
+    "establishment clause",
+    "judiciary clause",
+    "expansion clause",
+    "elastic clause"
+   ],
+   "answer": 1,
+   "explanation": "The First Amendment’s Establishment Clause creates a wall of separation between Church and State.",
+   "source": "AP U.S. Government · Chapter 15 Review, Q2",
+   "topic": "Civil Liberties and Civil Rights",
+   "topic_n": 1
+  },
+  {
+   "question": "The Supreme Court case that overturned a state law setting aside time for “voluntary prayer” in public schools was",
+   "choices": [
+    "Wallace v. Jaffree",
+    "Lemon v. Kurtzman",
+    "Lee v. Weisman",
+    "Santa Fe Independent School District v. Doe",
+    "Edwards v. Aguillard"
+   ],
+   "answer": 0,
+   "explanation": "Wallace v. Jaffree overturned a state law setting aside time for voluntary prayer in public schools. Santa Fe Independent School District v. Doe (A) overturned a Texas law allowing high school students to read a prayer at athletic events. Lee v. Weisman (B) ruled against clergy-led prayer at high school graduation ceremonies. In Edwards v. Aguillard (C) the Court ruled that Louisiana could not force public schools that taught evolution to also teach creationism. In Lemon v. Kurtzman (D) the Court struck down a Pennsylvania law reimbursing parochial schools for textbooks and salaries and established the Lemon Test.",
+   "source": "AP U.S. Government · Chapter 15 Review, Q3",
+   "topic": "Civil Liberties and Civil Rights",
+   "topic_n": 1
+  },
+  {
+   "question": "Using actions rather than words to convey an idea would be an example of",
+   "choices": [
+    "speech plus",
+    "pure speech",
+    "symbolic speech",
+    "free speech",
+    "limited speech"
+   ],
+   "answer": 2,
+   "explanation": "Symbolic speech is the use of actions and symbols to convey ideas. Speech plus (A) is the use of verbal and symbolic speech together. Pure speech (B) means verbal speech.",
+   "source": "AP U.S. Government · Chapter 15 Review, Q4",
+   "topic": "Civil Liberties and Civil Rights",
+   "topic_n": 1
+  },
+  {
+   "question": "Which Supreme Court case ruled that flag burning is a protected form of symbolic speech?",
+   "choices": [
+    "Miller v. California",
+    "Tinker v. Des Moines",
+    "Reno v. ACLU",
+    "Texas v. White",
+    "Texas v. Johnson"
+   ],
+   "answer": 4,
+   "explanation": "Texas v. Johnson was the case in which the Supreme Court ruled that flag burning is a protected form of symbolic speech. In Reno v. ACLU (A) the Court ruled the Communications Decency Act unconstitutional because it was vague in its regulation of Internet speech. Miller v. California (B) established the Miller test, which sets standards for measuring obscenity. In Tinker v. Des Moines (D) the Court ruled that wearing black armbands in protest of the Vietnam War was symbolic speech protected by the First Amendment. In Texas v. White (E) the Court held that Texas had remained a state since it first joined the Union.",
+   "source": "AP U.S. Government · Chapter 15 Review, Q5",
+   "topic": "Civil Liberties and Civil Rights",
+   "topic_n": 1
+  },
+  {
+   "question": "The right of the government to take property for public use as long as the government provides just compensation for the property is called",
+   "choices": [
+    "eminent domain",
+    "procedural due process",
+    "public domain",
+    "substantive due process",
+    "emigrant domain"
+   ],
+   "answer": 0,
+   "explanation": "Eminent domain is the right of the government to take property for public use provided the government compensates for the property. Substantive due process (A) refers to the requirement that the government must create fair laws and policies. Procedural due process (D) refers to the requirement that the government must use fair methods and procedures.",
+   "source": "AP U.S. Government · Chapter 15 Review, Q6",
+   "topic": "Civil Liberties and Civil Rights",
+   "topic_n": 1
+  },
+  {
+   "question": "The Supreme Court, in Mapp v. Ohio, ruled that evidence obtained without a search warrant could be excluded from trial in state courts. This finding upholds the constitutional guarantee of no unreasonable search and seizure found in the",
+   "choices": [
+    "Fourth Amendment",
+    "First Amendment",
+    "Fourteenth Amendment",
+    "Fifth Amendment",
+    "Fifteenth Amendment"
+   ],
+   "answer": 0,
+   "explanation": "Constitutional guarantees of protections against unreasonable searches and seizures are found in the Fourth Amendment.",
+   "source": "AP U.S. Government · Chapter 15 Review, Q7",
+   "topic": "Civil Liberties and Civil Rights",
+   "topic_n": 1
+  },
+  {
+   "question": "What government action brought an end to Jim Crow laws and legal segregation in America?",
+   "choices": [
+    "the Twenty-Fourth Amendment",
+    "the Supreme Court ruling in Brown v. Board of Education",
+    "the Civil Rights Act of 1875",
+    "the Supreme Court ruling in Plessy v. Ferguson",
+    "Presidential Executive Order 8802"
+   ],
+   "answer": 1,
+   "explanation": "The Supreme Court ruling in Brown v. Board of Education brought an end to Jim Crow laws and legal segregation in the United States. The Civil Rights Act of 1875 (A) outlawed racial discrimination in public places, but required African Americans to take their cases to federal court. Executive Order 8802 (B) banned racial discrimination in the defense industry and government offices. In Plessy v. Ferguson (C) the Court upheld Jim Crow laws and created the “separate but equal” doctrine. The Twenty-Fourth Amendment (E) ended the poll tax.",
+   "source": "AP U.S. Government · Chapter 15 Review, Q8",
+   "topic": "Civil Liberties and Civil Rights",
+   "topic_n": 1
+  },
+  {
+   "question": "What has been the most recent government action taken to end discrimination against Native Americans in the United States?",
+   "choices": [
+    "the Indian Gaming Regulatory Act",
+    "the Native American Reservation Act",
+    "the Native American Language Act",
+    "the American Indian Movement Act",
+    "the Native American Tribal Act"
+   ],
+   "answer": 2,
+   "explanation": "The Native American Language Act (1990), which encouraged the continuation of native languages and culture, is the most recent of the acts listed.",
+   "source": "AP U.S. Government · Chapter 15 Review, Q9",
+   "topic": "Civil Liberties and Civil Rights",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following prohibits gender discrimination in the workplace?",
+   "choices": [
+    "Equal Employment Opportunity Act",
+    "Equal Unemployment Opportunity Act",
+    "Equal Pay Act",
+    "Women’s Civil Rights Act of 1964",
+    "Nineteenth Amendment"
+   ],
+   "answer": 0,
+   "explanation": "The Equal Employment Opportunity Act prohibits gender discrimination in the workplace. The Equal Pay Act (A) made it illegal to base an employee’s pay on race, gender, religion, or national origin. The Nineteenth Amendment (D) prohibits the denial of suffrage on the basis of gender. There are no acts titled the Women’s Civil Rights Act (C) or the Equal Unemployment Opportunity Act (B).",
+   "source": "AP U.S. Government · Chapter 15 Review, Q10",
+   "topic": "Civil Liberties and Civil Rights",
+   "topic_n": 1
+  }
+ ]
+}

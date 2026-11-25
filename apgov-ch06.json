@@ -1,0 +1,154 @@
+{
+ "questions": [
+  {
+   "question": "All of the following are examples of checks and balances EXCEPT",
+   "choices": [
+    "impeachment of the president",
+    "declaration of war by Congress",
+    "appointment of Supreme Court justices",
+    "presidential veto",
+    "ratification of treaties"
+   ],
+   "answer": 1,
+   "explanation": "A declaration of war by Congress is an expressed power of Congress under Article I of the Constitution. The presidential veto (A) is a check on the power of the legislative branch. Impeachment is a check by the legislative and judicial branches on the power of the executive branch (B). The appointment of Supreme Court justices (C) is checked by the executive and legislative branches. The Senate must ratify treaties negotiated by the executive branch (D).",
+   "source": "AP U.S. Government · Chapter 6 Review, Q1",
+   "topic": "Architecture and Development of U.S. Government",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following documents best describes a government based on unity, natural rights, and the social contract theory?",
+   "choices": [
+    "Articles of Confederation",
+    "Petition of Rights",
+    "U.S. Constitution",
+    "Mayflower Compact",
+    "Declaration of Independence"
+   ],
+   "answer": 4,
+   "explanation": "The Declaration of Independence was based on the writings of John Locke and his theory of a social contract between government and the governed. The document unified the colonies to fight for independence by advancing the ideas of natural law, which states that there are certain rights that government cannot take away from the people. The Petition of Rights (E) was an English document that challenged the divine right concept. The Mayflower Compact (C) was based on the consent of the governed, but it did not enumerate natural rights. The U.S. Constitution (D) reflects the ideals of unity and the consent of the governed, but does not specifically define the concepts of natural rights and the social contract theory as the Declaration does. The Articles of Confederation (A) did not specifically address the concepts of natural rights and the social contract.",
+   "source": "AP U.S. Government · Chapter 6 Review, Q2",
+   "topic": "Architecture and Development of U.S. Government",
+   "topic_n": 1
+  },
+  {
+   "question": "The original purpose of the Constitutional Convention was to",
+   "choices": [
+    "deal with the issue of slavery",
+    "write a new constitution",
+    "deal with the unsuccessful economic chaos and violence that resulted from the conferences at Mt. Vernon and Annapolis",
+    "review the problems of the state governments",
+    "revise the Articles of Confederation"
+   ],
+   "answer": 4,
+   "explanation": "Because of the problems among the states under the Articles of Confederation, the Constitutional Convention was convened to revise the Articles and to strengthen the power of the government. This convention dealt with the problems of the national government and not those of the states (B). Neither was the convention called to deal with the slavery issue (D) nor to write an entirely new plan of government (A). Economic chaos and violence were the causes, not the results, of the conferences at Mt. Vernon and Annapolis (E).",
+   "source": "AP U.S. Government · Chapter 6 Review, Q3",
+   "topic": "Architecture and Development of U.S. Government",
+   "topic_n": 1
+  },
+  {
+   "question": "Compared to government under the Articles of Confederation, the Constitution I. can more easily be amended II. created a federal republic III. called for separation of powers among three branches of government IV. created a league of friendship among the states",
+   "choices": [
+    "II and IV only",
+    "I, II, and III only",
+    "I only",
+    "I, II, III, and IV",
+    "I and III only"
+   ],
+   "answer": 1,
+   "explanation": "The Constitution created a federal system of government, allowed for an easier amendment process, and created three separate branches of government—legislative, executive, and judicial.",
+   "source": "AP U.S. Government · Chapter 6 Review, Q4",
+   "topic": "Architecture and Development of U.S. Government",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following was NOT a weakness of government under the Articles of Confederation?",
+   "choices": [
+    "Unanimous decisions were necessary to amend articles.",
+    "It lacked a national judiciary.",
+    "The national judiciary resolved arguments between the states.",
+    "Congress lacked the power to tax.",
+    "It was unable to control commercial interests."
+   ],
+   "answer": 2,
+   "explanation": "Under the Articles of Confederation, there was no national judiciary. State courts resolved differences among the states. The remaining answer choices are correct.",
+   "source": "AP U.S. Government · Chapter 6 Review, Q5",
+   "topic": "Architecture and Development of U.S. Government",
+   "topic_n": 1
+  },
+  {
+   "question": "Slavery and the taxation of exports were important topics to the Founding Fathers. Which compromise describes how the Founding Fathers resolved both of these issues?",
+   "choices": [
+    "Electoral Compromise",
+    "Great Compromise",
+    "Connecticut Compromise",
+    "Three-Fifths Compromise",
+    "Commerce and Slave Trade Compromise"
+   ],
+   "answer": 4,
+   "explanation": "Differences between northern and southern interests at the Constitutional Convention led to a compromise concerning the slave trade and the taxation of exports from the states. The Commerce and Slave Trade Compromise prohibited Congress from ending the slave trade for a period of 20 years and prohibited the taxation of exports from the states. The Connecticut (Great) Compromise (C, A) resolved the question of representation in Congress. The Three-Fifths Compromise (D) counted slaves as three-fifths of a person for purposes of taxation and representation in Congress. Another compromise created the electoral college (E).",
+   "source": "AP U.S. Government · Chapter 6 Review, Q6",
+   "topic": "Architecture and Development of U.S. Government",
+   "topic_n": 1
+  },
+  {
+   "question": "Those who support the pluralist theory of democracy believe that",
+   "choices": [
+    "interest groups compete to promote their preferences",
+    "democracy is a hierarchical structure with bureaucrats holding the real power",
+    "democracy is based on choosing officials to run the government",
+    "government depends on the “consent of the governed”",
+    "a small number of powerful corporate and military leaders rule in their own self-interest"
+   ],
+   "answer": 0,
+   "explanation": "Robert Dahl’s pluralist theory is based upon the idea of competing interest groups vying for power. Choices (A) and (C) describe traditional democratic theory. Answer (B) pertains to the bureaucratic theory, and choice (D) represents the elite theory.",
+   "source": "AP U.S. Government · Chapter 6 Review, Q7",
+   "topic": "Architecture and Development of U.S. Government",
+   "topic_n": 1
+  },
+  {
+   "question": "The Supreme Court’s decision in Marbury v. Madison (1803)",
+   "choices": [
+    "strengthened the powers of the states",
+    "expanded the powers of Congress",
+    "established the principle of judicial review",
+    "supported the concept of national supremacy",
+    "allowed Congress to amend the Constitution"
+   ],
+   "answer": 2,
+   "explanation": "Marbury v. Madison established the principle of judicial review, allowing the courts to determine the constitutionality of acts of Congress.",
+   "source": "AP U.S. Government · Chapter 6 Review, Q8",
+   "topic": "Architecture and Development of U.S. Government",
+   "topic_n": 1
+  },
+  {
+   "question": "The Bill of Rights includes",
+   "choices": [
+    "the articles of the Constitution",
+    "all the formal amendments",
+    "the Articles of Confederation",
+    "the first 10 amendments",
+    "the Preamble"
+   ],
+   "answer": 3,
+   "explanation": "The Bill of Rights, adopted in 1791, includes only the first 10 amendments to the Constitution (D). The Preamble sets forth the purposes of the Constitution (A). The articles are the sections of the Constitution (C). The Articles of Confederation (B) predated the Constitution.",
+   "source": "AP U.S. Government · Chapter 6 Review, Q9",
+   "topic": "Architecture and Development of U.S. Government",
+   "topic_n": 1
+  },
+  {
+   "question": "Amending the Constitution is a multi-step process. Which of the following steps are required to amend the Constitution? I. proposal at the national level II. proposal at the state level III. presidential signature IV. ratification at the state level",
+   "choices": [
+    "III and IV only",
+    "I and IV only",
+    "I, II, III, and IV",
+    "I, II, and III only",
+    "II and III only"
+   ],
+   "answer": 1,
+   "explanation": "Article V of the Constitution outlines the formal amendment process, which includes congressional proposal of amendments at the national level and state ratification of amendments.",
+   "source": "AP U.S. Government · Chapter 6 Review, Q10",
+   "topic": "Architecture and Development of U.S. Government",
+   "topic_n": 1
+  }
+ ]
+}

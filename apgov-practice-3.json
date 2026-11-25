@@ -1,0 +1,904 @@
+{
+ "questions": [
+  {
+   "question": "In nearly every congressional election, the candidates talk about overhauling",
+   "choices": [
+    "the control the president has over the annual congressional agenda",
+    "the number of terms a member of Congress can stay in office",
+    "the franking privilege enjoyed by members of Congress",
+    "the persistence of pork barrel legislation",
+    "the cumbersome committee structure of both houses of Congress"
+   ],
+   "answer": 3,
+   "explanation": "Although term limits can sometimes be an issue, the one issue that is continually critiqued in congressional elections is pork barrel spending, by which members of Congress bring projects and programs back to their own districts, sometimes with the use of earmarks in appropriations bills. Predictably, many citizens oppose pork barrel spending in principle but are not upset when their own member of Congress brings projects “home.” The president does have some influence over the annual congressional agenda, but that is not an issue in congressional elections. The franking privilege (which is also not an election issue) allows members of Congress to send mail to constituents without paying postage; members of Congress are thus able to brag about all they have done for free!",
+   "source": "AP U.S. Government · Practice Exam 3, Q1",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT a result of the electoral college system?",
+   "choices": [
+    "A third-party candidate would have a difficult time winning a presidential election.",
+    "Candidates campaign in many small states in the days leading up to a presidential election.",
+    "It is possible for a candidate to win the popular vote on the national level but still lose the presidential election.",
+    "Voters do not actually elect the president when they go to the polls in early November.",
+    "A scenario is possible where the House of Representatives chooses the president."
+   ],
+   "answer": 1,
+   "explanation": "Since all of a state’s electoral votes are generally cast as a block, the result is that, in practice, the electoral college system requires presidential candidates to try to win as many large states as possible. As a result, small states rarely see presidential candidates during the campaign.",
+   "source": "AP U.S. Government · Practice Exam 3, Q2",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Impeachment proceedings were started against both Presidents Richard Nixon and Bill Clinton. Which statement best compares the two situations?",
+   "choices": [
+    "Both men had a trial in the Senate; neither was convicted.",
+    "The mass media were sympathetic to both Clinton and Nixon during their impeachment hearings.",
+    "The House Judiciary Committee passed articles of impeachment against both presidents.",
+    "Both men were formally impeached by the House of Representatives.",
+    "The case of Richard Nixon was very similar to the case of Andrew Johnson; the case of Bill Clinton was not."
+   ],
+   "answer": 2,
+   "explanation": "The House Judiciary Committee passed articles of impeachment against both Presidents Clinton and Nixon. Richard Nixon resigned before the entire House of Representatives voted on these. Bill Clinton and Andrew Johnson were both impeached by the House of Representatives but acquitted by the Senate. The press sensationalized the impeachment hearings of Bill Clinton, particularly in its coverage of Clinton’s affair with a White House intern. The press was very critical of Richard Nixon throughout his impeachment process.",
+   "source": "AP U.S. Government · Practice Exam 3, Q3",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Many people, including a number who have actually served as vice presidents, have observed that the vice president of the United States has little real power. The powers of the vice president include all EXCEPT which of the following?",
+   "choices": [
+    "taking over for a disabled president under the terms of the Twenty- Fifth Amendment",
+    "presiding over presidential impeachment trials in the United States Senate",
+    "serving as an advisor to the president on many issues",
+    "playing a pivotal role in “balancing the ticket” in a number of presidential campaigns",
+    "casting tie-breaking votes in the United States Senate"
+   ],
+   "answer": 1,
+   "explanation": "Presidential impeachment trials in the Senate are presided over by the Chief Justice of the United States. All of the other answer choices accurately describe the vice president’s duties.",
+   "source": "AP U.S. Government · Practice Exam 3, Q4",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "The principle of judicial activism was most ardently practiced by which Supreme Court?",
+   "choices": [
+    "the Supreme Court of Earl Warren",
+    "the Supreme Court of John C. Marshall",
+    "the Supreme Court of John Roberts",
+    "the Supreme Court of the early New Deal era",
+    "the Supreme Court of Warren Burger"
+   ],
+   "answer": 0,
+   "explanation": "The Warren Court was deeply involved in promoting school integration and the rights of prisoners in custody and, as a result, is the most activist of the Courts listed. The Supreme Court of John C. Marshall began the principle of judicial review but was not activist; government played a much smaller role in society then than it does today. The Burger Court followed the Warren Court and was much more conservative, limiting the rights of defendants in several cases, although the Burger Court did make the famous Roe v. Wade abortion decision in 1973. The Supreme Court of the early New Deal era blocked a number of measures that Franklin Roosevelt attempted to enact during the New Deal, stating that they were unconstitutional. Although it is too early to pass judgment on the present Supreme Court of John Roberts, several of its members persistently call for judicial restraint.",
+   "source": "AP U.S. Government · Practice Exam 3, Q5",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "The pivotal Supreme Court case that ruled that the wearing of black armbands in school to protest the Vietnam War was symbolic speech and protected by the First Amendment was",
+   "choices": [
+    "Tinker v. Des Moines",
+    "Brandenburg v. Ohio",
+    "Reno v. ACLU",
+    "Gitlow v. New York",
+    "Texas v. Johnson"
+   ],
+   "answer": 0,
+   "explanation": "The Court ruled on this case in 1969. Gitlow v. New York was a 1925 case in which the Court upheld the conviction of a defendant for advocating the overthrow of the United States government by passing out communist pamphlets. Brandenburg v. Ohio was a 1969 ruling in which the Court stated that inflammatory speech cannot be punished unless it is found to cause immediate lawless action. In Texas v. Johnson the Court ruled that flag-burning was a form of protected speech under the First Amendment. Reno v. ACLU was a 1997 Court ruling that was the first to deal with subject matter found on the Internet; the Court struck down anti-indecency provisions of the Communications Decency Act, stating that they violated free speech provisions of the First Amendment.",
+   "source": "AP U.S. Government · Practice Exam 3, Q6",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "As a result of the Connecticut Compromise",
+   "choices": [
+    "all states had equal representation in both legislative bodies",
+    "a national court structure was established",
+    "the issue of the power of the presidency was solved",
+    "a bicameral legislature was created",
+    "a single executive was chosen who could only serve one term"
+   ],
+   "answer": 3,
+   "explanation": "While larger states wanted a legislature that would give the bigger states more representatives and the smaller states wanted a legislature in which all states would have equal representation, the Connecticut Compromise established two legislative bodies, the House of Representatives and the Senate.",
+   "source": "AP U.S. Government · Practice Exam 3, Q7",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT a check that the legislative branch has over the executive branch?",
+   "choices": [
+    "Congress can refuse to confirm a presidential appointment.",
+    "Congress can refuse to fund programs requested by the executive branch.",
+    "Congress can officially ask for a referendum on a specific executive act.",
+    "Congress can override a presidential veto.",
+    "Congress can impeach the president and remove him or her from office."
+   ],
+   "answer": 2,
+   "explanation": "There is no provision for ever calling for a referendum at the federal level. Referendums commonly take place at the state and local levels. All of the other answer choices correctly describe checks Congress has on the power of the president.",
+   "source": "AP U.S. Government · Practice Exam 3, Q8",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT a power of state government?",
+   "choices": [
+    "establishment of licensing requirements for certain professions",
+    "regulation of the public schools",
+    "regulation of corporations",
+    "regulation of immigration",
+    "regulation of intrastate commerce"
+   ],
+   "answer": 3,
+   "explanation": "Immigration policy, which involves the admission into the United States of individuals from other nations, is controlled by the federal government. All of the other powers listed are reserved for the states.",
+   "source": "AP U.S. Government · Practice Exam 3, Q9",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "A political candidate who states that the government should be actively involved in supporting human rights and individual welfare and who supports change within the system would be termed a",
+   "choices": [
+    "moderate",
+    "conservative",
+    "liberal",
+    "radical",
+    "reactionary"
+   ],
+   "answer": 2,
+   "explanation": "Liberals would argue that changes in society should take place within the system; radicals would say that it may be necessary to go outside of the system to create real change. A moderate would be less likely to be an advocate of fundamental changes in government involvement. A conservative is unlikely to support greater government involvement in individual welfare.",
+   "source": "AP U.S. Government · Practice Exam 3, Q10",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "During the 1936 presidential election campaign, a poll taken by Literary Digest predicted that Alfred Landon would defeat Franklin Roosevelt. The problem with this poll was",
+   "choices": [
+    "more men were asked the question than women",
+    "those who responded to the poll were not a true cross-section of the voting public",
+    "the poll was conducted only in certain states",
+    "the manner in which the question was worded favored Landon",
+    "the names of those polled were provided by the national Democratic and Republican parties"
+   ],
+   "answer": 1,
+   "explanation": "Those polled were chosen from automobile registrations and telephone directories, so this was not a representative sample. Many supporters of Franklin Roosevelt did not have cars or telephones.",
+   "source": "AP U.S. Government · Practice Exam 3, Q11",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "The vast majority of cases appealed to the Supreme Court are never actually ruled on by the Court. Which of the following is NOT a reason the Court may decide not to rule on a case?",
+   "choices": [
+    "The Supreme Court justices agree with the decision of the lower court.",
+    "The justices agree that the case does not involve a significant point of law.",
+    "The case has passed the “date of expiration” established by the Court.",
+    "The case does not pass the “Rule of Four.”",
+    "Through brief orders, the case may be sent back to a lower court."
+   ],
+   "answer": 2,
+   "explanation": "There is no formal “date of expiration” for Supreme Court cases. All of the other answer choices are accurate statements that help explain why only a small percentage of cases are actually considered by the Supreme Court. The “Rule of Four” refers to the requirement that four of the nine Supreme Court justices need to agree that a case should be heard by the Supreme Court; if at least four justices do not agree to hear the case, the case is not considered by the Court.",
+   "source": "AP U.S. Government · Practice Exam 3, Q12",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "The heads of the executive departments are all members of the president’s cabinet. The two newest executive departments are",
+   "choices": [
+    "Department of Education and Department of Veterans Affairs",
+    "Department of Commerce and Department of Labor",
+    "Department of Agriculture and Department of Homeland Security",
+    "Department of Human Services and Department of Veterans Affairs",
+    "Department of Veterans Affairs and Department of Homeland Security"
+   ],
+   "answer": 4,
+   "explanation": "The size of the cabinet has steadily expanded as more executive departments have been created. The Department of Veterans Affairs and the Department of Homeland Security were the most recent two executive departments created. The Department of Agriculture was formed in 1889, the Department of Commerce was created in 1903, the Department of Labor was formed in 1913, and the Department of Health and Human Services (originally called the Department of Health, Education, and Welfare) was formed in 1953. The Department of Education was split off from that department in 1979. The Veterans Administration (VA) was turned into a cabinet-level Department of Veterans Affairs in 1989. The Department of Homeland Security was created in 2002 in response to the September 11, 2001, attacks on the World Trade Center and the Pentagon.",
+   "source": "AP U.S. Government · Practice Exam 3, Q13",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "When is a filibuster used?",
+   "choices": [
+    "when a member of the Senate wants to introduce legislation specifically desired by the president",
+    "when a member of the House of Representatives wants to introduce new legislation",
+    "when a member of the Senate wishes to delay action or a vote on a specific bill",
+    "when there is a tie vote in the Senate on a bill",
+    "when a member of the Senate wishes to persuade members of the opposition party to support a specific bill"
+   ],
+   "answer": 2,
+   "explanation": "A filibuster is used by a member or members of the Senate to delay action on a bill they oppose that is expected to be approved by the body as a whole.",
+   "source": "AP U.S. Government · Practice Exam 3, Q14",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "To enforce federal laws or federal court decisions in extreme cases, the president can",
+   "choices": [
+    "direct state courts in states that do not comply with a federal law to rule on the legality of the federal law(s) in question",
+    "appoint new governors in states that do not comply with federal law",
+    "disband the state legislatures in states that do not comply with federal law",
+    "order the U.S. military to see that federal law is enforced",
+    "call for congressional impeachment of elected officials from states that do not comply with federal law"
+   ],
+   "answer": 3,
+   "explanation": "As commander in chief, the president can use the military to enforce U.S. laws and maintain order. Presidents Eisenhower and Kennedy used the military to enforce federal court orders relating to civil rights in the South. The federal government, including the president, does not have the legal ability to directly intervene in the affairs of state government; thus, the federal government has no ability to call for the impeachment of state officials, appoint new governors, disband state legislatures, or direct state courts to make any specific rulings.",
+   "source": "AP U.S. Government · Practice Exam 3, Q15",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "If the census determines that a state’s population has declined significantly from the last census, which of the following would NOT be expected to happen as a result?",
+   "choices": [
+    "loss of committee chairmanships for senators and representatives from that state",
+    "a decline in federal funding for that state",
+    "less chance that a candidate from that state would be chosen as a vice presidential candidate to “balance the ticket”",
+    "a decline in the overall “political pull” of that state",
+    "a possible decline in the number of representatives from that state in the House of Representatives"
+   ],
+   "answer": 0,
+   "explanation": "The selection of committee chairpersons in Congress is not related to the population of their states; chairpersons are still chosen largely by seniority, although other factors are beginning to play a part too. A decline in population might cause a state to lose representatives in the House of Representatives; with fewer representatives, the “political pull” of the state can be expected to decline as well. Thus, a drop in population can be expected to lead to a decline in federal funding for that state and a lower possibility that anyone from that state would develop into a national presidential or vice-presidential candidate.",
+   "source": "AP U.S. Government · Practice Exam 3, Q16",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "According to the preamble of the United States Constitution, the goals of public policy for the United States include all EXCEPT which of the following?",
+   "choices": [
+    "providing for the common defense",
+    "establishing justice",
+    "forming a more perfect union",
+    "promoting the general welfare",
+    "protecting private property"
+   ],
+   "answer": 4,
+   "explanation": "There is nothing about protecting private property in the preamble to the U.S. Constitution. All of the other answer choices are specifically included in the preamble.",
+   "source": "AP U.S. Government · Practice Exam 3, Q17",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "According to the pluralist theory of democratic government",
+   "choices": [
+    "bureaucrats, who carry on the day-to-day workings of the government, actually control public policy",
+    "a small number of elites rule in their own self-interest",
+    "interest groups continually compete in the public arena; as a result, bargaining and compromise are necessities",
+    "there are many strong groups influencing government and each pulls the government in numerous directions, creating gridlock",
+    "government depends on the consent of the governed"
+   ],
+   "answer": 2,
+   "explanation": "The pluralist theory holds that vigorous competition among interest groups to achieve their goals necessitates a government of compromise and a continual reevaluation of priorities. Response (A) represents the elite theory of government, and choice (B) is representative of the theory of hyperpluralism. Response (C) reflects the bureaucratic theory of government, while response (E) represents traditional democratic theory.",
+   "source": "AP U.S. Government · Practice Exam 3, Q18",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Who was the only president to serve more than two terms in office?",
+   "choices": [
+    "Franklin Roosevelt",
+    "William Henry Harrison",
+    "Theodore Roosevelt",
+    "Woodrow Wilson",
+    "Grover Cleveland"
+   ],
+   "answer": 0,
+   "explanation": "Franklin Roosevelt was elected to office four times, although he died early in his fourth term.",
+   "source": "AP U.S. Government · Practice Exam 3, Q19",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Today, a president cannot serve more than two terms. This is because of",
+   "choices": [
+    "congressional legislation",
+    "a Supreme Court ruling",
+    "an amendment to the Constitution",
+    "an executive order",
+    "congressional legislation that was validated by a Supreme Court ruling"
+   ],
+   "answer": 2,
+   "explanation": "The Twenty-Second Amendment limited presidential terms of office to two.",
+   "source": "AP U.S. Government · Practice Exam 3, Q20",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "The ideas of the Enlightenment had an impact on many of those who wrote the U.S. Constitution. One political concept NOT generally associated with the Enlightenment is",
+   "choices": [
+    "the need for branches of government",
+    "the idea that under certain circumstances citizens have the right to rebel against the government",
+    "the idea that the primary purpose of government is to govern the common people, who need firm control",
+    "the idea of a social contract between the government and the governed",
+    "the idea that individuals have natural rights"
+   ],
+   "answer": 2,
+   "explanation": "Enlightenment thinkers wrote about the natural rights of persons and believed the power of government should be limited; the idea that people “need firm control” is inconsistent with most Enlightenment thought. The idea of the “social contract” was emphasized by Rousseau, the concept of branches of government was discussed by Montesquieu, and the belief that citizens have the right to rebel against a government that doesn’t protect their rights was espoused by John Locke.",
+   "source": "AP U.S. Government · Practice Exam 3, Q21",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is one of the disadvantages of federalism?",
+   "choices": [
+    "States are able to serve as training grounds to create eventual national leaders.",
+    "It keeps government very close to the people.",
+    "It encourages wide diversity in local government.",
+    "It may create a duplication of offices and functions.",
+    "It strives to avoid a concentration of political power."
+   ],
+   "answer": 3,
+   "explanation": "The possibility that federalism may create a duplication of offices and function is a disadvantage of the system. All of the other responses are definite advantages of the federalist system.",
+   "source": "AP U.S. Government · Practice Exam 3, Q22",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "The first Supreme Court case to uphold the supremacy of the federal government over state governments was",
+   "choices": [
+    "Mapp v. Ohio",
+    "Betts v. Brady",
+    "Escobedo v. Illinois",
+    "McCulloch v. Maryland",
+    "Gibbons v. Ogden"
+   ],
+   "answer": 3,
+   "explanation": "The 1819 ruling in McCulloch v. Maryland established the implied powers of the national government; the authority of the federal government to act, the Court ruled, could come from the Necessary and Proper Clause of the Constitution. Gibbons v. Ogden was an 1824 Court decision giving the power to regulate interstate commerce to Congress. Mapp v. Ohio was a 1961 decision stating that evidence found during “unreasonable searches and seizures” could not be used against a defendant. Betts v. Brady was a 1942 decision that stated the government didn’t have to provide a lawyer in a state trial to a defendant who couldn’t afford one (this was later overturned). Escobedo v. Illinois was a 1964 decision stating that suspects have a right to an attorney during interrogation.",
+   "source": "AP U.S. Government · Practice Exam 3, Q23",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following has the LEAST influence in creating the political opinions and identities of most Americans?",
+   "choices": [
+    "the official party platforms of the major political parties",
+    "demographic factors (occupation, age, etc.)",
+    "the mass media",
+    "political opinions of families and friends",
+    "school and educational activities"
+   ],
+   "answer": 0,
+   "explanation": "What the official platforms of political parties state has little influence on anyone, including on candidates running for office from that political party; there are many cases of candidates repudiating parts of the platform of their own party during the campaign. The other answer choices all list factors that often influence the political opinions and identities of Americans.",
+   "source": "AP U.S. Government · Practice Exam 3, Q24",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Which political party dominated American politics in the late 19th and early 20th century?",
+   "choices": [
+    "Democratic Party",
+    "Populist Party",
+    "Republican Party",
+    "Bull Moose Party",
+    "Whig Party"
+   ],
+   "answer": 2,
+   "explanation": "The Republican Party completely dominated politics at the national level during this era. Democrat Grover Cleveland was elected president in the elections of 1884 and 1892 but the presidential elections of 1872, 1876, 1880, 1888, 1896, 1900, 1904, and 1908 were all won by Republican presidential candidates.",
+   "source": "AP U.S. Government · Practice Exam 3, Q25",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following interest groups was NOT a part of the New Deal coalition created by Franklin Roosevelt?",
+   "choices": [
+    "Midwestern farmers",
+    "urban blacks",
+    "blue-collar workers",
+    "women",
+    "Catholics"
+   ],
+   "answer": 0,
+   "explanation": "The New Deal coalition, which held together from the 1930s all the way through the 1980s, generally did not include farmers from the Midwest; as a result, many supported Republican candidates. Factory workers, urban blacks, and Catholics were all part of the Roosevelt coalition (many Catholics strongly identified with the Democratic party at least since 1928 when the Democrats nominated Al Smith, a Catholic, as their presidential candidate). Women were part of this coalition; many identified with First Lady Eleanor Roosevelt. In addition, Franklin Roosevelt named a woman, Frances Perkins, as Secretary of Labor. Many commentators said this coalition was finally and officially defeated in the 1994 congressional elections, when the Republicans gained control of the House of Representatives for the first time since 1954.",
+   "source": "AP U.S. Government · Practice Exam 3, Q26",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Which third party came in second place in the 1912 presidential election?",
+   "choices": [
+    "the Bull Moose Party of Theodore Roosevelt",
+    "the States’ Rights Party of Strom Thurmond",
+    "the American Independent Party of George Wallace",
+    "the Socialist Party of Eugene Debs",
+    "the Independent Party of Ross Perot"
+   ],
+   "answer": 0,
+   "explanation": "Theodore Roosevelt received more votes in this election than did Republican William Howard Taft; Roosevelt carried six states, while Taft carried only two. In the 1992 election Ross Perot received nearly 19% of the total votes but no electoral votes. In the 1948 election the States’ Rights Party of Strom Thurmond won only 2.4% of the total votes in the United States but carried four southern states and received 39 electoral votes. In 1968 George Wallace received 13.5% of the total vote and won five southern states for a total of 46 electoral votes. Eugene Debs ran for president five times; the highest vote total he and the Socialist Party ever received was in 1920, when the party gathered 6.4% of the popular vote (at the time of the election Debs was in jail for having spoken out against American entry into World War I). No third-party candidate other than Roosevelt in 1912 ever came in higher than third place in a presidential election.",
+   "source": "AP U.S. Government · Practice Exam 3, Q27",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Some commentators predict a decline in the power of political parties in the United States. Which of the following is NOT a reason for this?",
+   "choices": [
+    "Many candidates are now more independent of political parties.",
+    "More and more Americans split their votes among candidates from both parties.",
+    "Many Americans are repelled by the influence of money on the political system.",
+    "Many Americans feel there is no real difference between the two political parties.",
+    "The number of Americans who identify themselves as Democrats far outnumber those who consider themselves Republicans, thus creating an “unfair” political system."
+   ],
+   "answer": 4,
+   "explanation": "More Americans have registered as Democrats than Republicans, but few are calling this “unfair.” And while more Americans (especially young voters) are registering as Democrats, this fact is not considered a reason for a decline in the influence of political parties—including the Democratic Party—in our political system. All of the other four choices are factors that commentators often point to as reasons for predicting a decline in the power and influence of political parties in the United States.",
+   "source": "AP U.S. Government · Practice Exam 3, Q28",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "In primary elections, some states allow voters to vote for candidates of either party, whether they belong to the party or not. What is this type of primary election called?",
+   "choices": [
+    "general primary",
+    "blanket primary",
+    "special primary",
+    "open primary",
+    "runoff primary"
+   ],
+   "answer": 3,
+   "explanation": "There was some controversy concerning open primaries during the 2008 election season. Critics claimed that in the 2008 primary season Republicans took advantage of the open primary system in several states by intentionally “crossing over” and voting for the Democratic candidate they perceived to be weaker; the intent of this was to help the cause of the Republican candidate in the general election.",
+   "source": "AP U.S. Government · Practice Exam 3, Q29",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "How was the election of United States senators changed by the Seventeenth Amendment in 1913?",
+   "choices": [
+    "Senators were elected by popular vote instead of by state legislatures.",
+    "Senatorial terms were lengthened to six years.",
+    "The minimum age for senators was increased.",
+    "All candidates for the Senate had to take part in a party primary.",
+    "Starting in 1914 not all senators were elected at the same time."
+   ],
+   "answer": 0,
+   "explanation": "This was one of the goals of many supporters of the Progressive movement. Six-year terms for senators, staggered elections, and the age requirement to be a senator were not changed by the Seventeenth Amendment. There has never been a federal requirement that Senate candidates be chosen by a party primary, although today nearly all are.",
+   "source": "AP U.S. Government · Practice Exam 3, Q30",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "The process of specifically redrawing the boundaries of congressional districts to favor one political party or group over another is called",
+   "choices": [
+    "gerrymandering",
+    "political restructuring",
+    "reapportionment",
+    "congressional districting",
+    "apportionment"
+   ],
+   "answer": 0,
+   "explanation": "Redrawing the boundaries of a congressional district in a way to favor one political party or group is called gerrymandering. Several examples of gerrymandered districts have to be seen to be believed. There are also countless examples of districts being reapportioned fairly without being gerrymandered. For examples and further discussion of gerrymandering, go to www.mscd.edu/~eas/Goedecke/GEG1220/1220session6/Gerrymandering.ppt or www.fraudfactor.com/ffgerrymander.html .",
+   "source": "AP U.S. Government · Practice Exam 3, Q31",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Traditionally, the chairpersons of congressional committees have been chosen on the basis of",
+   "choices": [
+    "their expertise on the issues dealt with by the committee",
+    "careful consultation with the executive branch",
+    "seniority",
+    "general expertise on congressional matters",
+    "geographic factors (rewarding specific states or regions)"
+   ],
+   "answer": 2,
+   "explanation": "Traditionally, committee chairmanships have been awarded on the basis of seniority. Seniority is simply how long someone has served in the House or the Senate; those who have served the longest have become the chairs (if a member of the House becomes a Senator his or her seniority is lost). Today, however, when assigning committee chairmanships, House and Senate leadership also look at other factors, such as the ability to lead and knowledge of the matters that the committee deals with.",
+   "source": "AP U.S. Government · Practice Exam 3, Q32",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is necessary for a treaty to be ratified?",
+   "choices": [
+    "It must be passed by the Senate by a two-thirds majority vote.",
+    "It must be passed by both houses of Congress by a two-thirds majority vote.",
+    "It must be passed by the Senate by a majority vote.",
+    "It must be signed by the president after approval by the Senate.",
+    "It must be passed by both houses of Congress by a majority vote."
+   ],
+   "answer": 0,
+   "explanation": "After a president (or his or her representatives) has negotiated a treaty, it must be ratified by the Senate before it takes effect. Ratification requires that the Senate approve the treaty by a two-thirds majority. The most famous example of a treaty NOT ratified by the Senate was the treaty negotiated by Woodrow Wilson ending World War I.",
+   "source": "AP U.S. Government · Practice Exam 3, Q33",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Between 2002 and 2008 President George W. Bush and Vice President Richard Cheney argued that",
+   "choices": [
+    "the Supreme Court should take a greater role in determining national policy",
+    "the power of the state governments should be greatly expanded",
+    "the entire executive branch had become too powerful in the Clinton years",
+    "during the Clinton years the Congress had gradually lost too much power",
+    "the powers of the presidency should be greatly expanded"
+   ],
+   "answer": 4,
+   "explanation": "Vice President Richard Cheney vigorously argued that the power of the presidency had been weakened since the time of Watergate and that to fight the War on Terror a presidency with much stronger powers was needed.",
+   "source": "AP U.S. Government · Practice Exam 3, Q34",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Political commentators who compared Barack Obama and Franklin Roosevelt often commented that",
+   "choices": [
+    "neither ever seemed really comfortable in the role of the president",
+    "both consulted extensively with leaders from the business world (CEOs) before making economic decisions",
+    "both saw the importance of allowing state governments to control economic development",
+    "both saw the importance of allowing market forces to dictate the nation’s economic future",
+    "both emphasized the role of government in “jump-starting” the economy"
+   ],
+   "answer": 4,
+   "explanation": "Both Roosevelt and Obama felt that the federal government had to play a major role in overcoming the economic crises the nation faced when they assumed office rather than letting market forces alone dictate the nation’s economic future. Neither denied the importance of economic growth at the state level, but both saw the necessity of the federal government “jump- starting” the economic growth of the country. Business leaders were consulted by the Roosevelt administration; however, the Obama administration, at least initially, was hesitant to work too closely with CEOs of companies that had lost millions and were being blamed by some for the economic crisis. Both Roosevelt and Obama appeared to be very comfortable in the role of president.",
+   "source": "AP U.S. Government · Practice Exam 3, Q35",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "The 1939 Hatch Act",
+   "choices": [
+    "stated that federal government employees would be hired on the basis of merit",
+    "stated that federal government employees could receive benefits from the newly created Social Security system",
+    "prohibited federal government employees from practicing their religion while on duty",
+    "ordered the imprisonment of government officials who were proved to be members of the Communist Party",
+    "stated that federal government employees could not engage in partisan political activities while on duty"
+   ],
+   "answer": 4,
+   "explanation": "The Hatch Act prohibited federal government employees from using their government position to benefit a particular candidate or political party and from taking part in partisan political activities while on duty or while wearing an official uniform. The Hatch Act also made it illegal for government employees to belong to an organization that advocated the overthrow of our system of government, a provision that was used to threaten alleged Communists with loss of their federal jobs but was never used to imprison government officials.",
+   "source": "AP U.S. Government · Practice Exam 3, Q36",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "“Iron triangles” are alliances that involve all of the following groups EXCEPT",
+   "choices": [
+    "interest groups",
+    "congressional committees",
+    "congressional subcommittees",
+    "bureaucratic agencies",
+    "interested members of the media"
+   ],
+   "answer": 4,
+   "explanation": "Iron triangles are formed between interest groups and members of the executive and legislative branches of government. Because of common goals, all elements of the iron triangle may work together to help each other achieve their goals. For example, a staffer from the executive branch may seek out members of the environmental lobby for ideas when crafting environmental legislation to send on to Congress; those same lobbyists might work with members of Congress to fine-tune the details of the legislation and to gain congressional support for it; congressional and executive branch staffers might work together on compromise legislation that could be supported by both branches.",
+   "source": "AP U.S. Government · Practice Exam 3, Q37",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Which department of the executive branch plays the most important role in administering government programs and policies related to Native Americans?",
+   "choices": [
+    "Department of State",
+    "Department of Health and Human Services",
+    "Department of the Interior",
+    "Department of Homeland Security",
+    "Department of Justice"
+   ],
+   "answer": 2,
+   "explanation": "In the Department of the Interior, the Bureau of Indian Affairs administers federal programs and policies relating to Indian reservations and thus plays the most important role in the federal government’s handling of Native American affairs.",
+   "source": "AP U.S. Government · Practice Exam 3, Q38",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "The federal courts that are actual trial courts are the",
+   "choices": [
+    "Circuit courts",
+    "District courts",
+    "Supreme Court",
+    "Probate courts",
+    "Courts of Appeals"
+   ],
+   "answer": 1,
+   "explanation": "District courts are the federal trial courts; each state has one, while larger states may have several. Courts of Appeals were established to help lessen the load of the Supreme Court; these courts decide appeals on decisions reached by U.S. district courts and review decisions of federal administrative agencies. In very rare cases (when there is a lawsuit between two states) the Supreme Court can also be a trial court.",
+   "source": "AP U.S. Government · Practice Exam 3, Q39",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "An issue that has recently been a “litmus test” for potential Supreme Court justices has been his or her views on",
+   "choices": [
+    "the power of the presidency",
+    "gays in the military",
+    "the right of an individual to own weapons",
+    "the power of the Supreme Court",
+    "abortion"
+   ],
+   "answer": 4,
+   "explanation": "For many vocal interest groups in U.S. politics in the 1990s and early 21st century, the debate over Supreme Court nominees was dominated by the single issue of abortion. Thus the position many people (including many senators) took to support or oppose a Supreme Court nominee depended on their perception of whether or not the candidate would support or overturn Roe v. Wade . In chemistry, a litmus test is a simple test used to determine whether or not a solution is acidic. The term was applied to politics to refer to the simple test (in this case, whether or not the nominee supports Roe v. Wade ) that many used to determine if a nominee should become a Supreme Court justice.",
+   "source": "AP U.S. Government · Practice Exam 3, Q40",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Which Supreme Court decision has had the greatest effect on public school education in the United States in the past 60 years?",
+   "choices": [
+    "Regents of the University of California v. Bakke",
+    "Planned Parenthood v. Casey",
+    "Davis & Leach v. State of Mississippi",
+    "Johnson v. Selma School District",
+    "Brown v. Board of Education"
+   ],
+   "answer": 4,
+   "explanation": "Brown v. Board of Education was the 1954 Supreme Court decision stating that “separate but equal” school facilities are unconstitutional. Enforcement of this ruling played an important and controversial role in education through the 1960s, the 1970s, and beyond. The other real cases in this response are Regents of the University of California v. Bakke , a 1978 Supreme Court decision on affirmative action that stated that quota systems for college admission are unconstitutional (although affirmative action as a principle was not), and Planned Parenthood v. Casey , a 1992 decision that upheld the constitutional right to an abortion but which allowed certain possible restrictions of that right.",
+   "source": "AP U.S. Government · Practice Exam 3, Q41",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "In 1967 Lyndon Johnson appointed the first African American to the Supreme Court. Who was this justice?",
+   "choices": [
+    "Clarence Thomas",
+    "John Lewis",
+    "Thurgood Marshall",
+    "Charles Diggs",
+    "Andrew Young"
+   ],
+   "answer": 2,
+   "explanation": "Thurgood Marshall had been an attorney in many important civil rights cases before he was appointed to the Court. Andrew Young was a former leader of the civil rights movement who later served as ambassador to the United Nations, congressman, and mayor of Atlanta. John Lewis was a former civil rights leader who later became a congressman from Georgia. Clarence Thomas is currently a Supreme Court justice. Charles Diggs was the first African American elected to the House of Representatives from Michigan, serving from 1955–1980.",
+   "source": "AP U.S. Government · Practice Exam 3, Q42",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Recent Supreme Court rulings concerning religion have emphasized which of the following?",
+   "choices": [
+    "School-sanctioned prayers in public schools during the school day are unconstitutional.",
+    "It is constitutional for a public school to have informal prayer periods in its daily schedule.",
+    "Public schools that teach evolution must also teach creationism.",
+    "Student-led prayers at public-school events are constitutional.",
+    "It is constitutional for a state to reimburse parochial schools for religious textbooks."
+   ],
+   "answer": 0,
+   "explanation": "The Court has been consistent in ruling that either formal or informal school prayer is unconstitutional in public schools.",
+   "source": "AP U.S. Government · Practice Exam 3, Q43",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "What pivotal 1966 Supreme Court case held that suspects in police custody must be informed of their rights?",
+   "choices": [
+    "Terry v. Ohio",
+    "Wolf v. Colorado",
+    "Miranda v. Arizona",
+    "United States v. Leon",
+    "Nix v. Williams"
+   ],
+   "answer": 2,
+   "explanation": "As a result of this decision, a court may very well rule that the defendant was unlawfully detained if the defendant was not informed of his or her rights. Terry v. Ohio was a 1968 ruling stating that a police officer can search a suspect without a warrant if the officer thinks the suspect is committing or is about to commit a crime. Wolf v. Colorado was a 1949 ruling (later overturned) stating that illegally obtained evidence can be used, under certain circumstances, in a trial. Nix v. Williams was a 1984 decision stating that evidence gathered without a proper warrant can still be used if the authorities would have discovered that evidence anyway. The United States v. Leon was a 1984 decision stating that if authorities obtain a search warrant in good faith and the warrant is later proved to be faulty, the evidence recovered as a result of that warrant can be used against a defendant.",
+   "source": "AP U.S. Government · Practice Exam 3, Q44",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "What pivotal 1963 Supreme Court case held that the state must provide the defendant with an attorney in state courts if he or she cannot afford one?",
+   "choices": [
+    "Escobedo v. Illinois",
+    "Gideon v. Wainwright",
+    "Furman v. Georgia",
+    "Powell v. Alabama",
+    "Betts v. Brady"
+   ],
+   "answer": 1,
+   "explanation": "Gideon v. Wainwright , which overturned a previous ruling, held that the state must provide an attorney for a defendant who cannot afford one. Betts v. Brady was a 1942 Court decision (later overturned) stating that the state does not have to provide an attorney to a defendant who cannot afford one if the defendant is being prosecuted by that state. Powell v. Alabama was a 1932 decision stating that in a capital trial a defendant has the right to an attorney (this decision resulted from the case of the Scottsboro boys ). Escobedo v. Illinois was a 1964 decision in which the Court stated that a defendant has the right to an attorney when being interrogated. Furman v. Georgia was a 1972 decision stating that the arbitrary and inconsistent way that the death penalty was being utilized made the death penalty a form of cruel and unusual punishment and thus unconstitutional (as a result, states had to craft new death penalty laws).",
+   "source": "AP U.S. Government · Practice Exam 3, Q45",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a reason why some conservatives criticize recent federal legislation to improve student test scores (the No Child Left Behind Act)?",
+   "choices": [
+    "The Act is not fully supported by the Department of Education.",
+    "They believe that the Act doesn’t go far enough to impose federal control over education.",
+    "The Act is not fully supported by teacher unions.",
+    "The Act contradicts previous federal legislation on education.",
+    "They believe that the control of education should be left to the states."
+   ],
+   "answer": 4,
+   "explanation": "Many conservatives believe that the federal government has taken too much power away from state and local officials and maintain that education should not be controlled by the federal government. While there have been others who have criticized the legislation saying it doesn’t go far enough to impose federal control over education, this position is associated with liberals, not conservatives.",
+   "source": "AP U.S. Government · Practice Exam 3, Q46",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Which president did the most to extend the social welfare programs that began in the New Deal era?",
+   "choices": [
+    "Bill Clinton",
+    "Gerald Ford",
+    "Ronald Reagan",
+    "Dwight Eisenhower",
+    "Lyndon Johnson"
+   ],
+   "answer": 4,
+   "explanation": "Most historians maintain that the Great Society programs enacted by Lyndon Johnson in the 1960s did much to extend and expand the New Deal programs of Franklin Roosevelt.",
+   "source": "AP U.S. Government · Practice Exam 3, Q47",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Criticism of American foreign policy during the presidency of George W. Bush (2001–2008) included all EXCEPT which of the following?",
+   "choices": [
+    "American efforts alienated many potential allies in Europe and elsewhere.",
+    "American efforts in Iraq cost billions of dollars and would have long- term economic consequences.",
+    "Stories of human rights abuses in American prisons in Iraq did much to harm the image of the United States in the Middle East.",
+    "American efforts created as many enemies as friends in the Middle East.",
+    "American policymakers were too concerned with America’s image in the eyes of the world."
+   ],
+   "answer": 4,
+   "explanation": "Seldom was the foreign policy of President George W. Bush (2001– 2008) criticized for being too concerned with America’s image in the eyes of the world; in fact, the Bush administration was often criticized for not giving enough consideration to world opinion when formulating foreign policy. All of the other four responses were frequently heard criticisms of American foreign policy during the Bush administration.",
+   "source": "AP U.S. Government · Practice Exam 3, Q48",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following has the least significant role in the creation of American foreign policy?",
+   "choices": [
+    "Department of State",
+    "National Security Council",
+    "United States Information Agency",
+    "Central Intelligence Agency",
+    "Department of Defense"
+   ],
+   "answer": 2,
+   "explanation": "The other four departments and agencies have a major role in the formulation of American foreign policy, while the United States Information Agency is responsible not for formulating foreign policy, but for informing the world about the United States and American beliefs.",
+   "source": "AP U.S. Government · Practice Exam 3, Q49",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Who are the main authors of the initial budget proposal presented to Congress by the president?",
+   "choices": [
+    "staff members from the Office of Management and Budget",
+    "staff members of the congressional appropriations committees",
+    "staff members from the Congressional Budget Office",
+    "officials from the Department of the Treasury",
+    "staff members from the president’s National Economic Council"
+   ],
+   "answer": 0,
+   "explanation": "Using the president’s priorities and guidelines, the Office of Management and Budget authors the initial budget proposal that the president presents to Congress. This budget is then vigorously scrutinized by members of Congress and the Congressional Budget Office. The Department of the Treasury and the National Economic Council play no direct role in the creation of the annual budget.",
+   "source": "AP U.S. Government · Practice Exam 3, Q50",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "During which presidential campaign was televised political advertising widely used for the first time?",
+   "choices": [
+    "the campaign of Dwight D. Eisenhower in 1952",
+    "the campaign of Franklin Roosevelt in 1944",
+    "the campaign of Richard Nixon in 1968",
+    "the campaign of Richard Nixon in 1972",
+    "the campaign of John F. Kennedy in 1960"
+   ],
+   "answer": 0,
+   "explanation": "The first widespread use of televised political advertising occurred with the “I Like Ike” advertisements in the 1952 Eisenhower presidential campaign. The first televised presidential debates took place between John Kennedy and Richard Nixon during the 1960 campaign.",
+   "source": "AP U.S. Government · Practice Exam 3, Q51",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "What was the major political party that developed in the United States in opposition to the Democratic Party of Andrew Jackson?",
+   "choices": [
+    "Free-Soil Party",
+    "Whig Party",
+    "Anti-Masonic Party",
+    "Republican Party",
+    "Know-Nothing Party"
+   ],
+   "answer": 1,
+   "explanation": "The Whig Party developed in opposition to the Democratic Party of Andrew Jackson and was a major force in American politics from 1833 to 1856. Three presidents were members of the Whig Party (William Henry Harrison, Zachary Taylor, and Millard Fillmore). The Anti-Masonic Party was a single-issue party that had some influence from 1828 to 1838; in the 1832 presidential election the Anti-Masonic candidate received 7.8% of the popular vote. The Free-Soil Party was an anti-slavery party that was active in the 1848 and 1852 presidential elections, but by 1854 most of its members had joined the Republican Party. The Republican Party was not founded until 1854, long after the era of Jacksonian democracy. The Know- Nothing Party existed from 1845 to 1860; the big issue for Know-Nothings was the fear of Catholic immigration. This party came apart over the issue of slavery.",
+   "source": "AP U.S. Government · Practice Exam 3, Q52",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "What was the first document that limited the power of the British monarch?",
+   "choices": [
+    "Magna Carta",
+    "The Social Contract",
+    "Petition of Right",
+    "English Bill of Rights",
+    "Two Treatises on Civil Government"
+   ],
+   "answer": 0,
+   "explanation": "The Magna Carta was issued in 1215 and guaranteed British nobles certain rights that the king could not take away. The 1628 Petition of Right extended the protections of the Magna Carta to commoners. Two Treatises on Civil Government was a 1689 work by the English political philosopher John Locke in which he emphasized the natural rights of men and the responsibility of governments to protect those rights. The English Bill of Rights was established after the Glorious Revolution and stated that citizens were entitled to “life, liberty, and the pursuit of property.” The Social Contract was a work by the French philosopher Jean-Jacques Rousseau that emphasized the importance of the “general will” in society.",
+   "source": "AP U.S. Government · Practice Exam 3, Q53",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Shays Rebellion and other acts of violence in 1787–1788 demonstrated to many in the new nation that",
+   "choices": [
+    "the economic well-being of the country was still tied to Great Britain",
+    "the nation had expanded too quickly",
+    "the government of Massachusetts was ineffective",
+    "farmers had too much power",
+    "the Articles of Confederation had to be revised to create a stronger national government"
+   ],
+   "answer": 4,
+   "explanation": "Shays Rebellion and other acts of unrest convinced many that a new national government had to be created with many more powers than were given to the government under the Articles of Confederation. The powers given to the national government as outlined in the U.S. Constitution were much greater.",
+   "source": "AP U.S. Government · Practice Exam 3, Q54",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is one advantage of the multi-party elections that characterize many European political systems?",
+   "choices": [
+    "Often one party does not emerge victorious.",
+    "Multi-party elections tend to promote stability in government.",
+    "Coalition governments often have to be formed.",
+    "Voters are given meaningful choices in elections.",
+    "Citizens generally give more money to candidates in multi-party elections than they do to candidates in a two-party system."
+   ],
+   "answer": 3,
+   "explanation": "While some critics claim that there are few real differences between the Democratic and Republican parties in the United States, in nations with multi-party systems, the parties can vary radically in their core beliefs. The existence of many parties with divergent beliefs gives voters more choices in elections. However, there are many disadvantages to multi-party systems. As responses (A) and (B) suggest, one party seldom emerges victorious and, as a result, coalition governments have to be formed. These coalitions are often volatile and sometimes dissolve very quickly. Thus multi-party elections do not promote stability in government; there are countries with multi-party systems that sometimes have more than one election within a single year!",
+   "source": "AP U.S. Government · Practice Exam 3, Q55",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "What was the major reason that some states formerly had poll taxes and literacy requirements for voting?",
+   "choices": [
+    "to carry on the legacy of progressives in those states",
+    "to prevent third parties from gaining influence",
+    "to ensure that incumbents remain in power",
+    "to prevent African Americans and other minorities from voting",
+    "to maintain Republican Party control"
+   ],
+   "answer": 3,
+   "explanation": "Literacy tests and poll taxes were used for decades in the South to prevent African Americans from registering to vote.",
+   "source": "AP U.S. Government · Practice Exam 3, Q56",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following was an effect of the Watergate scandal?",
+   "choices": [
+    "a strong sense that the power of the executive branch should be increased",
+    "a new interest in government service among many young Americans",
+    "an increasing skepticism and cynicism toward government",
+    "a strong national sense that the laws concerning impeachment should be altered",
+    "a rise in membership of the Republican Party"
+   ],
+   "answer": 2,
+   "explanation": "Most historians agree that Watergate and the Vietnam War created a skepticism toward government that lasted through the 1970s; Ronald Reagan promoted a renewal of patriotism when he ran for office in 1980, but he famously portrayed government as “a problem, not a solution.” None of the other answer choices reflects events or trends that actually happened after the Watergate scandal.",
+   "source": "AP U.S. Government · Practice Exam 3, Q57",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "When critics complain about how the media cover politics, they are speaking of all EXCEPT which of the following?",
+   "choices": [
+    "the tendency toward “pack journalism”",
+    "the tendency of the media to lean to the conservative side when covering the news",
+    "the tendency of the media to lean to the liberal side when covering the news",
+    "the tendency of the media to “create” news stories out of insignificant or unintended comments or actions by politicians",
+    "the tendency of the media to follow sensational stories at the expense of more serious ones"
+   ],
+   "answer": 1,
+   "explanation": "Very few commentators take the position that the media as a whole is too conservative, although many liberal commentators do complain about the power of certain conservative networks and media figures (Fox News, Rush Limbaugh). All of the other answer choices accurately state criticisms of the media often voiced by commentators and politicians.",
+   "source": "AP U.S. Government · Practice Exam 3, Q58",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "In the 1989 Texas v. Johnson decision, the Supreme Court ruled that burning of an American flag was constitutionally protected. According to the Court, this decision was based on which of the following reasons?",
+   "choices": [
+    "Congress had passed a bill legalizing the burning of the American flag in political rallies.",
+    "There was precedent in previous rulings.",
+    "Flag burning is a symbolic form of speech.",
+    "Protestors had gotten a permit for the rally where the flag was burned.",
+    "The flag burning had taken place on a military base."
+   ],
+   "answer": 2,
+   "explanation": "The ruling in Texas v. Johnson shows the importance the Supreme Court places on the concept of free expression as a First Amendment right.",
+   "source": "AP U.S. Government · Practice Exam 3, Q59",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  },
+  {
+   "question": "After the bombing of Pearl Harbor in 1941, Japanese Americans living on the West Coast were placed in internment camps. The Supreme Court",
+   "choices": [
+    "made no ruling on this issue until 1954",
+    "in 1944 ruled the internment to be constitutional",
+    "stated that internment was a matter that should be left to individual states",
+    "immediately ruled the internment to be unconstitutional",
+    "deferred to the executive branch on this policy"
+   ],
+   "answer": 1,
+   "explanation": "The 1944 Korematsu v. United States Court decision ruled that Japanese internment was constitutional. This followed the 1943 Court ruling Hirabayashi v. United States , in which the Court ruled that curfews specifically aimed at Japanese Americans were constitutional, since the United States was at war with Japan.",
+   "source": "AP U.S. Government · Practice Exam 3, Q60",
+   "topic": "Practice Exam 3",
+   "topic_n": 1
+  }
+ ]
+}

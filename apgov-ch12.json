@@ -1,0 +1,154 @@
+{
+ "questions": [
+  {
+   "question": "After a national census has been taken, changes in population distribution cause the changing of congressional seats among the states. This effect is commonly called",
+   "choices": [
+    "census apportionment",
+    "reapportionment",
+    "gerrymandering",
+    "congressional districting",
+    "apportionment"
+   ],
+   "answer": 1,
+   "explanation": "Reapportionment is the change in the number of congressional seats per state based on state population changes. Gerrymandering (C) is the drawing of congressional electoral districts in order to give an advantage to a group or party.",
+   "source": "AP U.S. Government · Chapter 12 Review, Q1",
+   "topic": "The Legislative Branch",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT true of the Congress?",
+   "choices": [
+    "Each house determines its own leadership and rules.",
+    "Congress is unicameral in nature.",
+    "Terms of Congress last for two years.",
+    "Only the president may call special sessions of Congress.",
+    "A session of Congress begins on January 3 of odd-numbered years."
+   ],
+   "answer": 1,
+   "explanation": "Congress is a bicameral legislature composed of the House of Representatives and the Senate. The other responses are correct descriptions of Congress.",
+   "source": "AP U.S. Government · Chapter 12 Review, Q2",
+   "topic": "The Legislative Branch",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is true about the officers of the House of Representatives?",
+   "choices": [
+    "The whip serves as the major assistant to the speaker in determining the party’s legislative program.",
+    "The major duty of the majority leader is to assign bills to committee.",
+    "Minority leaders direct floor debates.",
+    "It is the responsibility of the party whip to keep track of vote counts and pressure members to vote with the party.",
+    "The presiding officer is the majority leader."
+   ],
+   "answer": 3,
+   "explanation": "The minority and majority whips are responsible for keeping track of vote counts and pressuring members to support the party vote. The presiding officer is the speaker of the House (B). The speaker directs floor debates (C) and largely controls the assignment of bills to committee (D). The majority leader serves as the major assistant to the speaker (E).",
+   "source": "AP U.S. Government · Chapter 12 Review, Q3",
+   "topic": "The Legislative Branch",
+   "topic_n": 1
+  },
+  {
+   "question": "Temporary committees appointed for the specific purpose of investigating a particular issue are called",
+   "choices": [
+    "joint committees",
+    "standing committees",
+    "investigating committees",
+    "compromise committees",
+    "select committees"
+   ],
+   "answer": 4,
+   "explanation": "Select committees are temporary committees responsible for investigating specific issues. Some select committees investigate issues (D). Joint committees (A) are those made up of members of both houses of Congress. Standing committees (C) are permanent committees that deal with specific policy matters. A compromise committee (E) is a description of a conference committee.",
+   "source": "AP U.S. Government · Chapter 12 Review, Q4",
+   "topic": "The Legislative Branch",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT true of members of Congress?",
+   "choices": [
+    "Members of Congress act as policymakers and make public policy through the passage of legislation.",
+    "Members of Congress serve on committees.",
+    "Members of Congress are constituent servants.",
+    "After listening to constituents, members vote based on the opinions of those constituents, that is, they become the trustee of the constituent.",
+    "Members of Congress work to support their political party platform."
+   ],
+   "answer": 3,
+   "explanation": "Members of Congress who vote according to constituent wishes are delegates of the constituents. The remaining answer choices accurately reflect the duties of members of Congress.",
+   "source": "AP U.S. Government · Chapter 12 Review, Q5",
+   "topic": "The Legislative Branch",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following best describes a nonlegislative power of Congress?",
+   "choices": [
+    "power to tax",
+    "power to make all laws which are necessary and proper",
+    "impeachment power",
+    "power to declare war",
+    "power to regulate commerce"
+   ],
+   "answer": 2,
+   "explanation": "The impeachment power of Congress is a nonlegislative power, having nothing to do with the passage of legislation. The powers to declare war (A), to tax (B), to regulate commerce (D), and to make all laws that are necessary and proper (E) deal with the passage of legislation. They are, therefore, among the legislative powers of Congress.",
+   "source": "AP U.S. Government · Chapter 12 Review, Q6",
+   "topic": "The Legislative Branch",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following would NOT be a step that a proposed bill would encounter on its journey through Congress?",
+   "choices": [
+    "The bill is voted on, at which time it may pass or be defeated.",
+    "The bill is introduced by a member of the Congress or by a member of the executive department.",
+    "The bill is debated.",
+    "The bill may be assigned to a subcommittee.",
+    "The bill is numbered."
+   ],
+   "answer": 1,
+   "explanation": "Although bills may be suggested by members of the executive branch, they may be introduced only by members of Congress. The remaining answer choices are correct and occur in the following order: (D), (C), (A), (B).",
+   "source": "AP U.S. Government · Chapter 12 Review, Q7",
+   "topic": "The Legislative Branch",
+   "topic_n": 1
+  },
+  {
+   "question": "After receiving a bill the president may I. sign the bill II. veto the bill III. return the bill to Congress for clarification on some point within the bill IV. allow the Congress to pocket veto the bill, thereby allowing the bill to become law without his signature",
+   "choices": [
+    "I only",
+    "II only",
+    "I and II only",
+    "I, II, III only",
+    "I, II, III, and IV"
+   ],
+   "answer": 2,
+   "explanation": "The president may not return bills to Congress for clarification. Only the president has the power of the pocket veto.",
+   "source": "AP U.S. Government · Chapter 12 Review, Q8",
+   "topic": "The Legislative Branch",
+   "topic_n": 1
+  },
+  {
+   "question": "Which legislative tactic is most effectively used only in the Senate?",
+   "choices": [
+    "riders",
+    "logrolling",
+    "caucuses",
+    "pork barrel legislation",
+    "filibustering"
+   ],
+   "answer": 4,
+   "explanation": "Filibustering is a stalling tactic used only in the Senate. Logrolling (B), caucuses (C), riders (D), and pork barrel legislation (E) are used in both houses of Congress.",
+   "source": "AP U.S. Government · Chapter 12 Review, Q9",
+   "topic": "The Legislative Branch",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT considered to be a contributing factor to the incumbency effect?",
+   "choices": [
+    "name recognition",
+    "experience in campaigning",
+    "voting record",
+    "visibility to constituents",
+    "educational background"
+   ],
+   "answer": 4,
+   "explanation": "The incumbency effect is the tendency of those already holding office to win reelection because of advantages of holding that office. A candidate’s educational background does not contribute to the incumbency effect. Name recognition (A), voting record (B), campaign experience (D), and visibility to constituents (E) are factors that contribute to the incumbency effect.",
+   "source": "AP U.S. Government · Chapter 12 Review, Q10",
+   "topic": "The Legislative Branch",
+   "topic_n": 1
+  }
+ ]
+}

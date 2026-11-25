@@ -1,0 +1,154 @@
+{
+ "questions": [
+  {
+   "question": "A major strength of federalism lies in the fact that it promotes both national and state activities in which of the following manners?",
+   "choices": [
+    "provides equal funding for mandates",
+    "avoids concentration of political power",
+    "provides for complex government activities",
+    "guarantees the inherent inflexibility of a written constitution",
+    "allows for the duplication of government offices and functions"
+   ],
+   "answer": 1,
+   "explanation": "Governmental power is divided between the national and state governments, each operating within the same geographic territory with power over a single population. Providing for complex governmental activities (A) and allowing for the duplication of government offices and functions (D) are not usually considered major strengths of federalism. The Constitution is a very flexible document (C). One type of mandate, the unfunded mandate, requires state or local governments to meet the mandate’s requirement at their own expense (E).",
+   "source": "AP U.S. Government · Chapter 7 Review, Q1",
+   "topic": "Federalism",
+   "topic_n": 1
+  },
+  {
+   "question": "McCulloch v. Maryland (1819) was an important Supreme Court case involving federalism because",
+   "choices": [
+    "it provided for a national law protecting against domestic violence",
+    "it called for a republican form of government",
+    "the Supremacy Clause of the Constitution was upheld",
+    "following this case, the Supreme Court became the third powerful branch of the national government",
+    "the Supremacy Clause of the Constitution was established"
+   ],
+   "answer": 2,
+   "explanation": "McCulloch v. Maryland upheld Article VI of the Constitution, which declares the Constitution the “supreme law of the land” (E). The Supreme Court (C) was established by Article III of the Constitution as the highest court of the judicial branch. Answer choices (A) and (B) were not provisions of the decision in McCulloch v. Maryland.",
+   "source": "AP U.S. Government · Chapter 7 Review, Q2",
+   "topic": "Federalism",
+   "topic_n": 1
+  },
+  {
+   "question": "Article IV of the United States Constitution addresses which of the following relationships between the states? I. full faith and credit II. interstate compacts III. respect for geographic integrity",
+   "choices": [
+    "I and II only",
+    "II and III only",
+    "III only",
+    "II only",
+    "I only"
+   ],
+   "answer": 0,
+   "explanation": "Geographic integrity of the states is a guarantee of the national government to the states, not of the states to each other.",
+   "source": "AP U.S. Government · Chapter 7 Review, Q3",
+   "topic": "Federalism",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT a concurrent power of national and state governments?",
+   "choices": [
+    "protecting the public’s health, welfare, and morals",
+    "borrowing money",
+    "chartering banks",
+    "establishing courts",
+    "levying taxes"
+   ],
+   "answer": 0,
+   "explanation": "Protecting the public health, welfare, and morals is a reserved power of the states. The other answer choices represent concurrent powers, or those shared by both the national and state governments.",
+   "source": "AP U.S. Government · Chapter 7 Review, Q4",
+   "topic": "Federalism",
+   "topic_n": 1
+  },
+  {
+   "question": "Cooperative federalism can best be described as",
+   "choices": [
+    "placing more responsibility on the states as to how grant money is to be spent",
+    "the national government’s ability to help the states through the spending of tax dollars and the providing of project grants",
+    "an extension of new federalism",
+    "“layer cake federalism”",
+    "“marble cake federalism”"
+   ],
+   "answer": 4,
+   "explanation": "Cooperative federalism involves the national government and state governments working together to solve problems, often with a blending (similar to that of a marble cake) of responsibilities. Choices (A) and (B) are not the best descriptions of cooperative federalism because neither reflects mutual sharing and planning between the national and state governments. “Layer cake federalism” (C) describes dual federalism. New federalism (D) places more responsibility on the states about how grant money is spent.",
+   "source": "AP U.S. Government · Chapter 7 Review, Q5",
+   "topic": "Federalism",
+   "topic_n": 1
+  },
+  {
+   "question": "The president most responsible for the implementation of new federalism was:",
+   "choices": [
+    "Richard Nixon",
+    "Bill Clinton",
+    "Gerald Ford",
+    "Ronald Reagan",
+    "George H. W. Bush"
+   ],
+   "answer": 0,
+   "explanation": "Richard Nixon began the program of new federalism to place responsibility on the states for the spending of grant money. New federalism continued under succeeding presidents, particularly Ronald Reagan (C) and George H. W. Bush (A).",
+   "source": "AP U.S. Government · Chapter 7 Review, Q6",
+   "topic": "Federalism",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is an example of fiscal federalism? I. mandates II. revenue sharing III. grants-in-aid IV. project",
+   "choices": [
+    "I, II, and IV only",
+    "II and III only",
+    "I, II, and III only",
+    "I and II only",
+    "I, II, III, and IV"
+   ],
+   "answer": 4,
+   "explanation": "Mandates, revenue sharing, grants-in-aid, and project grants (a type of categorical grant) are forms of fiscal federalism.",
+   "source": "AP U.S. Government · Chapter 7 Review, Q7",
+   "topic": "Federalism",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following has the fewest “strings” attached when it comes to spending government monies?",
+   "choices": [
+    "revenue sharing",
+    "categorical grants",
+    "grants-in-aid",
+    "block grants",
+    "mandates"
+   ],
+   "answer": 0,
+   "explanation": "Revenue sharing has a “no strings attached” policy for the states receiving money. Some mandates require the use of state or local funds (A). Categorical grants (B) may require matching funds from state or local governments. Block grants (C) have fewer strings attached than categorical grants. The federal government requires grants-in-aid (E) to be used for specific projects or programs.",
+   "source": "AP U.S. Government · Chapter 7 Review, Q8",
+   "topic": "Federalism",
+   "topic_n": 1
+  },
+  {
+   "question": "Federalism as a form of government has many disadvantages. A major disadvantage of federalism is",
+   "choices": [
+    "existing state governments are not accommodated",
+    "conflicts may arise over authority of government",
+    "there is concentration of political power",
+    "government is not close to the people",
+    "geography is not considered"
+   ],
+   "answer": 1,
+   "explanation": "Conflicts between national and state authority may arise under the system of federalism. While federalism provides for a strong national government, power is not concentrated in the national government (B). State governments remain close to the people (C), and the needs of state governments are accommodated under federalism (D). The national government respects the geographic integrity of each state (E).",
+   "source": "AP U.S. Government · Chapter 7 Review, Q9",
+   "topic": "Federalism",
+   "topic_n": 1
+  },
+  {
+   "question": "Prohibited powers are powers that are denied to both the national and state governments. These denied powers may be found in",
+   "choices": [
+    "Article I, Sections 9 and 10",
+    "Article IV, Section 4",
+    "Article I, Section 8, Clause 18",
+    "Article I, Section 8",
+    "Article IV, Section 1"
+   ],
+   "answer": 0,
+   "explanation": "Article I, Section 9 denies certain powers to the national government; Article I, Section 10 denies powers to the state governments. Article I, Section 8 (A) details the powers of Congress. Article IV, Section 4 (C) guarantees each state a republican form of government. Article I, Section 8, Clause 18 (D) is the “necessary and proper clause.” Article IV, Section 1 (E) contains the “full faith and credit clause.”",
+   "source": "AP U.S. Government · Chapter 7 Review, Q10",
+   "topic": "Federalism",
+   "topic_n": 1
+  }
+ ]
+}

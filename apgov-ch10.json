@@ -1,0 +1,154 @@
+{
+ "questions": [
+  {
+   "question": "Which of the following would NOT be a form of political participation?",
+   "choices": [
+    "protesting government decisions",
+    "forming an interest group",
+    "voting in elections",
+    "paying taxes",
+    "contacting public officials"
+   ],
+   "answer": 3,
+   "explanation": "Paying taxes is not a method of political participation.",
+   "source": "AP U.S. Government · Chapter 10 Review, Q1",
+   "topic": "Voting and Elections",
+   "topic_n": 1
+  },
+  {
+   "question": "What is the most common form of political participation in America?",
+   "choices": [
+    "forming interest groups",
+    "contributing money for candidates",
+    "running for office",
+    "voting",
+    "working for a political party"
+   ],
+   "answer": 3,
+   "explanation": "Voting is the most common form of political participation in the United States. The remaining answer choices are forms of political participation in which fewer party members participate.",
+   "source": "AP U.S. Government · Chapter 10 Review, Q2",
+   "topic": "Voting and Elections",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following best defines a recall?",
+   "choices": [
+    "Recall allows voters to petition proposed issues presented before them.",
+    "Recall allows the voter to vote directly on issues and propositions.",
+    "Recall is a form of indirect primary.",
+    "Recall is a form of direct primary.",
+    "Recall is a special election allowing the voters to remove public officials from office before the end of their term."
+   ],
+   "answer": 4,
+   "explanation": "A recall is an election that allows voters the opportunity to remove a public official from office prior to the end of a term.",
+   "source": "AP U.S. Government · Chapter 10 Review, Q3",
+   "topic": "Voting and Elections",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following factors are most likely to affect voter participation? I. age II. health status III. degree of religious participation IV. number of children V. gender",
+   "choices": [
+    "I, II, III, IV, and V",
+    "II, IV, and V only",
+    "I, III, and V only",
+    "I and III only",
+    "II, III, and IV only"
+   ],
+   "answer": 2,
+   "explanation": "Age, degree of religious participation, and gender are characteristics that may determine whether someone is more likely to vote.",
+   "source": "AP U.S. Government · Chapter 10 Review, Q4",
+   "topic": "Voting and Elections",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following primaries is used by the fewest number of states?",
+   "choices": [
+    "runoff primary",
+    "blanket primary",
+    "closed primary",
+    "open primary",
+    "presidential preference primary"
+   ],
+   "answer": 1,
+   "explanation": "The blanket primary is used only in Washington and Alaska. Closed primaries (A), open primaries (B), and presidential preference primaries (D) are used by many states. Runoff primaries (E) occur only when no party candidate receives a majority of the votes.",
+   "source": "AP U.S. Government · Chapter 10 Review, Q5",
+   "topic": "Voting and Elections",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is NOT true concerning the expansion of suffrage in the United States?",
+   "choices": [
+    "Religious qualifications and property ownership requirements were abolished after the Civil War.",
+    "The Nineteenth Amendment eliminated gender disqualifications.",
+    "The Fifteenth Amendment eliminated race disqualifications in voting.",
+    "The Twenty-Sixth Amendment lowered the voting age in federal elections to 18.",
+    "The Voting Rights Act of 1965 eliminated literacy tests."
+   ],
+   "answer": 0,
+   "explanation": "Religious qualifications and property ownership requirements were abolished after 1800. The other answer choices are correct.",
+   "source": "AP U.S. Government · Chapter 10 Review, Q6",
+   "topic": "Voting and Elections",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a false statement?",
+   "choices": [
+    "After the national convention, candidates begin campaigning for the general election.",
+    "The first step in running for president of the United States is to explore the possibility of political and financial support.",
+    "Presidential primaries provide little help for the American voter in determining a party’s political candidate.",
+    "The purpose of a national nominating convention is to select a party’s presidential candidate and write a party platform.",
+    "Most candidates running for president of the United States make formal announcements as to the seeking of their party’s nomination."
+   ],
+   "answer": 2,
+   "explanation": "Presidential primaries are often preference primaries where voters may choose which candidate their party should support at the nominating convention. The other answer choices are correct.",
+   "source": "AP U.S. Government · Chapter 10 Review, Q7",
+   "topic": "Voting and Elections",
+   "topic_n": 1
+  },
+  {
+   "question": "The electoral college, along with the popular vote of the people determines the winner of a presidential election. What majority of the electoral vote is needed in order to be declared the winner?",
+   "choices": [
+    "271",
+    "270",
+    "100",
+    "538",
+    "435"
+   ],
+   "answer": 1,
+   "explanation": "Candidates must win at least 270 electoral votes to win a majority and, therefore, election as president or vice president.",
+   "source": "AP U.S. Government · Chapter 10 Review, Q8",
+   "topic": "Voting and Elections",
+   "topic_n": 1
+  },
+  {
+   "question": "The Federal Election Campaign Act of 1971",
+   "choices": [
+    "restricted the amount of campaign funds that could be spent on a single election",
+    "limited the number of candidates who could run for any one office",
+    "restricted the amount of campaign donations to $1 per person",
+    "restricted the amount of campaign contributions to $400 million for the major political parties",
+    "allowed for soft money contributions"
+   ],
+   "answer": 0,
+   "explanation": "The Federal Election Campaign Act of 1971 limited the amount of money that could be spent in federal election campaigns. The remaining answer choices were not provisions of the FECA.",
+   "source": "AP U.S. Government · Chapter 10 Review, Q9",
+   "topic": "Voting and Elections",
+   "topic_n": 1
+  },
+  {
+   "question": "In 1976, the Supreme Court ruled that spending limits established by the Federal Election Campaign Act were unconstitutional. Which Supreme Court case validated this ruling?",
+   "choices": [
+    "McCulloch v. Maryland",
+    "Gibbons v. Ogden",
+    "Harper v. Virginia State Board of Elections",
+    "Buckley v. Valeo",
+    "U.S. v. Nixon"
+   ],
+   "answer": 3,
+   "explanation": "In Buckley v. Valeo the Supreme Court declared spending limits established by the Federal Election Campaign Act unconstitutional. U.S. v. Nixon (A) declared that President Nixon did not have executive privilege over information in a criminal proceeding. Gibbons v. Ogden (B) expanded the powers of Congress over interstate commerce. McCulloch v. Maryland (D) upheld the Supremacy Clause. Harper v. Virginia State Board of Elections (E) ruled that all poll taxes were unconstitutional.",
+   "source": "AP U.S. Government · Chapter 10 Review, Q10",
+   "topic": "Voting and Elections",
+   "topic_n": 1
+  }
+ ]
+}
